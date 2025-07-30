@@ -1,0 +1,232 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix meta-vocab: <https://artresearch.net/resource/pharos/vocab/meta/> .
+@prefix custom: <https://artresearch.net/custom/> .
+
+# CC0 1.0
+<http://creativecommons.org/publicdomain/zero/1.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://creativecommons.org/publicdomain/zero/1.0/id> ;
+  custom:icon "/assets/images/icons/cc-zero.svg" .
+
+<http://creativecommons.org/publicdomain/zero/1.0/id> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "CC0 1.0" .
+
+# PDM 1.0
+<http://creativecommons.org/publicdomain/mark/1.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://creativecommons.org/publicdomain/mark/1.0/id> ;
+  custom:icon "/assets/images/icons/publicdomain.svg" .
+
+
+<http://creativecommons.org/publicdomain/mark/1.0/id> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "PDM 1.0" .
+
+#
+<http://creativecommons.org/licenses/by-nc/4.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://creativecommons.org/licenses/by-nc/4.0/id>;
+  custom:icon "/assets/images/icons/by-nc.svg" .
+
+
+<http://creativecommons.org/licenses/by-nc/4.0/id> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "CC BY-NC 4.0" .
+
+
+
+# CC BY-SA 4.0
+<http://creativecommons.org/licenses/by-sa/4.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://creativecommons.org/licenses/by-sa/4.0/id> ;
+  custom:icon "/assets/images/icons/by-sa.svg" .
+
+
+<http://creativecommons.org/licenses/by-sa/4.0/id> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "CC BY-SA 4.0" .
+
+
+
+# CC BY-NC-SA 4.0
+<http://creativecommons.org/licenses/by-nc-sa/4.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://creativecommons.org/licenses/by-nc-sa/4.0/id> ;
+  custom:icon "/assets/images/icons/by-nc-sa.svg" .
+
+<http://creativecommons.org/licenses/by-nc-sa/4.0/id> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "CC BY-NC-SA 4.0" .
+
+# CC BY-NC-ND 4.0
+<http://creativecommons.org/licenses/by-nc-nd/4.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://creativecommons.org/licenses/by-nc-nd/4.0/id> ;
+  custom:icon "/assets/images/icons/by-nc-nd.svg" .
+
+<http://creativecommons.org/licenses/by-nc-nd/4.0/id> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "CC BY-NC-ND 4.0" .
+
+
+
+# Copyright Not Evaluated
+# http://rightsstatements.org/page/CNE/1.0/
+<http://rightsstatements.org/vocab/CNE/1.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://rightsstatements.org/vocab/CNE/1.0/id/en>, <http://rightsstatements.org/vocab/CNE/1.0/id/de>, <http://rightsstatements.org/vocab/CNE/1.0/id/it> ;
+  custom:icon "/assets/images/icons/other-notevaluated.svg" .
+
+<http://rightsstatements.org/vocab/CNE/1.0/id/en> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Copyright Not Evaluated"@en .
+
+<http://rightsstatements.org/vocab/CNE/1.0/id/de> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Urheberrechtsschutz nicht bewertet"@de .
+
+<http://rightsstatements.org/vocab/CNE/1.0/id/it> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Copyright non esaminato"@it .
+
+# No Copyright - Contractual Restrictions
+# http://rightsstatements.org/vocab/NoC-CR/1.0/
+<http://rightsstatements.org/vocab/NoC-CR/1.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://rightsstatements.org/vocab/NoC-CR/1.0/id/en>, <http://rightsstatements.org/vocab/NoC-CR/1.0/id/de>, <http://rightsstatements.org/vocab/NoC-CR/1.0/id/it> ;
+  custom:icon "/assets/images/icons/other-notevaluated.svg" .
+
+<http://rightsstatements.org/vocab/NoC-CR/1.0/id/en> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "No Copyright - Contractual Restrictions"@en .
+
+<http://rightsstatements.org/vocab/NoC-CR/1.0/id/de> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Kein Urheberrechtsschutz - Vertragliche Beschränkungen"@de .
+
+<http://rightsstatements.org/vocab/NoC-CR/1.0/id/it> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "No copyright - Restrizioni contrattuali"@it .
+
+# Copyright Undetermined
+<http://rightsstatements.org/vocab/UND/1.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://rightsstatements.org/vocab/UND/1.0/id/en>, <http://rightsstatements.org/vocab/UND/1.0/id/de>, <http://rightsstatements.org/vocab/UND/1.0/id/it> ;
+  custom:icon "/assets/images/icons/other-notevaluated.svg" .
+
+<http://rightsstatements.org/vocab/UND/1.0/id/en> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Copyright Undetermined"@en .
+
+<http://rightsstatements.org/vocab/UND/1.0/id/de> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Urheberrechtsschutz ungewiss"@de .
+
+<http://rightsstatements.org/vocab/UND/1.0/id/it> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Copyright indeterminato"@it .
+
+# In Copyright
+<http://rightsstatements.org/vocab/InC/1.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://rightsstatements.org/vocab/InC/1.0/id/en>, <http://rightsstatements.org/vocab/InC/1.0/id/de>, <http://rightsstatements.org/vocab/InC/1.0/id/it> ;
+  custom:icon "/assets/images/icons/inc.svg" .
+
+<http://rightsstatements.org/vocab/InC/1.0/id/en> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "In Copyright"@en .
+
+<http://rightsstatements.org/vocab/InC/1.0/id/de> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Urheberrechtsschutz"@de .
+
+<http://rightsstatements.org/vocab/InC/1.0/id/it> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "In Copyright"@it .
+
+
+# In Copyright - Educational Use Permitted
+<http://rightsstatements.org/vocab/InC-EDU/1.0/>  a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://rightsstatements.org/vocab/InC-EDU/1.0/id/en>, <http://rightsstatements.org/vocab/InC-EDU/1.0/id/de>, <http://rightsstatements.org/vocab/InC-EDU/1.0/id/it> ;
+  custom:icon "/assets/images/icons/other-notevaluated.svg" .
+
+<http://rightsstatements.org/vocab/InC-EDU/1.0/id/en> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "In Copyright - Educational Use Permitted"@en .
+
+<http://rightsstatements.org/vocab/InC-EDU/1.0/id/de> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Urheberrechtsschutz - Nutzung zu Bildungszwecken erlaubt"@de .
+
+<http://rightsstatements.org/vocab/InC-EDU/1.0/id/it> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "In Copyright - Uso educativo consentito"@it .
+
+
+# Free access – no reuse
+<http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/en/id>, <http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/de/id> ;
+  custom:icon "/assets/images/icons/inc.svg" .
+
+<http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/en/id> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Free access – no reuse"@en .
+
+<http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-fz/en/de> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Rechte vorbehalten – Freier Zugang"@de .
+
+
+# https://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-ez
+<http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-ez/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-ez/en/id>, <http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-ez/de/id> ;
+  custom:icon "/assets/images/icons/inc.svg" .
+
+<http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-ez/en/id> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Restricted access – no reuse"@en .
+
+<http://www.deutsche-digitale-bibliothek.de/content/lizenzen/rv-ez/en/de> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Rechte vorbehalten – Zugang nach Autorisierung"@de .
+
+
+# No Known Copyright
+<http://rightsstatements.org/vocab/NKC/1.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://rightsstatements.org/vocab/NKC/1.0/id/en>, <http://rightsstatements.org/vocab/NKC/1.0/id/de>, <http://rightsstatements.org/vocab/NKC/1.0/id/it> ;
+  custom:icon "/assets/images/icons/other-notevaluated.svg" .
+
+<http://rightsstatements.org/vocab/NKC/1.0/id/en> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "No Known Copyright"@en .
+
+<http://rightsstatements.org/vocab/NKC/1.0/id/de> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Kein Urheberrechtsschutz bekannt"@de .
+
+<http://rightsstatements.org/vocab/NKC/1.0/id/it> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Nessun Copyright conosciuto"@it .
+
+# In Copyright - Rights-holder(s) Unlocatable or Unidentifiable
+<http://rightsstatements.org/vocab/InC-RUU/1.0/> a crm:E55_Type ;
+  crm:P2_has_type meta-vocab:license_type ;
+  crm:P1_is_identified_by <http://rightsstatements.org/vocab/InC-RUU/1.0/id/en>, <http://rightsstatements.org/vocab/InC-RUU/1.0/id/de>, <http://rightsstatements.org/vocab/InC-RUU/1.0/id/it> ;
+  custom:icon "/assets/images/icons/other-notevaluated.svg" .
+
+<http://rightsstatements.org/vocab/InC-RUU/1.0/id/en> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "In Copyright - Rights-holder(s) Unlocatable or Unidentifiable"@en .
+
+<http://rightsstatements.org/vocab/InC-RUU/1.0/id/de> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "Urheberrechtsschutz - Rechteinhaber nicht auffindbar oder identifizierbar"@de .
+
+<http://rightsstatements.org/vocab/InC-RUU/1.0/id/it> a crm:E41_Appellation ;
+    crm:P2_has_type <https://artresearch.net/resource/pharos/vocab/meta/preferred_name> ;
+    crm:P190_has_symbolic_content "In Copyright - Titolari dei diritti non rintracciabili o non identificabili"@it .

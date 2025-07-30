@@ -1,0 +1,16 @@
+packages: 
+  .
+
+
+multi-repl: True
+
+package *
+  optimization: 0
+
+tests: True
+
+constraints:
+  zlib +bundled-c-zlib
+
+verbose: 0
+jobs: $ncpus

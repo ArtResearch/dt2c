@@ -1,0 +1,65 @@
+Counts,value,AAT Label,AAT Facet,exactMatch,broadMatch,URI,Work Sample,Column 1,Column 2,Column 3,Column 4,Column 5,Column 6,Column 7,Column 8,Column 9,Column 10,Column 11,Column 12,Column 13,Column 14,Column 15,Column 16,Column 17
+182688,painting,"paintings (visual works) [en]
+Gemälde [de]
+",Objects Facet,http://vocab.getty.edu/aat/300033618,,https://artresearch.net/resource/frick/type/painting,https://artresearch.net/resource/frick/work/.b10452151,,,,,,,,,,,,,,,,,
+40822,drawing,"drawings (visual works) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300033973,,https://artresearch.net/resource/frick/type/drawing,https://artresearch.net/resource/frick/work/.b15158615,,,,,,,,,,,,,,,,,
+8184,miniature,"miniatures (paintings) [en]
+Miniatur (painting) [de]
+miniatura (pittura) [it]",Objects Facet,http://vocab.getty.edu/aat/300033936,,https://artresearch.net/resource/frick/type/miniature,https://artresearch.net/resource/frick/work/.b13305487,,,,,,,,,,,,,,,,,
+6176,fresco,"frescoes (paintings) [en]
+Freskomalerei (Gemälde) [de]
+affresco (dipinto) [it]",Objects Facet,http://vocab.getty.edu/aat/300177433,,https://artresearch.net/resource/frick/type/fresco,https://artresearch.net/resource/frick/work/.b14765184,,,,,,,,,,,,,,,,,
+5655,sculpture,"sculpture (visual works) [en]
+Skulptur (visuelles Werk) [de]
+scultura [it]",Objects Facet,http://vocab.getty.edu/aat/300047090,,https://artresearch.net/resource/frick/type/sculpture,https://artresearch.net/resource/frick/work/991013624703507141,,,,,,,,,,,,,,,,,
+963,detached fresco,"frescoes (paintings) [en]
+Freskomalerei (Gemälde) [de]
+affresco (dipinto) [it]",Objects Facet,,http://vocab.getty.edu/aat/300177433,https://artresearch.net/resource/frick/type/detached%20fresco,https://artresearch.net/resource/frick/work/.b14755919,,,,,,,,,,,,,,,,,
+477,mural,"mural paintings (visual works) [en]
+Wandmalerei (Gemälde) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300033644,,https://artresearch.net/resource/frick/type/mural,https://artresearch.net/resource/frick/work/.b14928462,,,,,,,,,,,,,,,,,
+395,manuscript,"manuscripts (documents) [en]
+Manuskript (Dokumentengattung) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300028569,,https://artresearch.net/resource/frick/type/manuscript,https://artresearch.net/resource/frick/work/.b9427739,,,,,,,,,,,,,,,,,
+385,mosaic,"mosaics (visual works) [en]
+Mosaik (visuelles Werk) [de]
+mosaico [it]",Objects Facet,http://vocab.getty.edu/aat/300015342,,https://artresearch.net/resource/frick/type/mosaic,https://artresearch.net/resource/frick/work/.b1110661x,,,,,,,,,,,,,,,,,
+222,print,"prints (visual works) [en]
+druckgraphischen Blättern [de]
+",Objects Facet,http://vocab.getty.edu/aat/300041273,,https://artresearch.net/resource/frick/type/print,https://artresearch.net/resource/frick/work/.b10242971,,,,,,,,,,,,,,,,,
+64,pastel,"pastels (visual works) [en]
+Pastell (visuelles Werk) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300076922,,https://artresearch.net/resource/frick/type/pastel,https://artresearch.net/resource/frick/work/.b13420616,,,,,,,,,,,,,,,,,
+26,silhouette,"silhouettes [en]
+Silhouette (visuelles Werk) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300015423,,https://artresearch.net/resource/frick/type/silhouette,https://artresearch.net/resource/frick/work/.b11815917,,,,,,,,,,,,,,,,,
+22,architecture,"architecture (object genre) [en]
+Architektur (Objektgattung) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300263552,,https://artresearch.net/resource/frick/type/architecture,https://artresearch.net/resource/frick/work/.b11266545,,,,,,,,,,,,,,,,,
+21,enamel,"enamel (fused coating) [en]
+Emaille [de]
+",Materials Facet,http://vocab.getty.edu/aat/300014910,,https://artresearch.net/resource/frick/type/enamel,https://artresearch.net/resource/frick/work/.b11222888,,,,,,,,,,,,,,,,,
+16,gouache,"gouaches (paintings) [en]
+Gouache (Aquarell) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300078928,,https://artresearch.net/resource/frick/type/gouache,https://artresearch.net/resource/frick/work/.b13253517,,,,,,,,,,,,,,,,,
+8,detached mosaic,"mosaics (visual works) [en]
+Mosaik (visuelles Werk) [de]
+mosaico [it]",Objects Facet,,http://vocab.getty.edu/aat/300015342,https://artresearch.net/resource/frick/type/detached%20mosaic,https://artresearch.net/resource/frick/work/.b11105276,,,,,,,,,,,,,,,,,
+6,engraving,"engraving (action) [en]
+",Activities Facet,http://vocab.getty.edu/aat/300053829,,https://artresearch.net/resource/frick/type/engraving,https://artresearch.net/resource/frick/work/.b1297108x,,,,,,,,,,,,,,,,,
+3,minature,,,,,https://artresearch.net/resource/frick/type/minature,https://artresearch.net/resource/frick/work/.b11832575,,,,,,,,,,,,,,,,,
+2,stained glass,,,,,https://artresearch.net/resource/frick/type/stained%20glass,https://artresearch.net/resource/frick/work/.b11050512,,,,,,,,,,,,,,,,,
+2,detached sinopia drawing,,,,,https://artresearch.net/resource/frick/type/detached%20sinopia%20drawing,https://artresearch.net/resource/frick/work/.b10193716,,,,,,,,,,,,,,,,,
+2,photograph,,,,,https://artresearch.net/resource/frick/type/photograph,https://artresearch.net/resource/frick/work/.b11233187,,,,,,,,,,,,,,,,,
+1,watercolor,,,,,https://artresearch.net/resource/frick/type/watercolor,https://artresearch.net/resource/frick/work/.b13019727,,,,,,,,,,,,,,,,,
+1,scuplture,,,,,https://artresearch.net/resource/frick/type/scuplture,https://artresearch.net/resource/frick/work/.b11848649,,,,,,,,,,,,,,,,,
+1,pint,,,,,https://artresearch.net/resource/frick/type/pint,https://artresearch.net/resource/frick/work/.b10175234,,,,,,,,,,,,,,,,,
+1,painting.,,,,,https://artresearch.net/resource/frick/type/painting.,https://artresearch.net/resource/frick/work/.b11607117,,,,,,,,,,,,,,,,,
+1,painitng,,,,,https://artresearch.net/resource/frick/type/painitng,https://artresearch.net/resource/frick/work/.b10357397,,,,,,,,,,,,,,,,,
+1,miniautre,,,,,https://artresearch.net/resource/frick/type/miniautre,https://artresearch.net/resource/frick/work/.b11634315,,,,,,,,,,,,,,,,,
+1,miniature.',,,,,https://artresearch.net/resource/frick/type/miniature.%27,https://artresearch.net/resource/frick/work/.b13060065,,,,,,,,,,,,,,,,,
+1,miniatue,,,,,https://artresearch.net/resource/frick/type/miniatue,https://artresearch.net/resource/frick/work/.b13059828,,,,,,,,,,,,,,,,,
+1,fresco.Redentore e Simboli degli Evangelisti,,,,,https://artresearch.net/resource/frick/type/fresco.Redentore%20e%20Simboli%20degli%20Evangelisti,https://artresearch.net/resource/frick/work/.b11084327,,,,,,,,,,,,,,,,,
+1,drawings,,,,,https://artresearch.net/resource/frick/type/drawings,https://artresearch.net/resource/frick/work/.b10762255,,,,,,,,,,,,,,,,,
+1,detatched fresco,,,,,https://artresearch.net/resource/frick/type/detatched%20fresco,https://artresearch.net/resource/frick/work/.b1076303x,,,,,,,,,,,,,,,,,

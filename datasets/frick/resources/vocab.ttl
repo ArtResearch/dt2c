@@ -1,0 +1,53 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix pharos-meta: <https://artresearch.net/resource/pharos/vocab/meta/> .
+@prefix frick-vocab: <https://artresearch.net/resource/frick/vocab/meta/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+<https://artresearch.net/resource/provider/frick> a crm:E74_Group ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026004> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/provider/frick/id> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/provider/frick/id/contact> ;
+    crm:P75_possesses <https://artresearch.net/resource/e31/frick/ownership> .
+
+<https://artresearch.net/resource/provider/frick/id> a crm:E41_Appellation ;
+    crm:P2_has_type pharos-meta:preferred_name ;
+    crm:P190_has_symbolic_content "Frick Art Research Library" .
+
+<https://artresearch.net/resource/provider/frick/id/contact> a crm:E41_Appellation ;
+    crm:P2_has_type pharos-meta:contact-url ;
+    crm:P190_has_symbolic_content "mailto:photoarchive@frick.org" .
+
+<https://artresearch.net/resource/e31/frick> a crm:E31_Document ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026059> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/e31/frick/id> ;
+    crm:P104_is_subject_to <https://artresearch.net/resource/e31/frick/ownership> .
+
+<https://artresearch.net/resource/e31/frick/id> a crm:E41_Appellation ;
+    crm:P2_has_type pharos-meta:preferred_name ;
+    crm:P190_has_symbolic_content "The Frick Collection" .
+
+<https://artresearch.net/resource/e31/frick/ownership> a crm:E30_Right .
+
+
+<https://artresearch.net/resource/frick/vocabulary> a crm:E31_Document ;
+    crm:P106i_forms_part_of <https://artresearch.net/resource/e31/frick> .
+
+<https://artresearch.net/resource/frick/cataloging_activity>
+    a crm:E7_Activity ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054628> ; # cataloging activity
+    crm:P14_carried_out_by <https://artresearch.net/resource/provider/frick> ;
+    crm:P67_refers_to <https://artresearch.net/resource/e31/frick> .
+
+frick-vocab:title crm:P127_has_broader_term pharos-meta:preferred_name .
+frick-vocab:variant_title crm:P127_has_broader_term pharos-meta:alternative_name .
+
+pharos-meta:photograph a crm:E55_Type ;
+  skos:exactMatch <http://vocab.getty.edu/aat/300046300> .
+
+pharos-meta:photograph_negative a crm:E55_Type ;
+  crm:P127_has_broader_term pharos-meta:photograph ;
+  skos:exactMatch <http://vocab.getty.edu/aat/300127173> .
+
+pharos-meta:photographic_print a crm:E55_Type ;
+  crm:P127_has_broader_term pharos-meta:photograph ;
+  skos:exactMatch <https://vocab.getty.edu/aat/300127104> .

@@ -1,0 +1,141 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix pharos-meta: <https://artresearch.net/resource/pharos/vocab/meta/> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+
+# types of artworks
+pharos-meta:built_work a crm:E55_Type ;
+  crm:P1_is_identified_by <https://artresearch.net/resource/pharos/vocab/meta/built_work/name/en> .
+
+<https://artresearch.net/resource/pharos/vocab/meta/built_work/name/en> a crm:E41_Appellation ;
+    crm:P190_has_symbolic_content "architectural object" .
+
+pharos-meta:identifier
+    a crm:E55_Type .
+
+pharos-meta:preferred_identifier
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:identifier .
+
+pharos-meta:name
+    a crm:E55_Type .
+
+pharos-meta:preferred_name
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:name .
+
+pharos-meta:alternative_name
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:name .
+
+pharos-meta:pharos_preferred_name
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:name .
+
+pharos-meta:scope_note
+    a crm:E55_Type .
+
+pharos-meta:object_type
+    a crm:E55_Type .
+
+pharos-meta:production_technique
+    a crm:E55_Type .
+
+pharos-meta:object_material
+    a crm:E55_Type .
+
+pharos-meta:photograph
+    a crm:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300046300> .
+
+pharos-meta:photograph_negative
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:photograph ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300127173> .
+
+pharos-meta:photographic_print
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:photograph ;
+    skos:exactMatch <https://vocab.getty.edu/aat/300127104> .
+
+pharos-meta:digital_photograph
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:photograph ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300417379> .
+
+pharos-meta:digital_image
+    a crm:E55_Type ;
+    skos:exactMatch <http://vocab.getty.edu/aat/300215302> .
+
+pharos-meta:photograph_recto
+    a crm:E55_Type .
+
+pharos-meta:photograph_verso
+    a crm:E55_Type .
+
+pharos-meta:photo_file_id
+    a crm:E55_Type .
+
+pharos-meta:photo_file_dataset
+    a crm:E55_Type .
+
+pharos-meta:photo_file_url
+    a crm:E55_Type .
+
+pharos-meta:record_identifier
+    a crm:E55_Type .
+
+pharos-meta:license_type
+    a crm:E55_Type .
+
+pharos-meta:italian_language
+    a crm:E55_Type , crm:E56_Language .
+
+pharos-meta:english_language
+    a crm:E55_Type , crm:E56_Language .
+
+pharos-meta:german_language
+    a crm:E55_Type , crm:E56_Language .
+
+pharos-meta:catalog_record_url
+    a crm:E55_Type .
+
+pharos-meta:alignment
+    a crm:E55_Type .
+
+pharos-meta:vocab_artresearch_net_alignment
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:alignment .
+
+pharos-meta:vision_artresearch_net_artwork_match
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:alignment .
+
+pharos-meta:spreadsheet_alignment
+    a crm:E55_Type ;
+    crm:P127_has_broader_term pharos-meta:alignment .
+
+# geographical places
+pharos-meta:geographical_entity a crm:E55_Type .
+
+# by country we also often mean various teritories
+# typically this is the highest level of place used in the data
+pharos-meta:country crm:P127_has_broader_term pharos-meta:geographical_entity .
+
+# regions are federal states and other highl level geographical regions
+pharos-meta:region crm:P127_has_broader_term pharos-meta:geographical_entity .
+
+# city can be also municipality, etc.
+pharos-meta:city crm:P127_has_broader_term pharos-meta:geographical_entity .
+
+# gender types
+pharos-meta:gender a crm:E55_Type .
+
+pharos-meta:male a crm:E55_Type ;
+  crm:P2_has_type pharos-meta:gender .
+
+pharos-meta:female a crm:E55_Type ;
+  crm:P2_has_type pharos-meta:gender . 
+
+pharos-meta:subject a crm:E55_Type .
+pharos-meta:iconclass a crm:E55_Type ;
+  crm:P127_has_broader_term pharos-meta:subject .

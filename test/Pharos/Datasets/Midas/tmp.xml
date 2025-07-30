@@ -1,0 +1,558 @@
+<obj xmlns:edp="http://www.stegmannsystems.com/2009/edp"
+  xmlns:edpm="http://www.stegmannsystems.com/2009/edp-meta"
+  xmlns:h1="http://www.startext.de/HiDA/DefService/XMLSchema"
+  xmlns:edpf="http://www.stegmannsystems.com/2009/edp-function"
+  xmlns:bhr="http://www.stegmannsystems.com/2009/bhr" xmlns:ns1="http://www.w3.org/1999/xhtml"
+  edp:version="13" lvl="1" edp:createdBy="alessandra.failla@khi.fi.it"
+  edp:created="2022-02-10T12:38:56Z" edp:updated="2025-03-27T17:55:10Z"
+  edp:updatedBy="scharenberg@khi.fi.it" edp:eddVersion="2.7.0" did="11627469">
+  <a5000>70011006</a5000>
+  <Status>published</Status>
+  <a5202>Giardino Buonaccorsi</a5202>
+  <a5108>Potenza Picena</a5108>
+  <aob30 modifier="Bauleitung">
+    <a3100>Bernasconi, Pietro</a3100>
+    <a3475>Baumeister</a3475>
+    <a3475>Architekt</a3475>
+    <a3000 edp:augmented="kue::70000650">70000650</a3000>
+    <a3105 edp:augmented="kue::70000650">Bernasconi, Pietro da Mendrisio</a3105>
+  </aob30>
+  <aob30 modifier="Mitarbeit">
+    <a3100>Vanvitelli, Luigi</a3100>
+    <a3475>Architekt</a3475>
+    <a3000 edp:augmented="kue::00447824">00447824</a3000>
+    <a31nn edp:augmented="kue::00447824">Luigi Vanvitelli</a31nn>
+    <a30gn edp:augmented="kue::00447824">ulan500010755 &amp; gnd118803921</a30gn>
+  </aob30>
+  <a5060 modifier="Datierung">
+    <a5064>1701/1750</a5064>
+    <a5071 edp:augmented="no:reference">1701</a5071>
+    <a5077 edp:augmented="no:reference">1750</a5077>
+  </a5060>
+  <a5220>Gartenarchitektur</a5220>
+  <a5230>Garten</a5230>
+  <aob26 modifier="Zusammenhang">
+    <a2664>Potenza Picena</a2664>
+    <a2690>Villa</a2690>
+    <a2700>Villa Buonaccorsi</a2700>
+  </aob26>
+  <a8350>Ciuffoni, Lolita und Floriana Menichelli: Il Giardino Buonaccosi di Potenza Picena, in:
+    Boriani, Mauriio (hrsg.): A-Letheia, 7, Giardino e Paesaggio: Conoscenza, Conservazione,
+    Progetto, Firenze 1996, S. 110-113.</a8350>
+  <a8450 modifier="Foto">
+    <a8496>2022.02.10</a8496>
+    <a84fl>629161</a84fl>
+    <a8515>Gärten</a8515>
+    <a8460>KHI</a8460>
+    <a8490>Sigismondi, Roberto</a8490>
+    <a8494>1988</a8494>
+    <a8497>Kauf (Scan)</a8497>
+    <a8470>274.01 Sigismondi</a8470>
+    <a8482>color</a8482>
+    <a854g>tif</a854g>
+    <a854t>Digitalkamera</a854t>
+    <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:21:03Z" edp:originalfilename=""
+      edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+      fle0017780x_p</a8540>
+    <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+    <a8510>Aussicht auf Viale degli Imperatori</a8510>
+    <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+    <a854e>2019</a854e>
+    <a8543c>CC BY-SA</a8543c>
+    <a8494a edp:augmented="no:reference">1988</a8494a>
+    <a8494e edp:augmented="no:reference">1988</a8494e>
+  </a8450>
+  <a8450 modifier="Foto">
+    <a8496>2022.02.10</a8496>
+    <a84fl>629162</a84fl>
+    <a8515>Gärten</a8515>
+    <a8460>KHI</a8460>
+    <a8490>Sigismondi, Roberto</a8490>
+    <a8494>1988</a8494>
+    <a8497>Kauf (Scan)</a8497>
+    <a8470>274.02 Sigismondi</a8470>
+    <a8482>color</a8482>
+    <a854g>tif</a854g>
+    <a854t>Digitalkamera</a854t>
+    <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:25:34Z" edp:originalfilename=""
+      edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+      fle0017781x_p</a8540>
+    <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+    <a8510>Aussicht auf Viale degli Imperatori</a8510>
+    <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+    <a854e>2019</a854e>
+    <a8543c>CC BY-SA</a8543c>
+    <a8494a edp:augmented="no:reference">1988</a8494a>
+    <a8494e edp:augmented="no:reference">1988</a8494e>
+  </a8450>
+  <a8450 modifier="Foto">
+    <a8496>2022.02.10</a8496>
+    <a84fl>629163</a84fl>
+    <a8515>Gärten</a8515>
+    <a8460>KHI</a8460>
+    <a8490>Sigismondi, Roberto</a8490>
+    <a8494>1988</a8494>
+    <a8497>Kauf (Scan)</a8497>
+    <a8470>274.03 Sigismondi</a8470>
+    <a8482>color</a8482>
+    <a854g>tif</a854g>
+    <a854t>Digitalkamera</a854t>
+    <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:32:11Z" edp:originalfilename=""
+      edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+      fle0017782x_p</a8540>
+    <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+    <a8510>Aussicht auf dem Garten</a8510>
+    <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+    <a854e>2019</a854e>
+    <a8543c>CC BY-SA</a8543c>
+    <a8494a edp:augmented="no:reference">1988</a8494a>
+    <a8494e edp:augmented="no:reference">1988</a8494e>
+  </a8450>
+  <a8450 modifier="Foto">
+    <a8496>2022.02.10</a8496>
+    <a84fl>629164</a84fl>
+    <a8515>Gärten</a8515>
+    <a8460>KHI</a8460>
+    <a8490>Sigismondi, Roberto</a8490>
+    <a8494>1988</a8494>
+    <a8497>Kauf (Scan)</a8497>
+    <a8470>274.04 Sigismondi</a8470>
+    <a8482>color</a8482>
+    <a854g>tif</a854g>
+    <a854t>Digitalkamera</a854t>
+    <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:35:00Z" edp:originalfilename=""
+      edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+      fle0017783x_p</a8540>
+    <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+    <a8510>Aussicht auf dem Garten</a8510>
+    <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+    <a854e>2019</a854e>
+    <a8543c>CC BY-SA</a8543c>
+    <a8494a edp:augmented="no:reference">1988</a8494a>
+    <a8494e edp:augmented="no:reference">1988</a8494e>
+  </a8450>
+  <a8450 modifier="Foto">
+    <a8496>2022.02.10</a8496>
+    <a84fl>629165</a84fl>
+    <a8515>Gärten</a8515>
+    <a8460>KHI</a8460>
+    <a8490>Sigismondi, Roberto</a8490>
+    <a8494>1988</a8494>
+    <a8497>Kauf (Scan)</a8497>
+    <a8470>274.05 Sigismondi</a8470>
+    <a8482>color</a8482>
+    <a854g>tif</a854g>
+    <a854t>Digitalkamera</a854t>
+    <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:35:33Z" edp:originalfilename=""
+      edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+      fle0017784x_p</a8540>
+    <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+    <a8510>Aussicht auf dem Garten</a8510>
+    <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+    <a854e>2019</a854e>
+    <a8543c>CC BY-SA</a8543c>
+    <a8494a edp:augmented="no:reference">1988</a8494a>
+    <a8494e edp:augmented="no:reference">1988</a8494e>
+  </a8450>
+  <a8450 modifier="Foto">
+    <a8496>2022.02.10</a8496>
+    <a84fl>629166</a84fl>
+    <a8515>Gärten</a8515>
+    <a8460>KHI</a8460>
+    <a8490>Sigismondi, Roberto</a8490>
+    <a8494>1988</a8494>
+    <a8497>Kauf (Scan)</a8497>
+    <a8470>274.06 Sigismondi</a8470>
+    <a8482>color</a8482>
+    <a854g>tif</a854g>
+    <a854t>Digitalkamera</a854t>
+    <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:36:59Z" edp:originalfilename=""
+      edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+      fle0017785x_p</a8540>
+    <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+    <a8510>Aussicht auf dem Garten</a8510>
+    <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+    <a854e>2019</a854e>
+    <a8543c>CC BY-SA</a8543c>
+    <a8494a edp:augmented="no:reference">1988</a8494a>
+    <a8494e edp:augmented="no:reference">1988</a8494e>
+  </a8450>
+  <a8450 modifier="Foto">
+    <a8496>2022.02.10</a8496>
+    <a84fl>629167</a84fl>
+    <a8515>Gärten</a8515>
+    <a8460>KHI</a8460>
+    <a8490>Sigismondi, Roberto</a8490>
+    <a8494>1988</a8494>
+    <a8497>Kauf (Scan)</a8497>
+    <a8470>274.07 Sigismondi</a8470>
+    <a8482>color</a8482>
+    <a854g>tif</a854g>
+    <a854t>Digitalkamera</a854t>
+    <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:37:22Z" edp:originalfilename=""
+      edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+      fle0017786x_p</a8540>
+    <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+    <a8510>Aussicht auf dem Garten und Gewächshaus</a8510>
+    <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+    <a854e>2019</a854e>
+    <a8543c>CC BY-SA</a8543c>
+    <a8494a edp:augmented="no:reference">1988</a8494a>
+    <a8494e edp:augmented="no:reference">1988</a8494e>
+  </a8450>
+  <a8450 modifier="Foto">
+    <a8496>2022.02.10</a8496>
+    <a84fl>629168</a84fl>
+    <a8515>Gärten</a8515>
+    <a8460>KHI</a8460>
+    <a8490>Sigismondi, Roberto</a8490>
+    <a8494>1988</a8494>
+    <a8497>Kauf (Scan)</a8497>
+    <a8470>274.08 Sigismondi</a8470>
+    <a8482>color</a8482>
+    <a854g>tif</a854g>
+    <a854t>Digitalkamera</a854t>
+    <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:46:50Z" edp:originalfilename=""
+      edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+      fle0017787x_p</a8540>
+    <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+    <a8510>Detail des Gewächshauses</a8510>
+    <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+    <a854e>2019</a854e>
+    <a8543c>CC BY-SA</a8543c>
+    <a8494a edp:augmented="no:reference">1988</a8494a>
+    <a8494e edp:augmented="no:reference">1988</a8494e>
+  </a8450>
+  <a8450 modifier="Foto">
+    <a8496>2022.02.10</a8496>
+    <a84fl>629170</a84fl>
+    <a8515>Gärten</a8515>
+    <a8460>KHI</a8460>
+    <a8490>Sigismondi, Roberto</a8490>
+    <a8494>1988</a8494>
+    <a8497>Kauf (Scan)</a8497>
+    <a8470>274.10 Sigismondi</a8470>
+    <a8482>color</a8482>
+    <a854g>tif</a854g>
+    <a854t>Digitalkamera</a854t>
+    <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:48:30Z" edp:originalfilename=""
+      edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+      fle0017789x_p</a8540>
+    <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+    <a8510>Aussicht auf dem Garten mit Statuen</a8510>
+    <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+    <a854e>2019</a854e>
+    <a8543c>CC BY-SA</a8543c>
+    <a8494a edp:augmented="no:reference">1988</a8494a>
+    <a8494e edp:augmented="no:reference">1988</a8494e>
+  </a8450>
+  <a9902>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a9902>
+  <a9904>Failla</a9904>
+  <obj lvl="2">
+    <a5001>70011007</a5001>
+    <a5200>Nische mit Statue der Göttin Flora</a5200>
+    <a5220>Skulptur</a5220>
+    <a5226>Rundplastik</a5226>
+    <a5230>Statue</a5230>
+    <a5260>Pietra di Vicenza</a5260>
+    <a5500 modifier="96A23">
+      <a50aa edp:augmented="ico::00200761">96 A 23</a50aa>
+      <a5502 edp:augmented="ico::00200761">die Geschichte der Flora</a5502>
+      <a5504 edp:augmented="ico::00200761">Flora &amp; Primavera</a5504>
+      <a50ea edp:augmented="ico::00200761">Klassische Mythologie und Antike Geschichte</a50ea>
+      <a50eb edp:augmented="ico::00200761">römische Götter und Sagen</a50eb>
+      <a50ec edp:augmented="ico::00200761">römische Gottheiten und fremde Gottheiten, die dem
+        klassischen Pantheon zugerechnet werden</a50ec>
+      <a50ed edp:augmented="ico::00200761">weibliche römische Gottheiten</a50ed>
+      <a50ee edp:augmented="ico::00200761">die Geschichte der Flora</a50ee>
+      <a50sa edp:augmented="ico::00200761">Mythologie &amp; antike Geschichte &amp; Geschichte &amp;
+        Klassische Antike &amp; Religion &amp; griechisch &amp; römisch</a50sa>
+      <a50sb edp:augmented="ico::00200761">römisch &amp; Legende &amp; Gott (nicht-christlich)</a50sb>
+      <a50sc edp:augmented="ico::00200761">römische Gottheit &amp; Gott (nicht-christlich)</a50sc>
+      <a50sd edp:augmented="ico::00200761">Gott (nicht-christlich)</a50sd>
+      <a5504_en edp:augmented="ico::00200761">Flora &amp; Primavera</a5504_en>
+    </a5500>
+    <a5530 modifier="0">
+      <a53aa edp:augmented="ico::00000001">0</a53aa>
+      <a5532 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5532>
+      <a5534 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5534>
+      <a53ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a53ea>
+      <a5534_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5534_en>
+    </a5530>
+    <a5540 modifier="0">
+      <a54aa edp:augmented="ico::00000001">0</a54aa>
+      <a5532 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5532>
+      <a5534 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5534>
+      <a54ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a54ea>
+      <a5534_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5534_en>
+    </a5540>
+    <a5560 modifier="0">
+      <a5562 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5562>
+      <a5564 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5564>
+      <a56ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a56ea>
+      <a5664_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5664_en>
+    </a5560>
+    <a5550 modifier="0">
+      <a55aa edp:augmented="ico::00000001">0</a55aa>
+      <a5552 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5552>
+      <a5554 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5554>
+      <a55ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a55ea>
+      <a5554_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5554_en>
+    </a5550>
+    <a5570 modifier="0">
+      <a57aa edp:augmented="ico::00000001">0</a57aa>
+      <a5572 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5572>
+      <a5574 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5574>
+      <a57ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a57ea>
+      <a5574_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5574_en>
+    </a5570>
+    <a5580 modifier="0">
+      <a58aa edp:augmented="ico::00000001">0</a58aa>
+      <a5582 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5582>
+      <a5584 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5584>
+      <a58ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a58ea>
+      <a5584_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5584_en>
+    </a5580>
+    <a5590 modifier="0">
+      <a59aa edp:augmented="ico::00000001">0</a59aa>
+      <a5592 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5592>
+      <a5594 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5594>
+      <a59ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a59ea>
+      <a5594_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5594_en>
+    </a5590>
+    <a8450 modifier="Foto">
+      <a8496>2022.02.10</a8496>
+      <a84fl>629169</a84fl>
+      <a8515>Gärten</a8515>
+      <a8460>KHI</a8460>
+      <a8490>Sigismondi, Roberto</a8490>
+      <a8494>1988</a8494>
+      <a8497>Kauf (Scan)</a8497>
+      <a8470>274.09 Sigismondi</a8470>
+      <a8482>color</a8482>
+      <a854g>tif</a854g>
+      <a854t>Digitalkamera</a854t>
+      <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:47:17Z" edp:originalfilename=""
+        edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+        fle0017788x_p</a8540>
+      <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+      <a8510>Gesamtansicht</a8510>
+      <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+      <a854e>2019</a854e>
+      <a8543c>CC BY-SA</a8543c>
+      <a8494a edp:augmented="no:reference">1988</a8494a>
+      <a8494e edp:augmented="no:reference">1988</a8494e>
+    </a8450>
+  </obj>
+  <obj lvl="2">
+    <a5001>70012177</a5001>
+    <a5220>Skulptur</a5220>
+    <a5226>Rundplastik</a5226>
+    <a5230>Statuengruppe</a5230>
+    <a5500 modifier="41A6411">
+      <a50aa edp:augmented="ico::00061881">41 A 64 11</a50aa>
+      <a5502 edp:augmented="ico::00061881">Zwergenskulpturen, Grylloi (Gartenschmuck)</a5502>
+      <a5504 edp:augmented="ico::00061881">Zwerg &amp; Grylloi</a5504>
+      <a50ea edp:augmented="ico::00061881">Gesellschaft, Zivilisation, Kultur</a50ea>
+      <a50eb edp:augmented="ico::00061881">materielle Aspekte des Alltagslebens</a50eb>
+      <a50ec edp:augmented="ico::00061881">wohnen</a50ec>
+      <a50ed edp:augmented="ico::00061881">Garten</a50ed>
+      <a50ee edp:augmented="ico::00061881">Dekoration, Schmuck eines Gartens</a50ee>
+      <a50ef edp:augmented="ico::00061881">Statuen, Skulpturen in einem Garten</a50ef>
+      <a50eg edp:augmented="ico::00061881">Zwergenskulpturen, Grylloi (Gartenschmuck)</a50eg>
+      <a50sa edp:augmented="ico::00061881">Gesellschaft &amp; Zivilisation &amp; Kultur</a50sa>
+      <a50sb edp:augmented="ico::00061881">Materialität</a50sb>
+      <a50sc edp:augmented="ico::00061881">wohnen</a50sc>
+      <a50sd edp:augmented="ico::00061881">Garten</a50sd>
+      <a50se edp:augmented="ico::00061881">Ornament</a50se>
+      <a50sf edp:augmented="ico::00061881">Statue &amp; Skulptur &amp; Plastik</a50sf>
+      <a5504_en edp:augmented="ico::00061881">dwarf &amp; grylloi</a5504_en>
+    </a5500>
+    <a5530 modifier="0">
+      <a53aa edp:augmented="ico::00000001">0</a53aa>
+      <a5532 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5532>
+      <a5534 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5534>
+      <a53ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a53ea>
+      <a5534_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5534_en>
+    </a5530>
+    <a5540 modifier="0">
+      <a54aa edp:augmented="ico::00000001">0</a54aa>
+      <a5532 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5532>
+      <a5534 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5534>
+      <a54ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a54ea>
+      <a5534_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5534_en>
+    </a5540>
+    <a5560 modifier="0">
+      <a5562 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5562>
+      <a5564 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5564>
+      <a56ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a56ea>
+      <a5664_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5664_en>
+    </a5560>
+    <a5550 modifier="0">
+      <a55aa edp:augmented="ico::00000001">0</a55aa>
+      <a5552 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5552>
+      <a5554 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5554>
+      <a55ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a55ea>
+      <a5554_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5554_en>
+    </a5550>
+    <a5570 modifier="0">
+      <a57aa edp:augmented="ico::00000001">0</a57aa>
+      <a5572 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5572>
+      <a5574 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5574>
+      <a57ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a57ea>
+      <a5574_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5574_en>
+    </a5570>
+    <a5580 modifier="0">
+      <a58aa edp:augmented="ico::00000001">0</a58aa>
+      <a5582 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5582>
+      <a5584 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5584>
+      <a58ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a58ea>
+      <a5584_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5584_en>
+    </a5580>
+    <a5590 modifier="0">
+      <a59aa edp:augmented="ico::00000001">0</a59aa>
+      <a5592 edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a5592>
+      <a5594 edp:augmented="ico::00000001">abstrakte Kunst &amp; ungegenständlich</a5594>
+      <a59ea edp:augmented="ico::00000001">abstrakte, ungegenständliche Kunst</a59ea>
+      <a5594_en edp:augmented="ico::00000001">abstract art &amp; nonfigurative</a5594_en>
+    </a5590>
+    <a8450 modifier="Foto">
+      <a8496>2022.02.10</a8496>
+      <a84fl>629171</a84fl>
+      <a8515>Gärten</a8515>
+      <a8460>KHI</a8460>
+      <a8490>Sigismondi, Roberto</a8490>
+      <a8494>1988</a8494>
+      <a8497>Kauf (Scan)</a8497>
+      <a8470>274.11 Sigismondi</a8470>
+      <a8482>color</a8482>
+      <a854g>tif</a854g>
+      <a854t>Digitalkamera</a854t>
+      <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:54:50Z" edp:originalfilename=""
+        edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+        fle0017790x_p</a8540>
+      <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+      <a8510>Gesamtansicht einer Statue</a8510>
+      <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+      <a854e>2019</a854e>
+      <a8543c>CC BY-SA</a8543c>
+      <a8494a edp:augmented="no:reference">1988</a8494a>
+      <a8494e edp:augmented="no:reference">1988</a8494e>
+    </a8450>
+    <a8450 modifier="Foto">
+      <a8496>2022.02.10</a8496>
+      <a84fl>629172</a84fl>
+      <a8515>Gärten</a8515>
+      <a8460>KHI</a8460>
+      <a8490>Sigismondi, Roberto</a8490>
+      <a8494>1988</a8494>
+      <a8497>Kauf (Scan)</a8497>
+      <a8470>274.12 Sigismondi</a8470>
+      <a8482>color</a8482>
+      <a854g>tif</a854g>
+      <a854t>Digitalkamera</a854t>
+      <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:55:20Z" edp:originalfilename=""
+        edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+        fle0017791x_p</a8540>
+      <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+      <a8510>Gesamtansicht einer Statue</a8510>
+      <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+      <a854e>2019</a854e>
+      <a8543c>CC BY-SA</a8543c>
+      <a8494a edp:augmented="no:reference">1988</a8494a>
+      <a8494e edp:augmented="no:reference">1988</a8494e>
+    </a8450>
+    <a8450 modifier="Foto">
+      <a8496>2022.02.10</a8496>
+      <a84fl>629173</a84fl>
+      <a8515>Gärten</a8515>
+      <a8460>KHI</a8460>
+      <a8490>Sigismondi, Roberto</a8490>
+      <a8494>1988</a8494>
+      <a8497>Kauf (Scan)</a8497>
+      <a8470>274.13 Sigismondi</a8470>
+      <a8482>color</a8482>
+      <a854g>tif</a854g>
+      <a854t>Digitalkamera</a854t>
+      <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:56:13Z" edp:originalfilename=""
+        edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+        fle0017792x_p</a8540>
+      <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+      <a8510>Gesamtansicht einer Statue</a8510>
+      <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+      <a854e>2019</a854e>
+      <a8543c>CC BY-SA</a8543c>
+      <a8494a edp:augmented="no:reference">1988</a8494a>
+      <a8494e edp:augmented="no:reference">1988</a8494e>
+    </a8450>
+    <a8450 modifier="Foto">
+      <a8496>2022.02.10</a8496>
+      <a84fl>629174</a84fl>
+      <a8515>Gärten</a8515>
+      <a8460>KHI</a8460>
+      <a8490>Sigismondi, Roberto</a8490>
+      <a8494>1988</a8494>
+      <a8497>Kauf (Scan)</a8497>
+      <a8470>274.14 Sigismondi</a8470>
+      <a8482>color</a8482>
+      <a854g>tif</a854g>
+      <a854t>Digitalkamera</a854t>
+      <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:57:33Z" edp:originalfilename=""
+        edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+        fle0017793x_p</a8540>
+      <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+      <a8510>Gesamtansicht einer Statue</a8510>
+      <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+      <a854e>2019</a854e>
+      <a8543c>CC BY-SA</a8543c>
+      <a8494a edp:augmented="no:reference">1988</a8494a>
+      <a8494e edp:augmented="no:reference">1988</a8494e>
+    </a8450>
+    <a8450 modifier="Foto">
+      <a8496>2022.02.10</a8496>
+      <a84fl>629175</a84fl>
+      <a8515>Gärten</a8515>
+      <a8460>KHI</a8460>
+      <a8490>Sigismondi, Roberto</a8490>
+      <a8494>1988</a8494>
+      <a8497>Kauf (Scan)</a8497>
+      <a8470>274.15 Sigismondi</a8470>
+      <a8482>color</a8482>
+      <a854g>tif</a854g>
+      <a854t>Digitalkamera</a854t>
+      <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:58:03Z" edp:originalfilename=""
+        edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+        fle0017794x_p</a8540>
+      <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+      <a8510>Gesamtansicht einer Statue</a8510>
+      <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+      <a854e>2019</a854e>
+      <a8543c>CC BY-SA</a8543c>
+      <a8494a edp:augmented="no:reference">1988</a8494a>
+      <a8494e edp:augmented="no:reference">1988</a8494e>
+    </a8450>
+    <a8450 modifier="Foto">
+      <a8496>2022.02.10</a8496>
+      <a84fl>629176</a84fl>
+      <a8515>Gärten</a8515>
+      <a8460>KHI</a8460>
+      <a8490>Sigismondi, Roberto</a8490>
+      <a8494>1988</a8494>
+      <a8497>Kauf (Scan)</a8497>
+      <a8470>274.16 Sigismondi</a8470>
+      <a8482>color</a8482>
+      <a854g>tif</a854g>
+      <a854t>Digitalkamera</a854t>
+      <a8540 edp:checksum="" edp:lastupdate="2022-02-10T13:58:37Z" edp:originalfilename=""
+        edp:originalfilesource="" edp:updateby="alessandra.failla@khi.fi.it" edp:virtualfilename="">
+        fle0017795x_p</a8540>
+      <a8577>Kunsthistorisches Institut in Florenz – Max-Planck-Institut</a8577>
+      <a8510>Gesamtansicht einer Statue</a8510>
+      <a8579>P002677_RS0274_co_POTENZA_PICENA</a8579>
+      <a854e>2019</a854e>
+      <a8543c>CC BY-SA</a8543c>
+      <a8494a edp:augmented="no:reference">1988</a8494a>
+      <a8494e edp:augmented="no:reference">1988</a8494e>
+    </a8450>
+  </obj>
+</obj>

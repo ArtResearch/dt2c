@@ -1,0 +1,39 @@
+count,subject,aat,aat_label,aat_scope_note,iconclass_exact,iconclass_broader,iconclass_label
+13475,portraits,http://vocab.getty.edu/aat/300015637,portraits,,,61B,historical persons (portraits and scenes from the life)
+11463,landscapes (representations),http://vocab.getty.edu/aat/300015636,landscapes (representations),,,25H,landscapes
+1483,equestrians,http://vocab.getty.edu/aat/300188602,equestrians,,46C131,,"riding a horse, ass, or mule; rider, horseman"
+1139,genre,http://vocab.getty.edu/aat/300139140,genre pictures,,,,
+965,decorative wall components,http://vocab.getty.edu/aat/300165509,decorative wall components,,,,
+685,marines (visual works),http://vocab.getty.edu/aat/300235692,marines (visual works),"Creative works that depict scenes having to do with ships, shipbuilding, or harbors. For creative works depicting the ocean or other large body of water where the water itself dominates the scene, use ""seascapes.""",46C2,,traffic on the water
+662,seascapes,http://vocab.getty.edu/aat/300117546,seascapes,,25H23,,sea (seascape)
+289,battles,http://vocab.getty.edu/aat/300185692,battles,Individual instances of armed conflict between two or more groups.,45H3,,battle
+263,nudes,http://vocab.getty.edu/aat/300189568,nudes (representations),,31A,,the (nude) human figure; 'Corpo humano' (Ripa)
+108,military history,http://vocab.getty.edu/aat/300249450,military history,,49K1 : 45,,history and archaeology : warfare; military affairs
+11,literature (humanities),http://vocab.getty.edu/aat/300417585,literature (general genre),"General term for the genre of works, written or oral, that are the result or product of literary activity. Included are written works considered collectively; a body of literary works produced in a particular country or period, or of a particular genre. ",48C9,,literature ~ arts
+5,Abstract,,,,0,,"abstract art, non-representational art"
+5,architecture,,,,48C1,,architecture (as one of the fine arts)
+5,landscapes (environments),http://vocab.getty.edu/aat/300008626,landscapes (environments),,,25H,landscapes
+2,cityscapes,,,,25I1,,"city-scape in general, 'veduta'"
+2,fireplaces,,,,41B21,,"open hearth, fire-place"
+2,horses,,,,,,
+2,religions,,,,,,
+1,Cottage Style,,,,,,
+1,allegory,,,,,,
+1,architectural drawing,,,,,,
+1,caricatures,,,,,,
+1,cliffs,,,,,,
+1,cottages,,,,,,
+1,fantastic art,,,,,,
+1,figures (representations),,,,,,
+1,helmets,,,,,,
+1,horseback riding,,,,,,
+1,interior,,,,,,
+1,male,,,,,,
+1,marshes,,,,,,
+1,mythology,,,,,,
+1,seas,,,,,,
+1,seashores,,,,,,
+1,self-portraits,,,,48B3,,
+1,stages,,,,,,
+1,streams,,,,,,
+1,trees,,,,,,

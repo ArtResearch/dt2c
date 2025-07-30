@@ -1,0 +1,20 @@
+packages: 
+  .
+  ../3rd-party/hexml 
+
+
+multi-repl: True
+
+package *
+  optimization: 2
+
+package hexml
+  ghc-options: -optc-march=native -optc-mtune=native -optc-O3
+
+tests: False
+
+constraints:
+  zlib +bundled-c-zlib
+
+verbose: 0
+jobs: $ncpus

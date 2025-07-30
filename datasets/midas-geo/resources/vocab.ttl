@@ -1,0 +1,8 @@
+@base <https://artresearch.net/resource/midas/> .
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix aat: <http://vocab.getty.edu/aat/> .
+@prefix custom: <https://artresearch.net/custom/> .
+@prefix pharos-meta: <https://artresearch.net/resource/pharos/vocab/meta/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix midas-vocab: <https://artresearch.net/resource/midas/vocab/meta/> .

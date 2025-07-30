@@ -1,0 +1,161 @@
+<obj xmlns:edp="http://www.stegmannsystems.com/2009/edp" edp:version="5"
+  edp:updated="2024-12-16T07:40:35Z" edp:updatedBy="edp@platform" edp:created="2023-01-29T17:49:07Z"
+  edp:createdBy="unknown" lvl="1" did="69016850">
+  <a5000>20026634</a5000>
+  <labelId>Nördlicher Eckpfeiler</labelId>
+  <id edp:ns="http://id.bildindex.de/thing" edp:curie="bx-thing:0001195182"
+    edp:label="Nördlicher Eckpfeiler">http://id.bildindex.de/thing/0001195182</id>
+  <Status>published</Status>
+  <Redaktionsstatus>published</Redaktionsstatus>
+  <Erfassungsstatus>finished</Erfassungsstatus>
+  <webResource>https://www.bildindex.de/document/obj20026634</webResource>
+  <a9920>2017.09.04</a9920>
+  <aob26 modifier="Standort">Standort<a2606>20095289</a2606>
+     <a26gn>gnd4100477-2</a26gn>
+     <a2664>
+    Marburg</a2664>
+     <a2660>Elisabethstraße &amp; Deutschhausstraße</a2660>
+     <a2690>Kirche</a2690>
+     <a2694>
+    evangelisch</a2694>
+     <a2700>Elisabethkirche</a2700>
+     <a2730>Ecke nördliches Seitenschiff/Nordkonche</a2730>
+  <a26na
+      edp:augmented="geo::00071316">00071316</a26na><a26nr edp:augmented="geo::00071316">
+      <a20gn>tgn7012330 &amp; gnd4037446-4</a20gn>
+    </a26nr><a265a edp:augmented="geo::00071316">Marburg
+    an der Lahn</a265a><a266a edp:augmented="geo::00071316">Marburg-Biedenkopf, Kreis</a266a><a267a
+      edp:augmented="geo::00071316">Kassel, Regierungsbezirk</a267a><a269a
+      edp:augmented="geo::00071316">Hessen</a269a><a263a edp:augmented="geo::00071316">Deutschland</a263a></aob26>
+  <a5060 modifier="Datierung">Datierung<a5064>1241/1243</a5064>
+  <a5071 edp:augmented="no:reference">
+    1241</a5071><a5077 edp:augmented="no:reference">1243</a5077></a5060>
+  <a5200>Nördlicher Eckpfeiler</a5200>
+  <a5220 modifier="Bauskulptur">Bauskulptur<a520s edp:augmented="the::48846100">48846100</a520s><a520nr
+      edp:augmented="the::48846100">
+      <a010gn>aat300379328 (exactMatch)</a010gn>
+      <a010gn>gnd4004913-9 (exactMatch)</a010gn>
+    </a520nr><a520m edp:augmented="the::48846100">
+    000\Objektart|0300\Plastik|0310\Bauskulptur</a520m></a5220>
+  <a5230 modifier="Eckpfeiler">Eckpfeiler<a523s edp:augmented="the::49637400">49637400</a523s><a523nr
+      edp:augmented="the::49637400">
+      <a010gn>aat300264605 (broadMatch)</a010gn>
+      <a010gn>gnd4174014-2 (broadMatch)</a010gn>
+    </a523nr><a523m edp:augmented="the::49637400">
+    000\Objektart|0100\Architektur</a523m></a5230>
+  <a5260 modifier="Sandstein">Sandstein<a526s edp:augmented="the::47350700">47350700</a526s><a526nr
+      edp:augmented="the::47350700">
+      <a010gn>aat300011376 (exactMatch)</a010gn>
+      <a010gn>part00534 (exactMatch)</a010gn>
+    </a526nr></a5260>
+  <a9990>Hinter den vermauerten Fenstern der zwischen Langhaus und Nordkonche liegende Treppenturm.</a9990>
+  <a8450 modifier="Foto" did="69016851" lvl="2">Foto<a8470>13.801</a8470>
+     <a8460>Foto Marburg</a8460>
+     <a8490>
+    unbekannt</a8490>
+     <a8494>1914/1915</a8494>
+     <a8482>s/w</a8482>
+     <a8500>Innenaufnahme</a8500>
+     <asr01>
+    Deutschland</asr01>
+     <asr02>Marburg</asr02>
+     <asr03>Sakralbau</asr03>
+     <asr04>Elisabethkirche</asr04>
+     <asr05>
+    Inneres</asr05>
+     <asr06>Bauschmuck</asr06>
+     <asr07>Pfeiler und Dienste: Basen und Kapitelle</asr07>
+     <a8555>
+    mi02022f09</a8555>
+     <asr00>09185320</asr00>
+  <a8494a edp:augmented="no:reference">1914</a8494a><a8494e
+      edp:augmented="no:reference">1915</a8494e></a8450>
+  <a9902>Foto Marburg</a9902>
+  <obj lvl="2" did="69016852">
+    <labelId>Nördlicher Eckpfeiler/Kapitellzone</labelId>
+    <id edp:ns="http://id.bildindex.de/thing" edp:curie="bx-thing:0001195181"
+      edp:label="Nördlicher Eckpfeiler/Kapitellzone">http://id.bildindex.de/thing/0001195181</id>
+    <a5001>20026645</a5001>
+    <a9920>2017.09.04</a9920>
+    <aob26 modifier="Standort">Standort<a2606>20095289</a2606>
+        <a26gn>gnd4100477-2</a26gn>
+        <a2664>
+      Marburg</a2664>
+        <a2660>Elisabethstraße &amp; Deutschhausstraße</a2660>
+        <a2690>Kirche</a2690>
+        <a2694>
+      evangelisch</a2694>
+        <a2700>Elisabethkirche</a2700>
+        <a2730>Ecke nördliches
+      Seitenschiff/Nordkonche</a2730>
+     <a26na edp:augmented="geo::00071316">00071316</a26na><a26nr
+        edp:augmented="geo::00071316">
+        <a20gn>tgn7012330 &amp; gnd4037446-4</a20gn>
+      </a26nr><a265a
+        edp:augmented="geo::00071316">Marburg an der Lahn</a265a><a266a
+        edp:augmented="geo::00071316">Marburg-Biedenkopf, Kreis</a266a><a267a
+        edp:augmented="geo::00071316">Kassel, Regierungsbezirk</a267a><a269a
+        edp:augmented="geo::00071316">Hessen</a269a><a263a edp:augmented="geo::00071316">Deutschland</a263a></aob26>
+    <a5060 modifier="Datierung">Datierung<a5064>1241/1243</a5064>
+     <a5071 edp:augmented="no:reference">
+      1241</a5071><a5077 edp:augmented="no:reference">1243</a5077></a5060>
+    <a5220 modifier="Bauskulptur">Bauskulptur<a520s edp:augmented="the::48846100">48846100</a520s><a520nr
+        edp:augmented="the::48846100">
+        <a010gn>aat300379328 (exactMatch)</a010gn>
+        <a010gn>gnd4004913-9 (exactMatch)</a010gn>
+      </a520nr><a520m
+        edp:augmented="the::48846100">000\Objektart|0300\Plastik|0310\Bauskulptur</a520m></a5220>
+    <a5230 modifier="Kapitellzone">Kapitellzone<a523s edp:augmented="the::49616100">49616100</a523s><a523nr
+        edp:augmented="the::49616100">
+        <a010gn>aat300001662 (broadMatch)</a010gn>
+        <a010gn>part00752 (broadMatch)</a010gn>
+        <a010gn>gnd4029595-3 (broadMatch)</a010gn>
+      </a523nr><a523m
+        edp:augmented="the::49616100">000\Objektart|0300\Plastik|0310\Bauskulptur|0311\Kapitelle</a523m></a5230>
+    <a5260 modifier="Sandstein">Sandstein<a526s edp:augmented="the::47350700">47350700</a526s><a526nr
+        edp:augmented="the::47350700">
+        <a010gn>aat300011376 (exactMatch)</a010gn>
+        <a010gn>part00534 (exactMatch)</a010gn>
+      </a526nr></a5260>
+    <a5500 modifier="48A983">48A983<a550gn edp:curie="ico:48A983" edp:ns="http://iconclass.org/"
+        edp:label="48A983">http://iconclass.org/48A983</a550gn>
+     <a50aa edp:augmented="ico::00099611">48
+      A 98 3</a50aa><a5502 edp:augmented="ico::00099611">Ornamente, die von pflanzlichen Formen
+      abgeleitet sind</a5502><a5504 edp:augmented="ico::00099611">Pflanze</a5504><a50ea
+        edp:augmented="ico::00099611">Gesellschaft, Zivilisation, Kultur</a50ea><a50eb
+        edp:augmented="ico::00099611">Kunst</a50eb><a50ec edp:augmented="ico::00099611">Kunst und
+      Öffentlichkeit; Stile und Ornamente</a50ec><a50ed edp:augmented="ico::00099611">stilistische
+      und formale Kriterien für die Kunst</a50ed><a50ee edp:augmented="ico::00099611">Ornamente in
+      der bildenden Kunst; naturalistisch</a50ee><a50ef edp:augmented="ico::00099611">Ornamente, die
+      von pflanzlichen Formen abgeleitet sind</a50ef><a50sa edp:augmented="ico::00099611">Gesellschaft
+      &amp; Zivilisation &amp; Kultur</a50sa><a50sb edp:augmented="ico::00099611">Kunst</a50sb><a50sc
+        edp:augmented="ico::00099611">Öffentlichkeit &amp; öffentlich &amp; Kunst</a50sc><a50sd
+        edp:augmented="ico::00099611">Stil &amp; Gestalt &amp; Kunst</a50sd><a50se
+        edp:augmented="ico::00099611">Ornament &amp; naturalistisch</a50se></a5500>
+    <a5930 modifier="Kapitell">Kapitell<a5932>Knospenkapitell</a5932>
+    </a5930>
+    <a8450 modifier="Foto" did="69016853" lvl="3">Foto<a8470>1.102.387</a8470>
+        <a8460>Foto Marburg</a8460>
+        <a8490>
+      unbekannt</a8490>
+        <a8494>um 1920/1939?</a8494>
+        <a8482>s/w</a8482>
+        <a8500>Innenaufnahme</a8500>
+        <a85fm>Archiv
+      Dr. Franz Stoedtner</a85fm>
+        <asr01>Deutschland</asr01>
+        <asr02>Marburg</asr02>
+        <asr03>Sakralbau</asr03>
+        <asr04>
+      Elisabethkirche</asr04>
+        <asr05>Inneres</asr05>
+        <asr06>Rundgang</asr06>
+        <a8555>mi07132b07</a8555>
+        <asr00>
+      09183210</asr00>
+        <a8543c>http://creativecommons.org/licenses/by-sa/4.0/</a8543c>
+     <a8494a
+        edp:augmented="no:reference">1915</a8494a><a8494e edp:augmented="no:reference">1939</a8494e></a8450>
+    <a9902>Foto Marburg</a9902>
+  </obj>
+</obj>

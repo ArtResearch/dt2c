@@ -1,0 +1,2 @@
+@base <https://artresearch.net/resource/frick/> .
+@prefix frick-vocab: <https://artresearch.net/resource/frick/vocab/meta/> .

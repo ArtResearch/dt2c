@@ -1,0 +1,890 @@
+count,country,region,district,city,village,tgn_or_wiki_label,label_en,label_it,label_de,label_fr,type,scope_note,wikidata_description,tgn_uri,wikidata_uri
+174,Regno Unito,,,Londra,Richmond,Richmond,Richmond,,,,inhabited places,Sight of uprising during reign of Elizabeth I (1558-1603).,,http://vocab.getty.edu/tgn/7012405,
+54,Italia,Toscana,Siena,Asciano,Chiusure,,,,,,,,,,
+50,Stati Uniti d'America,New York,,New York (NY),Brooklyn,Brooklyn,,,,,inhabited places,,,http://vocab.getty.edu/tgn/2068222,
+41,Italia,Emilia Romagna,Ferrara,Codigoro,Pomposa,,,,,,,,,,
+37,Italia,Toscana,Firenze,Firenze,Galluzzo,Galluzzo,,,,,rioni,,,http://vocab.getty.edu/tgn/7006124,
+36,Italia,Lazio,Frosinone,Cassino,Montecassino,"Montecassino, Abbazia di",,,,,abbeys,"Abbey founded by St. Benedict of Norcia, who died there. It was sacked by Lombards in 589, destroyed by Saracens in 884, and damaged by an earthquake in 1349. The monastery was rebuilt in the early 1500s, and the church was rebuilt and completed by 1727. It suffered more damage at the hands of the French in 1798, but was restored once again by Pope Pius VII. In 1806, it was secularized by Joseph Bonaparte, but nine years later, it was re-established. The abbey was reduced to ruins by Allied bombing in 1944, but has since been completely restored to its appearance after being rebuilt in 1727.",abbey,http://vocab.getty.edu/tgn/7006732,http://www.wikidata.org/entity/Q334051
+27,Regno Unito,Gloucestershire,,Gloucester,Highnam,Highnam,,,,,inhabited places,A Cromwellian manor house is here.,,http://vocab.getty.edu/tgn/4005026,
+26,Italia,Piemonte,Verbano-Cusio-Ossola,Stresa,Isola Bella,,,,,,,,,,
+26,Italia,Umbria,Perugia,Trevi,Pietrarossa,,,,,,,,,,
+25,Italia,Umbria,Terni,Narni,Schifanoia,Schifanoia,,,,,,,"Frazione (urban district) of Narni, Province Terni, in the Region of Umbria",,http://www.wikidata.org/entity/Q3952096
+22,Italia,Toscana,Firenze,Fiesole,Vincigliata,Vincigliata,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18487555
+22,Italia,Toscana,Firenze,Scandicci,San Martino alla Palma,San Martino alla Palma,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18487356
+21,Italia,Umbria,Terni,Orvieto,Torre San Severo,,,,,,,,,,
+20,Italia,Toscana,Firenze,Reggello,Vallombrosa,,,,,,,,,,
+19,Italia,Emilia Romagna,Bologna,Minerbio,San Martino in Soverzano,San Martino in Soverzano,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18438674
+19,Italia,Lazio,Rieti,Torri in Sabina,Vescovio,,,,,,,,,,
+19,Italia,Lombardia,Milano,Bollate,Castellazzo di Bollate,Castellazzo di Bollate,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q3662256
+19,Italia,Veneto,Venezia,Venezia,Murano,Murano,Murano,,,,suburbs,"North suburb of Venice on 5 small islands; noted for basilica of SS. Maria e Donato (12th century), church of San Pietro Martire, and for the production of Venetian glass since the end of the 13th century.",,http://vocab.getty.edu/tgn/7003021,
+18,Italia,Lazio,Roma,Palombara Sabina,Stazzano,,,,,,,,,,
+18,Italia,Toscana,Arezzo,Chiusi della Verna,La Verna,,,,,,,,,,
+18,Italia,Toscana,Firenze,Firenze,Settignano,Settignano,,,,,rioni,,"human settlement in Florence, Tuscany, Italy",http://vocab.getty.edu/tgn/7006128,http://www.wikidata.org/entity/Q942605
+18,Italia,Veneto,Venezia,Venezia,Torcello,Torcello,,,,,,,"Island of the Venetian Lagoon, Italy",,http://www.wikidata.org/entity/Q52441
+15,Italia,Abruzzi,Teramo,Castel Castagna,Ronzano,,,,,,,,,,
+15,Italia,Toscana,Firenze,Tavarnelle Val di Pesa,Badia a Passignano,,,,,,,,,,
+14,Italia,Toscana,Firenze,Tavarnelle Val di Pesa,Morrocco,,,,,,,,,,
+13,Italia,Abruzzi,L'Aquila,Caporciano,Bominaco,,,,,,,,,,
+13,Italia,Lombardia,Brescia,Calvagese della Riviera,Carzago Riviera,Carzago Riviera,,,,,,,"settlement in Calvagese della Riviera, Italy",,http://www.wikidata.org/entity/Q3661025
+13,Italia,Marche,Pesaro e Urbino,Pesaro,Ginestreto,Ginestreto,,,,,,,"Human settlement in Pesaro, Italy",,http://www.wikidata.org/entity/Q18498458
+13,Italia,Umbria,Perugia,Norcia,Campi,Campi,,,,,,,"human settlement in Norcia, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q3651969
+13,Italia,Veneto,Venezia,Mirano,Zianigo,,,,,,,,,,
+12,Italia,Lazio,Rieti,Fara in Sabina,Farfa,,,,,,,,,,
+12,Italia,Umbria,Perugia,Tuoro sul Trasimeno,Isola Maggiore,,,,,,,,,,
+11,Italia,Toscana,Prato,Carmignano,Artimino,Artimino,,,,,,,"human settlement in Carmignano, Province of Prato, Tuscany, Italy",,http://www.wikidata.org/entity/Q3624429
+11,Italia,Toscana,Prato,Vernio,Montepiano,,,,,,,,,,
+11,Italia,Toscana,Siena,Siena,Lecceto Eremo,,,,,,,,,,
+11,Italia,Umbria,Perugia,Foligno,Volperino,,,,,,,,,,
+11,Italia,Umbria,Perugia,Perugia,Sant'Egidio,Sant'Egidio,,,,,,,,,http://www.wikidata.org/entity/Q18493942
+10,Italia,Abruzzi,L'Aquila,Sulmona,Badia,Badia,,,,,,,"frazione of Sulmona, Italy",,http://www.wikidata.org/entity/Q18426390
+10,Italia,Emilia Romagna,Parma,Traversetolo,Mamiano,,,,,,,,,,
+10,Italia,Piemonte,Torino,Buttigliera Alta,Sant'Antonio di Ranverso,Sant'Antonio di Ranverso,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18444973
+10,Italia,Toscana,Siena,Montalcino,Badia Ardenga,,,,,,,,,,
+10,Stati Uniti d'America,California,,Beverly Hills (CA),Greenacres,Greenacres,,,,,inhabited places,,,http://vocab.getty.edu/tgn/2011619,
+9,Italia,Toscana,Firenze,Fiesole,San Domenico,San Domenico,,,,,,,"village in Fiesole, in the province of Florence, Italy",,http://www.wikidata.org/entity/Q2789382
+9,Italia,Toscana,Grosseto,Civitella Paganico,Paganico,,,,,,,,,,
+9,Italia,Umbria,Perugia,Cannara,Collemancio,,,,,,,,,,
+9,Italia,Umbria,Perugia,Montefalco,San Fortunato,San Fortunato,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18493783
+9,Italia,Umbria,Perugia,Sant'Anatolia di Narco,Gavelli,,,,,,,,,,
+9,Italia,Umbria,Perugia,Spoleto,Eggi,,,,,,,,,,
+9,Italia,Umbria,Perugia,Spoleto,San Giacomo,,,,,,,,,,
+9,Italia,Veneto,Treviso,Asolo,Pradazzi,,,,,,,,,,
+8,Germania,,,Meiningen,Schloss Elisabethenburg,Schloss Elisabethenburg,,,,,,,"castle in city of Meiningen, Germany",,http://www.wikidata.org/entity/Q2240814
+8,Italia,Emilia Romagna,Modena,Sestola,Roncoscaglia,Roncoscaglia,,,,,,,"frazione in Sestola, Italy",,http://www.wikidata.org/entity/Q18441599
+8,Italia,Lombardia,Brescia,Borgo San Giacomo,Padernello,,,,,,,,,,
+8,Italia,Umbria,Perugia,Perugia,Montelabate,,,,,,,,,,
+8,Italia,Umbria,Perugia,Sant'Anatolia di Narco,Caso,,,,,,,,,,
+7,Italia,Marche,Macerata,Camerino,Colle Altino,,,,,,,,,,
+7,Italia,Toscana,Firenze,Bagno a Ripoli,Vicchio di Rimaggio,Vicchio di Rimaggio,,,,,,,"Human settlement in Bagno a Ripoli, Italy",,http://www.wikidata.org/entity/Q116821139
+7,Italia,Toscana,Firenze,Bagno a Ripoli,Villamagna,Villamagna,,,,,,,"human settlement in Bagno a Ripoli, Metropolitan City of Florence, Tuscany, Italy",,http://www.wikidata.org/entity/Q18487549
+7,Italia,Toscana,Firenze,Campi Bisenzio,San Donnino,,,,,,,,,,
+7,Italia,Toscana,Pisa,Pisa,San Piero a Grado,San Piero a Grado,,,,,,,"human settlement in Pisa, Province of Pisa, Tuscany, Italy",,http://www.wikidata.org/entity/Q3947791
+7,Italia,Umbria,Perugia,Assisi,Rivotorto,,,,,,,,,,
+7,Italia,Umbria,Perugia,Cerreto di Spoleto,Borgo Cerreto,,,,,,,,,,
+6,Italia,Abruzzi,L'Aquila,L'Aquila,Filetto,Filetto,,,,,,,"frazione of L'Aquila, Italy",,http://www.wikidata.org/entity/Q18426728
+6,Italia,Emilia Romagna,Bologna,Grizzana Morandi,Campolo,Campolo,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7045712,
+6,Italia,Lazio,Viterbo,Capodimonte,Isola Bisentina,,,,,,,,,,
+6,Italia,Liguria,Imperia,San Remo,Coldirodi,,,,,,,,,,
+6,Italia,Lombardia,Milano,Briosco,Peregallo,,,,,,,,,,
+6,Italia,Piemonte,Novara,Orta San Giulio,Isola San Giulio,,,,,,,,,,
+6,Italia,Umbria,Perugia,Preci,Piedivalle,Piedivalle,,,,,,,"human settlement in Preci, Italy",,http://www.wikidata.org/entity/Q3902756
+6,Italia,Veneto,Treviso,Susegana,Collalto,Collalto,,,,,,,"human settlement in Susegana, Province of Treviso, Veneto, Italy",,http://www.wikidata.org/entity/Q3682684
+6,Russia,,,Lomonosov,Oranienbaum,Lomonosov,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7010188,
+5,Italia,Campania,Caserta,Caserta,San Leucio,,,,,,,,,,
+5,Italia,Emilia Romagna,Bologna,Borgo Tossignano,Riviera,,,,,,,,,,
+5,Italia,Marche,Fermo,Monte Vidon Combatte,Collina,,,,,,,,,,
+5,Italia,Toscana,Firenze,Castelfiorentino,Cambiano,,,,,,,,,,
+5,Italia,Toscana,Firenze,Firenze,Peretola,Perétola,,,,,rioni,,,http://vocab.getty.edu/tgn/5002909,
+5,Italia,Toscana,Firenze,Lastra a Signa,Malmantile,,,,,,,,,,
+5,Italia,Toscana,Firenze,Sesto Fiorentino,Cercina,,,,,,,,,,
+5,Italia,Toscana,Firenze,Tavarnelle Val di Pesa,San Donato in Poggio,,,,,,,,,,
+5,Italia,Toscana,Lucca,Capannori,Segromigno in Monte,,,,,,,,,,
+5,Italia,Umbria,Perugia,Assisi,Rocca Sant'Angelo,,,,,,,,,,
+5,Italia,Umbria,Perugia,Città di Castello,Morra,Morra,,,,,,,Italian village,,http://www.wikidata.org/entity/Q3863178
+5,Italia,Umbria,Perugia,Foligno,Rasiglia,,,,,,,,,,
+5,Italia,Umbria,Perugia,Sellano,Montesanto,,,,,,,,,,
+5,Italia,Umbria,Terni,Avigliano Umbro,Toscolano,Toscolano,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7038169,
+5,Italia,Umbria,Terni,Terni,Cesi,Cesi,,,,,,,"human settlement in Terni, Province of Terni, Umbria, Italy",,http://www.wikidata.org/entity/Q2027814
+5,Italia,Veneto,Padova,Battaglia Terme,Catajo,,,,,,,,,,
+5,Italia,Veneto,Vicenza,Velo d'Astico,San Giorgio,,,,,,,,,,
+5,Regno Unito,,,Leeds,Harewood,Harewood,Harewood,,,,inhabited places,"There are ruins of a 12th-century castle here. Also Harewood House, a magnificent 18th-century home with grounds by Capability Brown.",,http://vocab.getty.edu/tgn/4004816,
+5,Regno Unito,West Yorkshire,,Wakefield,Bretton Hall,,,,,,,,,,
+5,Slovenia,,,Skofja Loka,Stara Loka,Stara Loka,,,,,,,"part of the town of Škofja Loka, Slovenia",,http://www.wikidata.org/entity/Q2746113
+4,Italia,Abruzzi,L'Aquila,Massa d'Albe,Albe,,,,,,,,,,
+4,Italia,Friuli Venezia Giulia,Pordenone,San Giorgio della Richinvelda,Provesano,,,,,,,,,,
+4,Italia,Lazio,Rieti,Montebuono,Fianello,Fianello,,,,,,,"human settlement in Italy, hamlet of Montebuono",,http://www.wikidata.org/entity/Q18454107
+4,Italia,Lombardia,Como,Lanzo d'Intelvi,Scaria,,,,,,,,,,
+4,Italia,Marche,Ancona,Fabriano,Cancelli,,,,,,,,,,
+4,Italia,Marche,Pesaro e Urbino,Cagli,Monte Martello,,,,,,,,,,
+4,Italia,Marche,Pesaro e Urbino,Pesaro,Santa Maria dell'Arzilla,Santa Maria dell'Arzilla,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18498881
+4,Italia,Toscana,Firenze,Fiesole,Quintole,,,,,,,,,,
+4,Italia,Toscana,Firenze,Firenze,Badia a Ripoli,Badia a Ripoli,,,,,rioni,,,http://vocab.getty.edu/tgn/4001112,
+4,Italia,Toscana,Firenze,Montespertoli,Monte Albino,,,,,,,,,,
+4,Italia,Toscana,Firenze,Pontassieve,Monteloro,,,,,,,,,,
+4,Italia,Toscana,Firenze,Pontassieve,Santa Brigida,,,,,,,,,,
+4,Italia,Toscana,Firenze,Vaglia,Pratolino,,,,,,,,,,
+4,Italia,Toscana,Grosseto,Grosseto,Montepescali,Montepescali,,,,,inhabited places,,settlement in the Italian municipality of Grosseto,http://vocab.getty.edu/tgn/1045544,http://www.wikidata.org/entity/Q1115311
+4,Italia,Toscana,Massa - Carrara,Carrara,Avenza,Avenza,,,,,,,"human settlement in Carrara, Province of Massa and Carrara, Tuscany, Italy",,http://www.wikidata.org/entity/Q1917286
+4,Italia,Toscana,Siena,Chiusdino,Montesiepi,,,,,,,,,,
+4,Italia,Toscana,Siena,Pienza,Monticchiello,Monticchiello,,,,,,,locality of the town of Pienza,,http://www.wikidata.org/entity/Q15720771
+4,Italia,Toscana,Siena,San Giovanni d'Asso,Montisi,,,,,,,,,,
+4,Italia,Umbria,Perugia,Foligno,Fiamenga,,,,,,,,,,
+4,Italia,Umbria,Perugia,Foligno,Pale,,,,,,,,,,
+4,Italia,Umbria,Perugia,Perugia,Civitella Benazzone,Civitella Benazzone,,,,,,,"human settlement in Perugia, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q3678802
+4,Italia,Umbria,Perugia,Perugia,Monte Petriolo,Monte Petriolo,,,,,,,hamlet of Perugia,,http://www.wikidata.org/entity/Q2697417
+4,Italia,Umbria,Perugia,Perugia,San Martino In Campo,San Martino in Campo,,,,,,,"human settlement in Perugia, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q3947654
+4,Italia,Umbria,Perugia,Sant'Anatolia di Narco,Grotti,,,,,,,,,,
+4,Italia,Veneto,Treviso,Mogliano Veneto,Mazzocco,Mazzocco,,,,,,,"human settlement in Mogliano Veneto, Province of Treviso, Veneto, Italy",,http://www.wikidata.org/entity/Q2674151
+4,Italia,Veneto,Venezia,Venezia,Mestre,Mestre,,,,,inhabited places,"Northwestern suburb of Venice, on the mainland shore; existed in Roman times; site of important fortress 12th cen.; under Venetian domination 1337; incorporated into commune of Venice 1926; includes the industrial districts of Marghera & Porto Marghera.",borough in Venice,http://vocab.getty.edu/tgn/1045359,http://www.wikidata.org/entity/Q541405
+4,Regno Unito,Oxfordshire,,,Churchill,Churchill,Churchill,,,,inhabited places,Birthplace of Warren Hastings (1731-1818).,,http://vocab.getty.edu/tgn/7031261,
+4,Slovenia,,,,Velesovo,Velesovo,,,,,,,"place in Upper Carniola, Slovenia",,http://www.wikidata.org/entity/Q2796069
+3,Italia,Abruzzi,L'Aquila,Avezzano,Cese,Cese,,,,,,,"frazione of Avezzano (AQ), Italy",,http://www.wikidata.org/entity/Q3665599
+3,Italia,Abruzzi,L'Aquila,L'Aquila,Coppito,Coppito,,,,,,,"frazione of L'Aquila, Italy",,http://www.wikidata.org/entity/Q18426700
+3,Italia,Abruzzi,L'Aquila,L'Aquila,Paganica,Paganica,,,,,,,"frazione of L'Aquila, Italy",,http://www.wikidata.org/entity/Q2216664
+3,Italia,Campania,Caserta,Capua,Sant'Angelo in Formis,,,,,,,,,,
+3,Italia,Campania,Caserta,Sessa Aurunca,Rongolise,,,,,,,,,,
+3,Italia,Emilia Romagna,Bologna,Castel di Casio,Badi,,,,,,,,,,
+3,Italia,Emilia Romagna,Modena,Ravarino,Stuffione,,,,,,,,,,
+3,Italia,Friuli Venezia Giulia,Pordenone,Spilimbergo,Barbeano,,,,,,,,,,
+3,Italia,Lazio,Viterbo,Viterbo,Montecalvello,Montecalvello,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q3862197
+3,Italia,Lazio,Viterbo,Viterbo,San Martino al Cimino,San Martino al Cimino,,,,,inhabited places,,"human settlement in Viterbo, Province of Viterbo, Lazio, Italy",http://vocab.getty.edu/tgn/7008292,http://www.wikidata.org/entity/Q2630393
+3,Italia,Liguria,Savona,Albenga,Campochiesa,,,,,,,,,,
+3,Italia,Marche,Ancona,Arcevia,Avacelli,,,,,,,,,,
+3,Italia,Marche,Ancona,Sassoferrato,Catobagli,,,,,,,,,,
+3,Italia,Marche,Fermo,Monte Vidon Combatte,Collina Nuova,,,,,,,,,,
+3,Italia,Marche,Pesaro e Urbino,San Lorenzo in Campo,San Vito Sul Cesano,,,,,,,,,,
+3,Italia,Piemonte,Novara,Orta San Giulio,Isola di San Giulio,,,,,,,,,,
+3,Italia,Piemonte,Verbano-Cusio-Ossola,Verbania,Pallanza,,,,,,,,,,
+3,Italia,Puglia,Taranto,Manduria,Uggiano Montefusco,,,,,,,,,,
+3,Italia,Sicilia,Messina,Messina,Santo Stefano di Briga,Santo Stefano di Briga,,,,,,,"frazione of Messina, Italy",,http://www.wikidata.org/entity/Q2639385
+3,Italia,Sicilia,Palermo,Marineo,Risalaimi,,,,,,,,,,
+3,Italia,Toscana,Arezzo,Castel San Niccolò,Cetica,,,,,,,,,,
+3,Italia,Toscana,Firenze,Bagno a Ripoli,Antella,Antella,,,,,,,frazione of Italy,,http://www.wikidata.org/entity/Q18486358
+3,Italia,Toscana,Firenze,Barberino Val d'Elsa,Sant'Appiano,,,,,,,,,,
+3,Italia,Toscana,Firenze,Certaldo,Bagnano,,,,,,,,,,
+3,Italia,Toscana,Firenze,Empoli,Marcignana,Marcignana,,,,,,,"human settlement in Empoli, Metropolitan City of Florence, Tuscany, Italy",,http://www.wikidata.org/entity/Q2386067
+3,Italia,Toscana,Firenze,Fiesole,Maiano,Maiano,,,,,,,settlement in the Italian municipality of Fiesole,,http://www.wikidata.org/entity/Q18487093
+3,Italia,Toscana,Firenze,Firenze,Brozzi,Brozzi,,,,,rioni,,,http://vocab.getty.edu/tgn/5002856,
+3,Italia,Toscana,Firenze,Firenze,Castello,Castello,,,,,rioni,,quarter in Borough 5 - Rifredi - of Florence,http://vocab.getty.edu/tgn/7006125,http://www.wikidata.org/entity/Q2163936
+3,Italia,Toscana,Firenze,Greve in Chianti,Panzano in Chianti,,,,,,,,,,
+3,Italia,Toscana,Firenze,Lastra a Signa,Brucianesi,,,,,,,,,,
+3,Italia,Toscana,Firenze,Montespertoli,Lucardo,,,,,,,,,,
+3,Italia,Toscana,Firenze,Pelago,Ristonchi,Ristonchi,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18487312
+3,Italia,Toscana,Firenze,Rignano sull'Arno,Rosano,,,,,,,,,,
+3,Italia,Toscana,Firenze,Scandicci,Mosciano,Mosciano,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18487167
+3,Italia,Toscana,Firenze,Scandicci,Ponte a Greve,,,,,,,,,,
+3,Italia,Toscana,Firenze,Vinci,Sant'Ansano,Sant'Ansano,,,,,inhabited places,,human settlement in Italy,http://vocab.getty.edu/tgn/5002936,http://www.wikidata.org/entity/Q18487398
+3,Italia,Toscana,Lucca,Camaiore,Capezzano Pianore,,,,,,,,,,
+3,Italia,Toscana,Lucca,Lucca,Massapiana,,,,,,,,,,
+3,Italia,Toscana,Pisa,Montopoli in Val d'Arno,Marti,,,,,,,,,,
+3,Italia,Toscana,Pistoia,Monsummano Terme,Montevettolini,Montevettolini,,,,,,,"human settlement in Monsummano Terme, Province of Pistoia, Tuscany, Italy",,http://www.wikidata.org/entity/Q3862410
+3,Italia,Toscana,Pistoia,Montecatini-Terme,Montecatini Alto,Montecatini Alto,,,,,,,frazione of Italy,,http://www.wikidata.org/entity/Q767338
+3,Italia,Toscana,Siena,Montalcino,Castelnuovo dell'Abate,,,,,,,,,,
+3,Italia,Toscana,Siena,Monteriggioni,Basciano,,,,,,,,,,
+3,Italia,Trentino-Alto Adige,Trento,Trento,Ravina,Ravina,,,,,,,"human settlement in Trento, Trentino, Trentino-South Tyrol, Italy",,http://www.wikidata.org/entity/Q3930585
+3,Italia,Umbria,Perugia,Bevagna,Castelbuono,,,,,,,,,,
+3,Italia,Umbria,Perugia,Cascia,Collegiacone,,,,,,,,,,
+3,Italia,Umbria,Perugia,Foligno,Carpello,,,,,,,,,,
+3,Italia,Umbria,Perugia,Gualdo Cattaneo,Marcellano,Marcellano,,,,,,,"human settlement in Gualdo Cattaneo, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q2085238
+3,Italia,Umbria,Perugia,Gualdo Tadino,San Pellegrino,San Pellegrino,,,,,,,"human settlement in Gualdo Tadino, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q2290403
+3,Italia,Umbria,Perugia,Montefalco,Turrita,Turrita,,,,,,,"human settlement in Montefalco, Italy",,http://www.wikidata.org/entity/Q4000711
+3,Italia,Umbria,Perugia,Norcia,Ancarano,,,,,,,,,,
+3,Italia,Umbria,Perugia,Panicale,Tavernelle,,,,,,,,,,
+3,Italia,Umbria,Perugia,Sigillo,Scirca,,,,,,,,,,
+3,Italia,Umbria,Perugia,Trevi,Bovara,,,,,,,,,,
+3,Italia,Umbria,Perugia,Trevi,Picciche,,,,,,,,,,
+3,Italia,Umbria,Terni,Terni,Collescipoli,Collescipoli,,,,,,,"human settlement in Italy, hamlet of Terni",,http://www.wikidata.org/entity/Q3683006
+3,Italia,Veneto,Padova,Teolo,Convento Praglia,Convento Praglia,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18497898
+3,Italia,Veneto,Treviso,Asolo,Pagnano,,,,,,,,,,
+3,Italia,Veneto,Venezia,Venezia,Burano,Burano,,,,,,,"island in the Venetian Lagoon, Italy",,http://www.wikidata.org/entity/Q52439
+3,Italia,Veneto,Venezia,Venezia,Isola di S. Servolo,,,,,,,,,,
+3,Italia,Veneto,Verona,Verona,Quinzano,Quinzano,,,,,,,"human settlement in Verona, Province of Verona, Veneto, Italy",,http://www.wikidata.org/entity/Q3927980
+3,Regno Unito,Somerset,,Bridgwater,Quantock Lodge,,,,,,,,,,
+2,Italia,Abruzzi,L'Aquila,L'Aquila,Bazzano,Bazzano,,,,,,,"frazione of L'Aquila, Italy",,http://www.wikidata.org/entity/Q3637119
+2,Italia,Abruzzi,L'Aquila,L'Aquila,San Giuliano,San Giuliano,,,,,,,"frazione of L'Aquila, Italy",,http://www.wikidata.org/entity/Q52101190
+2,Italia,Abruzzi,L'Aquila,Magliano de' Marsi,Rosciolo,,,,,,,,,,
+2,Italia,Abruzzi,L'Aquila,Scoppito,Collettara,,,,,,,,,,
+2,Italia,Abruzzi,L'Aquila,Tione degli Abruzzi,S. Maria del Ponte,,,,,,,,,,
+2,Italia,Campania,Avellino,Mercogliano,Montevergine,,,,,,,,,,
+2,Italia,Campania,Salerno,Fisciano,Penta,Penta,,,,,,,"frazione of Fisciano, Italy",,http://www.wikidata.org/entity/Q1242721
+2,Italia,Emilia Romagna,Bologna,Castenaso,Marano,,,,,,,,,,
+2,Italia,Emilia Romagna,Modena,Formigine,Magreta,,,,,,,,,,
+2,Italia,Emilia Romagna,Modena,Mirandola,Santa Giustina Vigona,,,,,,,,,,
+2,Italia,Emilia Romagna,Modena,Modena,Ganaceto,Ganaceto,,,,,,,"human settlement in Modena, Province of Modena, Emilia-Romagna, Italy",,http://www.wikidata.org/entity/Q18441014
+2,Italia,Emilia Romagna,Piacenza,Vernasca,Vigoleno,,,,,,,,,,
+2,Italia,Emilia Romagna,Rimini,Verucchio,Villa Verucchio,,,,,,,,,,
+2,Italia,Friuli Venezia Giulia,Pordenone,Brugnera,Maron,,,,,,,,,,
+2,Italia,Friuli Venezia Giulia,Pordenone,Pordenone,Villanova,,,,,,,,,,
+2,Italia,Lazio,Rieti,Poggio Mirteto,Castel San Pietro,,,,,,,,,,
+2,Italia,Lazio,Rieti,Scandriglia,Ponticelli,,,,,,,,,,
+2,Italia,Lazio,Roma,Roma,Foro romano,Foro Romano,,,,,,,"Ancient Roman center of the city, a landmark of Rome, Italy",,http://www.wikidata.org/entity/Q180212
+2,Italia,Lazio,Viterbo,Tarquinia,Corneto,,,,,,,,,,
+2,Italia,Liguria,Genova,Genova,Pegli,Pegli,,,,,inhabited places,,"neighborhood of Genoa, Italy",http://vocab.getty.edu/tgn/7005330,http://www.wikidata.org/entity/Q833271
+2,Italia,Liguria,Genova,Genova,Voltri,Voltri,,,,,inhabited places,,"quarter of Genoa, Italy",http://vocab.getty.edu/tgn/1047503,http://www.wikidata.org/entity/Q1516072
+2,Italia,Liguria,La Spezia,Portovenere,Le Grazie,Le Grazie,,,,,,,"human settlement in Porto Venere, Italy",,http://www.wikidata.org/entity/Q688008
+2,Italia,Lombardia,Bergamo,Cerete,Cerete Basso,,,,,,,,,,
+2,Italia,Lombardia,Bergamo,Presezzo,Ponte S. Pietro,Ponte S. Pietro,,,,,,,"primary school in Ponte San Pietro, Bergamo, Lombardy, Italy",,http://www.wikidata.org/entity/Q52790872
+2,Italia,Lombardia,Bergamo,San Giovanni Bianco,San Gallo,San Gallo,,,,,,,settlement in the Italian municipality of San Giovanni Bianco,,http://www.wikidata.org/entity/Q18469633
+2,Italia,Lombardia,Como,Como,Lora,Lora,,,,,,,,,http://www.wikidata.org/entity/Q60839465
+2,Italia,Lombardia,Como,Griante,Cadenabbia,,,,,,,,,,
+2,Italia,Lombardia,Como,Menaggio,Loveno,,,,,,,,,,
+2,Italia,Lombardia,Cremona,Gabbioneta-Binanuova,Binanuova,Binanuova,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7056507,
+2,Italia,Lombardia,Mantova,Sabbioneta,Vigoreto,Vigoreto,,,,,,,,,http://www.wikidata.org/entity/Q123504613
+2,Italia,Lombardia,Milano,Bollate,Bollate di Castellazzo,,,,,,,,,,
+2,Italia,Lombardia,Milano,Cormano,Brusuglio,Brusuglio,,,,,,,"human settlement in Cormano, Metropolitan City of Milan, Lombardy, Italy",,http://www.wikidata.org/entity/Q2023571
+2,Italia,Lombardia,Milano,Milano,Ronchetto sul Naviglio,Ronchetto sul Naviglio,,,,,,,"human settlement in Milan, Lombardy, Italy",,http://www.wikidata.org/entity/Q3941051
+2,Italia,Marche,Ancona,Fabriano,Campodonico,,,,,,,,,,
+2,Italia,Marche,Ancona,Fabriano,Valleremita,,,,,,,,,,
+2,Italia,Marche,Ascoli Piceno,Montalto delle Marche,Porchia,Porchia,,,,,,,"frazione of Montalto delle Marche, Italy",,http://www.wikidata.org/entity/Q3908461
+2,Italia,Marche,Ascoli Piceno,Roccafluvione,Pedara,,,,,,,,,,
+2,Italia,Marche,Fermo,Monte Vidon Combatte,San Procolo,,,,,,,,,,
+2,Italia,Marche,Fermo,Servigliano,Curetta,,,,,,,,,,
+2,Italia,Marche,Macerata,Castelsantangelo sul Nera,Nocelleto,Nocelleto,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7050722,
+2,Italia,Marche,Macerata,Serravalle di Chienti,San Martino,,,,,,,,,,
+2,Italia,Marche,Macerata,Visso,Mevale,,,,,,,,,,
+2,Italia,Marche,Macerata,Visso,Villa Sant'Antonio,,,,,,,,,,
+2,Italia,Marche,Pesaro e Urbino,Frontino,Montefiorentino,Montefiorentino,,,,,,,"human settlement in Pesaro and Urbino Province, Marche, Italy",,http://www.wikidata.org/entity/Q18498605
+2,Italia,Piemonte,Verbano-Cusio-Ossola,Cannobio,Carmine,,,,,,,,,,
+2,Italia,Piemonte,Vercelli,Varallo,Roccapietra,,,,,,,,,,
+2,Italia,Sicilia,Palermo,Monreale,San Martino Delle Scale,San Martino delle Scale,,,,,,,"human settlement in Monreale, Metropolitan City of Palermo, Sicily, Italy",,http://www.wikidata.org/entity/Q3947649
+2,Italia,Toscana,Arezzo,Poppi,Camaldoli,,,,,,,,,,
+2,Italia,Toscana,Arezzo,Stia,Porciano,,,,,,,,,,
+2,Italia,Toscana,Arezzo,Stia,Santa Maria alle Grazie,,,,,,,,,,
+2,Italia,Toscana,Firenze,Barberino Val d'Elsa,Vico D'Elsa,,,,,,,,,,
+2,Italia,Toscana,Firenze,Barberino Val d'Elsa,Vigliano,,,,,,,,,,
+2,Italia,Toscana,Firenze,Calenzano,Carraia,,,,,,,,,,
+2,Italia,Toscana,Firenze,Castelfiorentino,Petrazzi,,,,,,,,,,
+2,Italia,Toscana,Firenze,Empoli,Avane,Avane,,,,,,,"human settlement in Empoli, Metropolitan City of Florence, Tuscany, Italy",,http://www.wikidata.org/entity/Q111632706
+2,Italia,Toscana,Firenze,Figline Valdarno,Gaville,,,,,,,,,,
+2,Italia,Toscana,Firenze,Firenze,Arcetri,Arcetri,,,,,rioni,,,http://vocab.getty.edu/tgn/5002851,
+2,Italia,Toscana,Firenze,Firenze,Campi Bisenzio,,,,,,,,,,
+2,Italia,Toscana,Firenze,Firenze,Careggi,Careggi,,,,,rioni,,,http://vocab.getty.edu/tgn/7006126,
+2,Italia,Toscana,Firenze,Firenze,Torre del Gallo,Torre del Gallo,,,,,,,"historic building in Florence, Italy",,http://www.wikidata.org/entity/Q3995418
+2,Italia,Toscana,Firenze,Fucecchio,Torre,,,,,,,,,,
+2,Italia,Toscana,Firenze,Greve in Chianti,Montefioralle,,,,,,,,,,
+2,Italia,Toscana,Firenze,Impruneta,Pozzolatico,,,,,,,,,,
+2,Italia,Toscana,Firenze,Montaione,San Vivaldo,,,,,,,,,,
+2,Italia,Toscana,Firenze,Reggello,San Clemente,,,,,,,,,,
+2,Italia,Toscana,Firenze,Rignano sull'Arno,Volognano,,,,,,,,,,
+2,Italia,Toscana,Firenze,San Casciano in Val di Pesa,Argiano,,,,,,,,,,
+2,Italia,Toscana,Firenze,Scarperia,Sant'Agata,,,,,,,,,,
+2,Italia,Toscana,Firenze,Vicchio,Rupecanina,,,,,,,,,,
+2,Italia,Toscana,Grosseto,Castel del Piano,Montenero,,,,,,,,,,
+2,Italia,Toscana,Grosseto,Manciano,Montemerano,Montemerano,,,,,,,frazione of Italy,,http://www.wikidata.org/entity/Q1805319
+2,Italia,Toscana,Lucca,Camaiore,Pieve di Camaiore,,,,,,,,,,
+2,Italia,Toscana,Lucca,Capannori,Lammari,,,,,,,,,,
+2,Italia,Toscana,Lucca,Fabbriche di Vallico,Vallico di Sotto,,,,,,,,,,
+2,Italia,Toscana,Lucca,Piazza al Serchio,Borsigliana,,,,,,,,,,
+2,Italia,Toscana,Lucca,Stazzema,Pomezzana,,,,,,,,,,
+2,Italia,Toscana,Pistoia,Buggiano,Buggiano Castello,,,,,,,,,,
+2,Italia,Toscana,Pistoia,Pistoia,Santomato,Santomato,,,,,,,"human settlement in Pistoia, Province of Pistoia, Tuscany, Italy",,http://www.wikidata.org/entity/Q24248759
+2,Italia,Toscana,Siena,Buonconvento,Percenna,,,,,,,,,,
+2,Italia,Toscana,Siena,Gaiole in Chianti,Vertine,Vertine,,,,,,,"hamlet of Gaiole in Chianti, Italy",,http://www.wikidata.org/entity/Q4010297
+2,Italia,Toscana,Siena,Monteriggioni,Abbadia Isola,,,,,,,,,,
+2,Italia,Toscana,Siena,Monteriggioni,Santa Colomba,,,,,,,,,,
+2,Italia,Toscana,Siena,Murlo,Casciano,,,,,,,,,,
+2,Italia,Toscana,Siena,Murlo,Vescovado,,,,,,,,,,
+2,Italia,Toscana,Siena,Poggibonsi,Staggia Senese,Staggia Senese,,,,,,,"hamlet of Poggibonsi, Italy",,http://www.wikidata.org/entity/Q1367559
+2,Italia,Toscana,Siena,Siena,Fogliano Grosso,Fogliano Grosso,,,,,,,hamlet of Siena,,http://www.wikidata.org/entity/Q18491641
+2,Italia,Toscana,Siena,Sinalunga,Scrofiano,Scrofiano,,,,,,,"hamlet of Sinalunga, Italy",,http://www.wikidata.org/entity/Q2466948
+2,Italia,Toscana,Siena,Torrita di Siena,Montefollonico,,,,,,,,,,
+2,Italia,Umbria,Perugia,Assisi,Tordandrea,,,,,,,,,,
+2,Italia,Umbria,Perugia,Bastia Umbra,Ospedalicchio,Ospedalicchio,,,,,inhabited places,,"human settlement in Bastia Umbra, Province of Perugia, Umbria, Italy",http://vocab.getty.edu/tgn/7055168,http://www.wikidata.org/entity/Q1811799
+2,Italia,Umbria,Perugia,Cerreto di Spoleto,Ponte,,,,,,,,,,
+2,Italia,Umbria,Perugia,Città di Castello,Canoscio,Canoscio,,,,,,,railway halt in Italy,,http://www.wikidata.org/entity/Q111768012
+2,Italia,Umbria,Perugia,Collazzone,Collepepe,,,,,,,,,,
+2,Italia,Umbria,Perugia,Foligno,Acqua Santo Stefano,,,,,,,,,,
+2,Italia,Umbria,Perugia,Foligno,Vescia,,,,,,,,,,
+2,Italia,Umbria,Perugia,Passignano sul Trasimeno,Castel Rigone,Castel Rigone,,,,,,,hamlet of Passignano sul Trasimeno,,http://www.wikidata.org/entity/Q2495660
+2,Italia,Umbria,Perugia,Perugia,Civitella d'Arna,Civitella d'Arna,,,,,,,frazione of Italy,,http://www.wikidata.org/entity/Q1236794
+2,Italia,Umbria,Perugia,Perugia,Fontignano,Fontignano,,,,,,,hamlet of Perugia,,http://www.wikidata.org/entity/Q1070894
+2,Italia,Umbria,Perugia,Perugia,Pieve Pagliaccia,,,,,,,,,,
+2,Italia,Umbria,Perugia,Spoleto,Beroide,,,,,,,,,,
+2,Italia,Umbria,Perugia,Spoleto,Monteluco,,,,,,,,,,
+2,Italia,Umbria,Perugia,Spoleto,Perchia,,,,,,,,,,
+2,Italia,Umbria,Perugia,Umbertide,Preggio,,,,,,,,,,
+2,Italia,Veneto,Belluno,Sospirolo,Certosa di Vedana,,,,,,,,,,
+2,Italia,Veneto,Padova,Padova,Torre di Padova,,,,,,,,,,
+2,Italia,Veneto,Treviso,Ponzano Veneto,Merlengo,Merlengo,,,,,inhabited places,,"human settlement in Ponzano Veneto, Province of Treviso, Veneto, Italy",http://vocab.getty.edu/tgn/4007127,http://www.wikidata.org/entity/Q3855179
+2,Italia,Veneto,Treviso,Quinto di Treviso,Santa Cristina,,,,,,,,,,
+2,Italia,Veneto,Treviso,San Fior,San Fior Di Sopra,,,,,,,,,,
+2,Italia,Veneto,Verona,Colognola ai Colli,San Vittore,San Vittore,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7039506,
+2,Italia,Veneto,Vicenza,Zugliano,Grumolo Pedemonte,Grumolo Pedemonte,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7047014,
+2,Regno Unito,,,Londra,Hampstead,Hampstead,Hampstead,,,,neighborhoods,,"area of north London, England",http://vocab.getty.edu/tgn/7011827,http://www.wikidata.org/entity/Q25610
+2,Regno Unito,,,Londra,Harrow on the Hill,Harrow on the Hill,Harrow on the Hill,,,,neighborhoods,,,http://vocab.getty.edu/tgn/7011837,
+2,Regno Unito,,,Somerset,Templecombe,Templecombe,Templecombe,,,,inhabited places,,,http://vocab.getty.edu/tgn/1030849,
+2,Regno Unito,Devon,,Plymouth,Plympton,Plympton,,,,,,,"suburb of Plymouth, England, UK",,http://www.wikidata.org/entity/Q7205889
+2,Regno Unito,Gloucestershire,,Avening,Old Quarries,,,,,,,,,,
+2,Regno Unito,New York,,Londra,Richmond,,,,,,,,,,
+2,Regno Unito,Nottinghamshire,,,Grove Hall,Grove Hall,,,,,,,"country house in Grove, Nottinghamshire, United Kingdom",,http://www.wikidata.org/entity/Q5611393
+2,Regno Unito,Scozia,,Dundee,Linlathen,,,,,,,,,,
+2,Regno Unito,Surrey,,Englefield Green,Castle Hill,Castle Hill,,,,,,,"house in Englefield Green, Surrey, England, UK",,http://www.wikidata.org/entity/Q26280105
+2,Regno Unito,Warwickshire,,,Rugby,Rugby,Rugby,,,,inhabited places,Small settlement until coming of railways 19th cen.; home of boys' Rugby School founded 1567; flourished under leadership of Thomas Arnold 1828-1842 & became model public school; founding place of rugby football; manufactures electrical equipment.,,http://vocab.getty.edu/tgn/1030472,
+2,Regno Unito,Wiltshire,,Tollard Royal,Rushmore,,,,,,,,,,
+2,Stati Uniti d'America,Illinois,,Chicago (IL),Lake Forest,Lake Forest,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7013857,
+1,,,,Monteroni d'Arbia,Lucignano d'Arbia,,,,,,,,,,
+1,Austria,,,Innsbruck,Wattens,Wattens,,,,,inhabited places,,,http://vocab.getty.edu/tgn/1026209,
+1,Austria,,,Vienna,n. 232,,,,,,,,,,
+1,Belgio,,,Bruxelles,Uccle,Uccle,,,,Uccle,inhabited places,"Uccle is a Belgian town lying just south of Brussels and is one of the nineteen communes that make up Greater Brussels. It existed as a separate town by at least the 12th century. An historic inn, the Auberge du Cornet, dates from 1570, and lies near a wooded park, a remnant of the great Soigne Forest The modern town serves as a residential suburb for Brussels, with some light industry. It is the site of the Belgian Royal Observatory and several historic châteaux. ","municipality in the Brussels-Capital Region, Belgium",http://vocab.getty.edu/tgn/7008815,http://www.wikidata.org/entity/Q203312
+1,Francia,,,Ribeauvillé,Castello di Ribeauvillé,,,,,,,,,,
+1,Francia,,,Saint Germain-en-Lay,Yvelines,Département des Yvelines,Département des Yvelines,,,,departments,,,http://vocab.getty.edu/tgn/7003227,
+1,Francia,Provenza-Alpi-Costa Azzurra,,Cannes,Île St Honorat,,,,,,,,,,
+1,Germania,,,,Marienburg,Marienburg,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7131981,
+1,Germania,,,Monaco di Baviera,Hohenaschau,Hohenaschau,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7161008,
+1,Germania,,,Wuppertal,Elberfeld,Elberfeld,,,,,neighborhoods,,"former independent city in Germany, now part of Wuppertal",http://vocab.getty.edu/tgn/1004421,http://www.wikidata.org/entity/Q702259
+1,Italia,Abruzzi,L'Aquila,Acciano,Beffi,,,,,,,,,,
+1,Italia,Abruzzi,L'Aquila,Barisciano,Villa di Mezzo,,,,,,,,,,
+1,Italia,Abruzzi,L'Aquila,Capistrello,Corcumello,,,,,,,,,,
+1,Italia,Abruzzi,L'Aquila,Capitignano,Sivignano,,,,,,,,,,
+1,Italia,Abruzzi,L'Aquila,Fontecchio,San Pio di Fontecchio,,,,,,,,,,
+1,Italia,Abruzzi,L'Aquila,L'Aquila,Campo di Giove,,,,,,,,,,
+1,Italia,Abruzzi,L'Aquila,L'Aquila,Monticchio,Monticchio,,,,,,,"frazione of L'Aquila, Italy",,http://www.wikidata.org/entity/Q3862484
+1,Italia,Abruzzi,L'Aquila,L'Aquila,Onna,Onna,,,,,,,settlement in the Italian municipality of L’Aquila,,http://www.wikidata.org/entity/Q374305
+1,Italia,Abruzzi,L'Aquila,L'Aquila,Preturo,Preturo,,,,,,,"frazione of L'Aquila, Italy",,http://www.wikidata.org/entity/Q3911305
+1,Italia,Abruzzi,L'Aquila,Massa d'Albe,Alba Fucens,,,,,,,,,,
+1,Italia,Abruzzi,L'Aquila,Scoppito,Civitatomassa,,,,,,,,,,
+1,Italia,Abruzzi,Pescara,Capitignano,Sivignano,,,,,,,,,,
+1,Italia,Abruzzi,Teramo,Pineto,Mutignano,,,,,,,,,,
+1,Italia,Abruzzi,Teramo,Valle Castellana,Cesano,,,,,,,,,,
+1,Italia,Abruzzi,Teramo,Valle Castellana,Collegrato,,,,,,,,,,
+1,Italia,Abruzzi,Teramo,Valle Castellana,San Vito,,,,,,,,,,
+1,Italia,Campania,Caserta,Caserta,Piedimonte di Casolla,,,,,,,,,,
+1,Italia,Campania,Caserta,Sessa Aurunca,Lauro,,,,,,,,,,
+1,Italia,Campania,Napoli,Ercolano,Resina,,,,,,,,,,
+1,Italia,Campania,Napoli,Nola,Livardi,,,,,,,,,,
+1,Italia,Campania,Napoli,Palma Campania,Vico,Vico,,,,,,,,,http://www.wikidata.org/entity/Q18437122
+1,Italia,Campania,Napoli,San Paolo Bel Sito,Livardi,,,,,,,,,,
+1,Italia,Campania,Napoli,Vico Equense,Massaquano,,,,,,,,,,
+1,Italia,Campania,Napoli,Visciano,Sant'Angelo del Monte,,,,,,,,,,
+1,Italia,Campania,Salerno,Giffoni Sei Casali,Prepezzano,Prepezzano,,,,,,,"human settlement in Giffoni Sei Casali, Province of Salerno, Campania, Italy",,http://www.wikidata.org/entity/Q18437654
+1,Italia,Campania,Salerno,Sarno,Episcopio,,,,,,,,,,
+1,Italia,Emilia Romagna,,Reggio nell'Emilia,Nebbiara,,,,,,,,,,
+1,Italia,Emilia Romagna,Bologna,Bologna,Borgo Panigale,Borgo Panigale,,,,,rioni,,,http://vocab.getty.edu/tgn/7004857,
+1,Italia,Emilia Romagna,Bologna,Bologna,Lavino di Sotto,,,,,,,,,,
+1,Italia,Emilia Romagna,Bologna,Borgo Tossignano,Tossignano,Tossignano,,,,,inhabited places,,human settlement in Italy,http://vocab.getty.edu/tgn/7038166,http://www.wikidata.org/entity/Q3995920
+1,Italia,Emilia Romagna,Bologna,Budrio,Bagnarola,Bagnarola,,,,,,,"human settlement in Budrio, Metropolitan City of Bologna, Emilia-Romagna, Italy",,http://www.wikidata.org/entity/Q18437979
+1,Italia,Emilia Romagna,Bologna,Castel San Pietro Terme,Poggio,,,,,,,,,,
+1,Italia,Emilia Romagna,Bologna,Granarolo dell'Emilia,Quarto Inferiore,Quarto Inferiore,,,,,,,"human settlement in Granarolo dell'Emilia, Metropolitan City of Bologna, Emilia-Romagna, Italy",,http://www.wikidata.org/entity/Q3927284
+1,Italia,Emilia Romagna,Bologna,Grizzana Morandi,Tavernola,,,,,,,,,,
+1,Italia,Emilia Romagna,Bologna,Monte San Pietro,Montemaggiore,,,,,,,,,,
+1,Italia,Emilia Romagna,Bologna,Pianoro,Rastignano-Carteria Di Sesto,,,,,,,,,,
+1,Italia,Emilia Romagna,Ferrara,Cento,Renazzo,,,,,,,,,,
+1,Italia,Emilia Romagna,Forlì - Cesena,Cesena,San Vittore,,,,,,,,,,
+1,Italia,Emilia Romagna,Forlì - Cesena,Galeata,Pianetto,,,,,,,,,,
+1,Italia,Emilia Romagna,Modena,Castelfranco Emilia,Piumazzo,Piumazzo,,,,,,,"settlement in Castelfranco Emilia,Italy",,http://www.wikidata.org/entity/Q2677876
+1,Italia,Emilia Romagna,Modena,Pavullo nel Frignano,Coscogno,,,,,,,,,,
+1,Italia,Emilia Romagna,Parma,Colorno,Copermio,,,,,,,,,,
+1,Italia,Emilia Romagna,Parma,Colorno,Vedole,,,,,,,,,,
+1,Italia,Emilia Romagna,Parma,Fidenza,Castione Marchesi,Castione Marchesi,,,,,,,settlement in the Italian municipality of Fidenza,,http://www.wikidata.org/entity/Q18442291
+1,Italia,Emilia Romagna,Parma,Langhirano,Torrechiara,Torrechiara,,,,,,,Italian fraction,,http://www.wikidata.org/entity/Q2154272
+1,Italia,Emilia Romagna,Parma,Montechiarugolo,Monticelli Terme,,,,,,,,,,
+1,Italia,Emilia Romagna,Parma,Parma,Borghetto,,,,,,,,,,
+1,Italia,Emilia Romagna,Parma,Parma,Paradigna,Paradigna,,,,,,,"human settlement in Parma, Province of Parma, Emilia-Romagna, Italy",,http://www.wikidata.org/entity/Q18442923
+1,Italia,Emilia Romagna,Parma,Parma,Vigatto,Vigatto,,,,,inhabited places,,"human settlement in Parma, Province of Parma, Emilia-Romagna, Italy",http://vocab.getty.edu/tgn/1047407,http://www.wikidata.org/entity/Q4011529
+1,Italia,Emilia Romagna,Parma,Soragna,Diolo,,,,,,,,,,
+1,Italia,Emilia Romagna,Parma,Traversetolo,Corte di Mamiano,,,,,,,,,,
+1,Italia,Emilia Romagna,Piacenza,Piacenza,Pittolo,Pittolo,,,,,,,settlement in the Italian municipality of Piacenza,,http://www.wikidata.org/entity/Q18445148
+1,Italia,Emilia Romagna,Ravenna,Brisighella,Rontana,,,,,,,,,,
+1,Italia,Emilia Romagna,Ravenna,Faenza,Fossolo,,,,,,,,,,
+1,Italia,Emilia Romagna,Ravenna,Faenza,Pergola,,,,,,,,,,
+1,Italia,Emilia Romagna,Ravenna,Forlì,San Varano,,,,,,,,,,
+1,Italia,Emilia Romagna,Ravenna,Riolo Terme,Borgo-Rivola,,,,,,,,,,
+1,Italia,Emilia Romagna,Reggio nell'Emilia,Castelnovo ne' Monti,Costa de' Grassi,Costa de' Grassi,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18446794
+1,Italia,Emilia Romagna,Rimini,Sant'Arcangelo,San Vito,San Vito Rimini,,,,,inhabited places,,"human settlement in Rimini, Province of Rimini, Emilia-Romagna, Italy",http://vocab.getty.edu/tgn/7033666,http://www.wikidata.org/entity/Q3948039
+1,Italia,Emilia Romagna,Rimini,Santarcangelo di Romagna,Covignano,,,,,,,,,,
+1,Italia,Friuli Venezia Giulia,Pordenone,Aviano,Castello d'Aviano,,,,,,,,,,
+1,Italia,Friuli Venezia Giulia,Udine,Aquileia,Belvedere,,,,,,,,,,
+1,Italia,Friuli Venezia Giulia,Udine,Ovaro,Muina d'Ovaro,,,,,,,,,,
+1,Italia,Lazio,Frosinone,Veroli,Casamari,,,,,,,,,,
+1,Italia,Lazio,Rieti,Amatrice,Cossito,Cossito,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18454094
+1,Italia,Lazio,Rieti,Rieti,San Mauro,,,,,,,,,,
+1,Italia,Lazio,Rieti,Tarano,San Polo,,,,,,,,,,
+1,Italia,Lazio,Roma,Ardea,Tor San Lorenzo,,,,,,,,,,
+1,Italia,Lazio,Roma,Cerveteri,Ceri,,,,,,,,,,
+1,Italia,Lazio,Roma,Mentana,Castelchiodato,Castelchiodato,,Castelchiodato,,,inhabited places,,,http://vocab.getty.edu/tgn/7032326,
+1,Italia,Lazio,Roma,Rocca di Papa,Palazzolo,,,,,,,,,,
+1,Italia,Lazio,Roma,Roma,Bracciano,,,,,,,,,,
+1,Italia,Lazio,Roma,Roma,Lido Di Ostia,Ostia,,,,,inhabited places,Modern village located just to the E of the archaeological site of Ostia Antica.,"human settlement in Rome, Lazio, Italy",http://vocab.getty.edu/tgn/7007023,http://www.wikidata.org/entity/Q11171297
+1,Italia,Lazio,Roma,Roma,Palidoro,,,,,,,,,,
+1,Italia,Lazio,Roma,Roma,Tivoli,,,,,,,,,,
+1,Italia,Lazio,Roma,Roma,Torre in Pietra,,,,,,,,,,
+1,Italia,Lazio,Roma,Santa Marinella,Castello Santa Severa,Castello Santa Severa,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18454472
+1,Italia,Lazio,Viterbo,Soriano nel Cimino,Chia,Chia,,,,,,,"human settlement in Soriano nel Cimino, Province of Viterbo, Lazio, Italy",,http://www.wikidata.org/entity/Q3667395
+1,Italia,Lazio,Viterbo,Viterbo,Bagnaia,Bagnaia,,,,,,,"frazione of Viterbo, Italy",,http://www.wikidata.org/entity/Q799934
+1,Italia,Lazio,Viterbo,Viterbo,Ponte Tremoli,,,,,,,,,,
+1,Italia,Liguria,Genova,Genova,Multedo,Multedo,,,,,,,quarter of Genoa,,http://www.wikidata.org/entity/Q1952273
+1,Italia,Liguria,Genova,Genova,Nervi,Nervi,,,,,,,"neighborhood in Genoa, Italy",,http://www.wikidata.org/entity/Q963477
+1,Italia,Liguria,Genova,Genova,Sampierdarena,San Pier d'Arena,,,,,neighborhoods,,neighborhood in Genoa,http://vocab.getty.edu/tgn/5002474,http://www.wikidata.org/entity/Q1930172
+1,Italia,Liguria,Genova,Rapallo,San Maurizio di Monti,,,,,,,,,,
+1,Italia,Liguria,Genova,Uscio,Terrile,,,,,,,,,,
+1,Italia,Liguria,La Spezia,Ortonovo,Nicola,Nicola,,,,,inhabited places,,,http://vocab.getty.edu/tgn/4007864,
+1,Italia,Liguria,Savona,Finale Ligure,Finalborgo,,,,,,,,,,
+1,Italia,Liguria,Savona,Ortovero,Pogli,,,,,,,,,,
+1,Italia,Lombardia,Bergamo,Alzano Lombardo,Olera,,,,,,,,,,
+1,Italia,Lombardia,Bergamo,Carobbio degli Angeli,Cicola,Cicola,,,,,,,"settlement in Chiuduno, Italy",,http://www.wikidata.org/entity/Q18467153
+1,Italia,Lombardia,Bergamo,Cavernago,Malpaga,Malpaga,,,,,,,,,http://www.wikidata.org/entity/Q18468429
+1,Italia,Lombardia,Bergamo,Rota d'Imagna,Rota Dentro,Rota Dentro,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q28670125
+1,Italia,Lombardia,Bergamo,San Giovanni Bianco,San Pietro d'Orzio,San Pietro d'Orzio,,,,,,,settlement in the Italian municipality of San Giovanni Bianco,,http://www.wikidata.org/entity/Q28670259
+1,Italia,Lombardia,Bergamo,Scanzorosciate,Scanzo,,,,,,,,,,
+1,Italia,Lombardia,Bergamo,Serina,Lepreno,,,,,,,,,,
+1,Italia,Lombardia,Bergamo,Zogno,Spino al Brembo,,,,,,,,,,
+1,Italia,Lombardia,Brescia,Brescia,Chiesanuova,Chiesanuova,,,,,,,quarter of Brescia,,http://www.wikidata.org/entity/Q3674477
+1,Italia,Lombardia,Brescia,Brescia,Orzinuovi,,,,,,,,,,
+1,Italia,Lombardia,Brescia,Capo di Ponte,Cemmo,,,,,,,,,,
+1,Italia,Lombardia,Brescia,Casto,Auro,,,,,,,,,,
+1,Italia,Lombardia,Brescia,Gargnano,Bogliaco,Bogliaco,,,,,,,,,http://www.wikidata.org/entity/Q28670206
+1,Italia,Lombardia,Brescia,Lonato,Maguzzano,,,,,,,,,,
+1,Italia,Lombardia,Brescia,Rezzato,Virle Treponti,,,,,,,,,,
+1,Italia,Lombardia,Brescia,Salò,Villa,,,,,,,,,,
+1,Italia,Lombardia,Como,Erba,Casiglio,,,,,,,,,,
+1,Italia,Lombardia,Cremona,Cingia de' Botti,Vidiceto,Vidiceto,,,,,,,settlement in the Italian municipality of Cingia de' Botti,,http://www.wikidata.org/entity/Q18488812
+1,Italia,Lombardia,Mantova,Curtatone,Levata,,,,,,,,,,
+1,Italia,Lombardia,Mantova,Gazzuolo,Belforte,Belforte,,,,,,,frazione of Gazzuolo Italy,,http://www.wikidata.org/entity/Q18489946
+1,Italia,Lombardia,Mantova,Motteggiana,Torricella,,,,,,,,,,
+1,Italia,Lombardia,Milano,Milano,Ampugnano,,,,,,,,,,
+1,Italia,Lombardia,Milano,San Giuliano Milanese,Viboldone,Viboldone,,,,,,,settlement in the Italian municipality of San Giuliano Milanese,,http://www.wikidata.org/entity/Q4011050
+1,Italia,Lombardia,Monza Brianza,Monza,Gernetto,,,,,,,,,,
+1,Italia,Lombardia,Sondrio,Chiavenna,Villa di Chiavenna,,,,,,,,,,
+1,Italia,Lombardia,Sondrio,San Giacomo Filippo,Gallivaggio,,,,,,,,,,
+1,Italia,Lombardia,Varese,Saronno,Cassina Ferrara,Cassina Ferrara,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q16537841
+1,Italia,Lombardia,Varese,Varese,Masnago,Masnago,,,,,,,neighborhood of the Italian city of Varese,,http://www.wikidata.org/entity/Q3850821
+1,Italia,Marche,Ancona,Belvedere Ostrense,Madonna del Sole,,,,,,,,,,
+1,Italia,Marche,Ancona,Cupramontana,Poggio Cupro,Poggio Cupro,,,,,,,"human settlement in Cupramontana, Italy",,http://www.wikidata.org/entity/Q3907028
+1,Italia,Marche,Ancona,Fabriano,Albacina,,,,,,,,,,
+1,Italia,Marche,Ancona,Fabriano,Bastia,,,,,,,,,,
+1,Italia,Marche,Ancona,Fabriano,Castelletta,,,,,,,,,,
+1,Italia,Marche,Ancona,Fabriano,Melano,,,,,,,,,,
+1,Italia,Marche,Ancona,Fabriano,Paterno,,,,,,,,,,
+1,Italia,Marche,Ancona,Falconara Marittima,Castelferretti,,,,,,,,,,
+1,Italia,Marche,Ancona,Genga,Rocchetta,,,,,,,,,,
+1,Italia,Marche,Ancona,Genga,San Vittore Terme,,,,,,,,,,
+1,Italia,Marche,Ancona,Jesi,Montegranale,,,,,,,,,,
+1,Italia,Marche,Ancona,Sassoferrato,Coldellanoce,,,,,,,,,,
+1,Italia,Marche,Ancona,Serra San Quirico,Domo,,,,,,,,,,
+1,Italia,Marche,Ascoli Piceno,Acquasanta Terme,Paggese,,,,,,,,,,
+1,Italia,Marche,Ascoli Piceno,Ascoli Piceno,Lisciano,,,,,,,,,,
+1,Italia,Marche,Ascoli Piceno,Ascoli Piceno,Poggio di Bretta,,,,,,,,,,
+1,Italia,Marche,Ascoli Piceno,Carassai,Rocca Monte Varmine,,,,,,,,,,
+1,Italia,Marche,Ascoli Piceno,Folignano,Castel Folignano,Castel Folignano,,,,,,,"frazione of Folignano, Italy",,http://www.wikidata.org/entity/Q18496380
+1,Italia,Marche,Ascoli Piceno,Montalto delle Marche,Patrignone,Patrignone,,,,,,,"frazione of Montalto delle Marche, Italy",,http://www.wikidata.org/entity/Q3897778
+1,Italia,Marche,Ascoli Piceno,Rotella,Poggio Canoso,,,,,,,,,,
+1,Italia,Marche,Fermo,Fermo,Capodarco,,,,,,,,,,
+1,Italia,Marche,Fermo,Fermo,Torre Di Palme,,,,,,,,,,
+1,Italia,Marche,Fermo,Fermo,Torre di Palme,,,,,,,,,,
+1,Italia,Marche,Fermo,Monsampietro Morico,Sant'Elpidio Morico,Sant'Elpidio Morico,,,,,,,"frazione of Monsampietro Morico, Italy",,http://www.wikidata.org/entity/Q3948826
+1,Italia,Marche,Macerata,Bolognola,Villa Malvezzi,,,,,,,,,,
+1,Italia,Marche,Macerata,Caldarola,Vestignano,,,,,,,,,,
+1,Italia,Marche,Macerata,Camerino,Piegusciano,Piegusciano,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18497654
+1,Italia,Marche,Macerata,Camerino,Valdiea,Valdiea,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18497975
+1,Italia,Marche,Macerata,Camporotondo di Fiastrone,Colfano,,,,,,,,,,
+1,Italia,Marche,Macerata,Castelraimondo,Castel Santa Maria,,,,,,,,,,
+1,Italia,Marche,Macerata,Castelsantangelo sul Nera,Nocria,Nocria,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7050713,
+1,Italia,Marche,Macerata,Castelsantangelo sul Nera,Vallinfante,Vallinfante,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7037954,
+1,Italia,Marche,Macerata,Cessapalombo,Monastero,Monastero,,,,,,,"human settlement in Cessapalombo, Italy",,http://www.wikidata.org/entity/Q18497516
+1,Italia,Marche,Macerata,Cingoli,Valcarecce,,,,,,,,,,
+1,Italia,Marche,Macerata,Fiastra,San Lorenzo al Lago,,,,,,,,,,
+1,Italia,Marche,Macerata,Fiordimonte,Castello,Castello,,,,,,,,,http://www.wikidata.org/entity/Q113574289
+1,Italia,Marche,Macerata,Fiuminata,Valcora,Valcora,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18497973
+1,Italia,Marche,Macerata,Gagliole,Cerqueto,,,,,,,,,,
+1,Italia,Marche,Macerata,Monte Cavallo,Valcaldara,,,,,,,,,,
+1,Italia,Marche,Macerata,Pievebovigliana,San Maroto,,,,,,,,,,
+1,Italia,Marche,Macerata,Pioraco,Seppio,,,,,,,,,,
+1,Italia,Marche,Macerata,San Severino Marche,Gaglianvecchio,,,,,,,,,,
+1,Italia,Marche,Macerata,San Severino Marche,Parolito,,,,,,,,,,
+1,Italia,Marche,Macerata,San Severino Marche,Rocchetta,,,,,,,,,,
+1,Italia,Marche,Macerata,Serrapetrona,Castel San Venanzo,,,,,,,,,,
+1,Italia,Marche,Macerata,Ussita,Pieve,Pieve,,,,,,,,,http://www.wikidata.org/entity/Q18497656
+1,Italia,Marche,Pesaro e Urbino,,Candelara,Candelara,,,,,inhabited places,,,http://vocab.getty.edu/tgn/3000401,
+1,Italia,Marche,Pesaro e Urbino,Gabicce Mare,Gabicce Monte,,,,,,,,,,
+1,Italia,Marche,Pesaro e Urbino,Pesaro,Santa Maria Dell'Arzilla,Santa Maria dell'Arzilla,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18498881
+1,Italia,Marche,Pesaro e Urbino,Urbino,Canavaccio,Canavaccio,,,,,,,Italian village of Urbino,,http://www.wikidata.org/entity/Q16536208
+1,Italia,Molise,Isernia,Pozzilli,Santa Maria Oliveto,,,,,,,,,,
+1,Italia,Piemonte,Alessandria,Conzano,San Maurizio,San Maurizio,,,,,,,,,http://www.wikidata.org/entity/Q18502230
+1,Italia,Piemonte,Biella,Biella,Oropa,,,,,,,,,,
+1,Italia,Piemonte,Biella,Cossato,Castellengo,Castellengo,,,,,,,"human settlement in Cossato, Province of Biella, Piedmont, Italy",,http://www.wikidata.org/entity/Q5756806
+1,Italia,Piemonte,Cuneo,Mondovì,Borgo S. Croce,,,,,,,,,,
+1,Italia,Piemonte,Cuneo,Mondovì,Carassone,,,,,,,,,,
+1,Italia,Piemonte,Cuneo,Mondovì,Mondovì Carassone,,,,,,,,,,
+1,Italia,Piemonte,Cuneo,Savigliano,Maresco,,,,,,,,,,
+1,Italia,Piemonte,Cuneo,Vicoforte,Fiamenga,,,,,,,,,,
+1,Italia,Piemonte,Novara,Novara,Gionzana,Gionzana,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q3765127
+1,Italia,Piemonte,Novara,Novara,Vignarello,,,,,,,,,,
+1,Italia,Piemonte,Torino,Carmagnola,Vallongo,,,,,,,,,,
+1,Italia,Piemonte,Torino,Nichelino,Stupinigi,,,,,,,,,,
+1,Italia,Piemonte,Verbano-Cusio-Ossola,Domodossola,Vagna,,,,,,,,,,
+1,Italia,Piemonte,Verbano-Cusio-Ossola,Oggebbio,Cadessino,,,,,,,,,,
+1,Italia,Piemonte,Verbano-Cusio-Ossola,Verbania,Intra,,,,,,,,,,
+1,Italia,Piemonte,Verbano-Cusio-Ossola,Villadossola,Boschetto,,,,,,,,,,
+1,Italia,Puglia,Foggia,Isole Tremiti,San Nicola di Tremiti,,,,,,,,,,
+1,Italia,Puglia,Foggia,Manfredonia,San Leonardo di Siponto,San Leonardo di Siponto,,,,,,,church,,http://www.wikidata.org/entity/Q1409908
+1,Italia,Puglia,Lecce,Tricase,Marina Serra,Marina Serra,,,,,,,"human settlement in Tricase, Province of Lecce, Apulia, Italy",,http://www.wikidata.org/entity/Q2606016
+1,Italia,Sicilia,Messina,Messina,Ganzirri,Ganzirri,,,,,,,"human settlement in Messina, Sicily, Italy",,http://www.wikidata.org/entity/Q2362795
+1,Italia,Sicilia,Messina,Messina,Sperone,Sperone,,,,,,,,,http://www.wikidata.org/entity/Q97597770
+1,Italia,Sicilia,Palermo,Palermo,Acquasanta,Acquasanta,,,,,,,first-level unit of Palermo,,http://www.wikidata.org/entity/Q3604684
+1,Italia,Sicilia,Palermo,Palermo,Santa Maria di Gesù,Santa Maria di Gesù,,,,,,,"human settlement in Palermo, Sicily, Italy",,http://www.wikidata.org/entity/Q1072509
+1,Italia,Toscana,Arezzo,Anghiari,Micciano,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Arezzo,Campriano,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Arezzo,Rigutino,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Arezzo,Vitiano,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Bibbiena,Terrossola,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Bucine,Badia a Ruoti,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Castel Focognano,Carda,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Castel San Niccolò,Borgo alla Collina,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Castel San Niccolò,Caiano,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Castel San Niccolò,Pagliericcio,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Castel San Niccolò,Vertelli,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Castiglion Fiorentino,Pergognano,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Cortona,Camucia,Camucia,,,,,,,hamlet of Cortona,,http://www.wikidata.org/entity/Q2540274
+1,Italia,Toscana,Arezzo,Cortona,Falzano,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Cortona,Le Celle,Le Celle,,,,,,,"Ancient XIII century Franciscan convent in Cortona section of Celle, Arezzo,",,http://www.wikidata.org/entity/Q3689499
+1,Italia,Toscana,Arezzo,Cortona,Metelliano,Metelliano,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18485646
+1,Italia,Toscana,Arezzo,Poppi,Convento di Certomondo,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Pratovecchio,Casalino,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Pratovecchio,Valiana,,,,,,,,,,
+1,Italia,Toscana,Arezzo,San Giovanni Valdarno,Montecarlo,,,,,,,,,,
+1,Italia,Toscana,Arezzo,Terranuova Bracciolini,Montemarciano,,,,,,,,,,
+1,Italia,Toscana,FI,Bagno a Ripoli,Antella,Antella,,,,,,,frazione of Italy,,http://www.wikidata.org/entity/Q18486358
+1,Italia,Toscana,FI,Barberino Val d'Elsa,Petrognano,,,,,,,,,,
+1,Italia,Toscana,FI,Castelfiorentino,Cambiano,,,,,,,,,,
+1,Italia,Toscana,FI,Castelfiorentino,Gello,,,,,,,,,,
+1,Italia,Toscana,FI,Fiesole,San Domenico,San Domenico,,,,,,,"village in Fiesole, in the province of Florence, Italy",,http://www.wikidata.org/entity/Q2789382
+1,Italia,Toscana,FI,Fiesole,Vincigliata,Vincigliata,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18487555
+1,Italia,Toscana,FI,Firenze,Arcetri,Arcetri,,,,,rioni,,,http://vocab.getty.edu/tgn/5002851,
+1,Italia,Toscana,FI,Firenze,Legnaia,Legnaia,,,,,,,quarter in Borough 4 of Florence,,http://www.wikidata.org/entity/Q3829959
+1,Italia,Toscana,FI,Firenze,Settignano,Settignano,,,,,rioni,,"human settlement in Florence, Tuscany, Italy",http://vocab.getty.edu/tgn/7006128,http://www.wikidata.org/entity/Q942605
+1,Italia,Toscana,FI,Lastra a Signa,Malmantile,,,,,,,,,,
+1,Italia,Toscana,FI,San Casciano in Val di Pesa,Mercatale,Mercatale,,,,,,,"frazione in San Casciano in Val di Pesa, Italy",,http://www.wikidata.org/entity/Q666388
+1,Italia,Toscana,FI,San Casciano in Val di Pesa,Sugana,Sugana,,,,,,,,,http://www.wikidata.org/entity/Q123753857
+1,Italia,Toscana,FI,Tavarnelle Val di Pesa,Badia a Passignano,,,,,,,,,,
+1,Italia,Toscana,FI,Tavarnelle Val di Pesa,Morrocco,,,,,,,,,,
+1,Italia,Toscana,Firenze,,Vigliano,,,,,,,,,,
+1,Italia,Toscana,Firenze,Bagno a Ripoli,Candeli,Candeli,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18486611
+1,Italia,Toscana,Firenze,Bagno a Ripoli,Osteria Nuova,Osteria Nuova,,,,,,,,,http://www.wikidata.org/entity/Q18487184
+1,Italia,Toscana,Firenze,Bagno a Ripoli,Paterno,Paterno,,,,,,,,,http://www.wikidata.org/entity/Q18487204
+1,Italia,Toscana,Firenze,Bagno a Ripoli,Ponte a Ema,Ponte a Ema,,,,,,,"human settlement in Florence, Tuscany, Italy",,http://www.wikidata.org/entity/Q1963104
+1,Italia,Toscana,Firenze,Bagno a Ripoli,Quarate - Borro di Rapale,,,,,,,,,,
+1,Italia,Toscana,Firenze,Barberino Val d'Elsa,Cortine,,,,,,,,,,
+1,Italia,Toscana,Firenze,Barberino Val d'Elsa,Linari,,,,,,,,,,
+1,Italia,Toscana,Firenze,Barberino Val d'Elsa,Pastine,,,,,,,,,,
+1,Italia,Toscana,Firenze,Barberino di Mugello,Galliano,,,,,,,,,,
+1,Italia,Toscana,Firenze,Barberino di Mugello,Latera,,,,,,,,,,
+1,Italia,Toscana,Firenze,Borgo San Lorenzo,Panicaglia,Panicaglia,,,,,,,"human settlement in Borgo San Lorenzo, Metropolitan City of Florence, Tuscany, Italy",,http://www.wikidata.org/entity/Q18487196
+1,Italia,Toscana,Firenze,Borgo San Lorenzo,Sagginale,Sagginale,,,,,,,"human settlement in Borgo San Lorenzo, Metropolitan City of Florence, Tuscany, Italy",,http://www.wikidata.org/entity/Q3944820
+1,Italia,Toscana,Firenze,Borgo San Lorenzo,Valcava,,,,,,,,,,
+1,Italia,Toscana,Firenze,Calenzano,Legri,,,,,,,,,,
+1,Italia,Toscana,Firenze,Calenzano,Sommaia,,,,,,,,,,
+1,Italia,Toscana,Firenze,Castelfiorentino,Castelnuovo d'Elsa,,,,,,,,,,
+1,Italia,Toscana,Firenze,Castelfiorentino,Dogana,,,,,,,,,,
+1,Italia,Toscana,Firenze,Certaldo,Marcialla,,,,,,,,,,
+1,Italia,Toscana,Firenze,Certaldo,Nebbiano,,,,,,,,,,
+1,Italia,Toscana,Firenze,Dicomano,Celle,,,,,,,,,,
+1,Italia,Toscana,Firenze,Empoli,Pontorme,Pontorme,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q3908310
+1,Italia,Toscana,Firenze,Empoli,Sovigliana,,,,,,,,,,
+1,Italia,Toscana,Firenze,Fiesole,Caldine,Caldine,,,,,,,settlement in the Italian municipality of Fiesole,,http://www.wikidata.org/entity/Q18486545
+1,Italia,Toscana,Firenze,Fiesole,Castel di Poggio,Castel di Poggio,,,,,,,"building in Fiesole, Italy",,http://www.wikidata.org/entity/Q3662195
+1,Italia,Toscana,Firenze,Fiesole,Compiobbi,Compiobbi,,,,,,,"human settlement in Fiesole, Metropolitan City of Florence, Tuscany, Italy",,http://www.wikidata.org/entity/Q3685134
+1,Italia,Toscana,Firenze,Firenze,Caldine,,,,,,,,,,
+1,Italia,Toscana,Firenze,Firenze,Grassina,,,,,,,,,,
+1,Italia,Toscana,Firenze,Firenze,Mezzomonte,,,,,,,,,,
+1,Italia,Toscana,Firenze,Firenze,Monterappoli,,,,,,,,,,
+1,Italia,Toscana,Firenze,Firenze,Montughi,Montughi,,,,,,,hill of the city of Florence,,http://www.wikidata.org/entity/Q3862541
+1,Italia,Toscana,Firenze,Firenze,Novoli,Novoli,,,,,,,"settlement in Florence, Italy",,http://www.wikidata.org/entity/Q2003029
+1,Italia,Toscana,Firenze,Firenze,Pontassieve,,,,,,,,,,
+1,Italia,Toscana,Firenze,Firenze,Rifredi,Rifredi,,,,,rioni,,"quarter of Florence, Italy",http://vocab.getty.edu/tgn/4009272,http://www.wikidata.org/entity/Q3935372
+1,Italia,Toscana,Firenze,Firenze,Santa Brigida,,,,,,,,,,
+1,Italia,Toscana,Firenze,Gambassi Terme,Chianni,Chianni,,,,,,,"human settlement in Firenze, Italy",,http://www.wikidata.org/entity/Q18486805
+1,Italia,Toscana,Firenze,Greve in Chianti,Cintoia,,,,,,,,,,
+1,Italia,Toscana,Firenze,Greve in Chianti,Citille,,,,,,,,,,
+1,Italia,Toscana,Firenze,Greve in Chianti,Vignamaggio,,,,,,,,,,
+1,Italia,Toscana,Firenze,Impruneta,Mezzomonte,,,,,,,,,,
+1,Italia,Toscana,Firenze,Incisa in Val d'Arno,Loppiano,,,,,,,,,,
+1,Italia,Toscana,Firenze,Incisa in Val d'Arno,Montelfi,,,,,,,,,,
+1,Italia,Toscana,Firenze,Lastra a Signa,San Martino a Carcheri,,,,,,,,,,
+1,Italia,Toscana,Firenze,Montespertoli,Botinaccio,,,,,,,,,,
+1,Italia,Toscana,Firenze,Montespertoli,Montagnana Val di Pesa,,,,,,,,,,
+1,Italia,Toscana,Firenze,Montespertoli,Montegufoni,,,,,,,,,,
+1,Italia,Toscana,Firenze,Montespertoli,Ortimino,,,,,,,,,,
+1,Italia,Toscana,Firenze,Montespertoli,Voltigiano,,,,,,,,,,
+1,Italia,Toscana,Firenze,Pelago,Ferrano,Ferrano,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18486903
+1,Italia,Toscana,Firenze,Pelago,Pagiano,Pagiano,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18487190
+1,Italia,Toscana,Firenze,Pontassieve,Acone,,,,,,,,,,
+1,Italia,Toscana,Firenze,Pontassieve,Galiga,,,,,,,,,,
+1,Italia,Toscana,Firenze,Pontassieve,Montefiesole,,,,,,,,,,
+1,Italia,Toscana,Firenze,Pontassieve,Sieci,,,,,,,,,,
+1,Italia,Toscana,Firenze,Rignano sull'Arno,Torri,,,,,,,,,,
+1,Italia,Toscana,Firenze,Rufina,Pomino,,,,,,,,,,
+1,Italia,Toscana,Firenze,San Casciano in Val di Pesa,Mercatale Val di Pesa,,,,,,,,,,
+1,Italia,Toscana,Firenze,San Casciano in Val di Pesa,Mulino di Sugana,Mulino di Sugana,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18487172
+1,Italia,Toscana,Firenze,San Casciano in Val di Pesa,Pisignano,,,,,,,,,,
+1,Italia,Toscana,Firenze,San Casciano in Val di Pesa,Romola,Romola,,,,,,,"village in Italy, near Florence",,http://www.wikidata.org/entity/Q18487315
+1,Italia,Toscana,Firenze,San Godenzo,Castagno d'Andrea,,,,,,,,,,
+1,Italia,Toscana,Firenze,Scandicci,Badia a Settimo,Badia a Settimo,,,,,,,"abbey in Scandicci, Tuscany, Italy",,http://www.wikidata.org/entity/Q1775928
+1,Italia,Toscana,Firenze,Scandicci,Marciola,Marciola,,,,,,,"kindergarten in Scandicci, Florence, Tuscany, Italy",,http://www.wikidata.org/entity/Q52789561
+1,Italia,Toscana,Firenze,Scandicci,San Vincenzo a Torri,San Vincenzo a Torri,,,,,,,"human settlement in Scandicci, Metropolitan City of Florence, Tuscany, Italy",,http://www.wikidata.org/entity/Q18487373
+1,Italia,Toscana,Firenze,Sesto Fiorentino,Canonica Di Cercina,,,,,,,,,,
+1,Italia,Toscana,Firenze,Sesto Fiorentino,Colonnata,,,,,,,,,,
+1,Italia,Toscana,Firenze,Signa,Lecore,,,,,,,,,,
+1,Italia,Toscana,Firenze,Tavarnelle Val di Pesa,Cozzi,,,,,,,,,,
+1,Italia,Toscana,Firenze,Tavarnelle Val di Pesa,Marcialla,,,,,,,,,,
+1,Italia,Toscana,Firenze,Tavarnelle Val di Pesa,Palazzolo,,,,,,,,,,
+1,Italia,Toscana,Firenze,Tavarnelle Val di Pesa,Passignano,,,,,,,,,,
+1,Italia,Toscana,Firenze,Tavarnelle Val di Pesa,San Pietro in Bossolo,,,,,,,,,,
+1,Italia,Toscana,Firenze,Vaglia,Bivigliano,,,,,,,,,,
+1,Italia,Toscana,Firenze,Vaglia,Ferraglia,,,,,,,,,,
+1,Italia,Toscana,Firenze,Vinci,Sovigliana,,,,,,,,,,
+1,Italia,Toscana,Firenze,Vinci,Streda,Streda,,,,,,,hamlet of Vinci,,http://www.wikidata.org/entity/Q122160972
+1,Italia,Toscana,Grosseto,Manciano,Saturnia,Saturnia,,,,,,,"frazione of Italy, hamlet of Manciano",,http://www.wikidata.org/entity/Q1511221
+1,Italia,Toscana,Grosseto,Scansano,Poggioferro,Poggioferro,,,,,inhabited places,,frazione of Italy,http://vocab.getty.edu/tgn/7055432,http://www.wikidata.org/entity/Q2629092
+1,Italia,Toscana,Lucca,Bagni di Lucca,Granaiola,Granaiola,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18488732
+1,Italia,Toscana,Lucca,Capannori,Ruota,,,,,,,,,,
+1,Italia,Toscana,Lucca,Coreglia Antelminelli,Tereglio,,,,,,,,,,
+1,Italia,Toscana,Lucca,Lucca,Antraccoli,Antraccoli,,,,,,,,,http://www.wikidata.org/entity/Q88206538
+1,Italia,Toscana,Lucca,Lucca,S. Cassiano a Vico,,,,,,,,,,
+1,Italia,Toscana,Lucca,Lucca,San Pietro a Vico,San Pietro a Vico,,,,,,,railway station in Italy,,http://www.wikidata.org/entity/Q3970843
+1,Italia,Toscana,Lucca,Massarosa,Corsanico,Corsanico,,,,,,,"human settlement in Massarosa, Province of Lucca, Tuscany, Italy",,http://www.wikidata.org/entity/Q3694572
+1,Italia,Toscana,Lucca,Massarosa,Pieve a Elici,Pieve a Elici,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18488967
+1,Italia,Toscana,Lucca,Massarosa,Quiesa,Quiesa,,,,,,,"human settlement in Massarosa, Province of Lucca, Tuscany, Italy",,http://www.wikidata.org/entity/Q56599154
+1,Italia,Toscana,Lucca,Piazza al Serchio,Sant'Anastasio,,,,,,,,,,
+1,Italia,Toscana,Lucca,Pieve Fosciana,Capraia,,,,,,,,,,
+1,Italia,Toscana,Lucca,Porcari,Rughi,,,,,,,,,,
+1,Italia,Toscana,Lucca,Sillano,Rocca Soraggio,,,,,,,,,,
+1,Italia,Toscana,Lucca,Villa Basilica,Pariana,,,,,,,,,,
+1,Italia,Toscana,Massa - Carrara,Carrara,Torano,Torano,,,,,,,frazione of Italy,,http://www.wikidata.org/entity/Q1643886
+1,Italia,Toscana,Massa - Carrara,Casola in Lunigiana,Codiponte,Codiponte,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q12055213
+1,Italia,Toscana,Massa - Carrara,Fivizzano,Terenzano,Terenzano,,,,,,,settlement in the Italian municipality of Fivizzano,,http://www.wikidata.org/entity/Q18489900
+1,Italia,Toscana,Massa - Carrara,Licciana Nardi,Varano,,,,,,,,,,
+1,Italia,Toscana,Pisa,Cascina,San Frediano a Settimo,,,,,,,,,,
+1,Italia,Toscana,Pisa,Castelnuovo di Val di Cecina,Montecastelli Pisano,,,,,,,,,,
+1,Italia,Toscana,Pisa,Crespina,Tripalle,,,,,,,,,,
+1,Italia,Toscana,Pisa,Lari,Casciana Alta,,,,,,,,,,
+1,Italia,Toscana,Pisa,Lari,Ripoli,,,,,,,,,,
+1,Italia,Toscana,Pisa,Montopoli in Val d'Arno,Varramista,,,,,,,,,,
+1,Italia,Toscana,Pisa,Palaia,Agliati,,,,,,,,,,
+1,Italia,Toscana,Pisa,Palaia,Gello,,,,,,,,,,
+1,Italia,Toscana,Pisa,Peccioli,Cedri,,,,,,,,,,
+1,Italia,Toscana,Pisa,Pisa,Riglione,Riglione,,,,,,,"neighbourhood in Pisa, Italy",,http://www.wikidata.org/entity/Q3935752
+1,Italia,Toscana,Pisa,Pomarance,Montecerboli,,,,,,,,,,
+1,Italia,Toscana,Pisa,Pontedera,Montecastello,,,,,,,,,,
+1,Italia,Toscana,Pisa,San Giuliano Terme,Agnano,Agnano,,,,,,,hamlet of San Giuliano Terme,,http://www.wikidata.org/entity/Q18490015
+1,Italia,Toscana,Pisa,San Giuliano Terme,Pontasserchio,Pontasserchio,,,,,,,"frazione of San Giuliano Terme, Italy",,http://www.wikidata.org/entity/Q18490465
+1,Italia,Toscana,Pisa,San Giuliano Terme,Pugnano,Pugnano,,,,,,,hamlet of San Giuliano Terme,,http://www.wikidata.org/entity/Q18490480
+1,Italia,Toscana,Pisa,San Giuliano Terme,Rigoli,Rigoli,,,,,,,"frazione of San Giuliano Terme, Italy",,http://www.wikidata.org/entity/Q20009332
+1,Italia,Toscana,Pisa,San Miniato,Balconevisi,,,,,,,,,,
+1,Italia,Toscana,Pisa,San Miniato,Canneto,,,,,,,,,,
+1,Italia,Toscana,Pisa,San Miniato,Collegarli,,,,,,,,,,
+1,Italia,Toscana,Pisa,San Miniato,Corazzano,,,,,,,,,,
+1,Italia,Toscana,Pisa,San Miniato,Montebicchieri,,,,,,,,,,
+1,Italia,Toscana,Pisa,Terricciola,Soiana,,,,,,,,,,
+1,Italia,Toscana,Pisa,Vicopisano,San Giovanni Alla Vena,San Giovanni alla Vena,,,,,,,"hamlet of Vicopisano, Italy",,http://www.wikidata.org/entity/Q18785556
+1,Italia,Toscana,Pisa,Volterra,Strada,,,,,,,,,,
+1,Italia,Toscana,Pisa,Volterra,Villamagna,Villamagna,,,,,,,hamlet of Volterra,,http://www.wikidata.org/entity/Q18490609
+1,Italia,Toscana,Pistoia,Buggiano,Borgo a Buggiano,,,,,,,,,,
+1,Italia,Toscana,Pistoia,Lamporecchio,San Baronto,,,,,,,,,,
+1,Italia,Toscana,Pistoia,Montecatini-Terme,Montorsoli,,,,,,,,,,
+1,Italia,Toscana,Pistoia,Pescia,Collodi,,,,,,,,,,
+1,Italia,Toscana,Pistoia,Pistoia,Masiano,Masiano,,,,,,,"human settlement in Pistoia, Province of Pistoia, Tuscany, Italy",,http://www.wikidata.org/entity/Q3850796
+1,Italia,Toscana,Pistoia,Pistoia,Saturnana,Saturnana,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18491204
+1,Italia,Toscana,Pistoia,Piteglio,Popiglio,,,,,,,,,,
+1,Italia,Toscana,Pistoia,Serravalle Pistoiese,Casalguidi,,,,,,,,,,
+1,Italia,Toscana,Pistoia,Serravalle Pistoiese,Castellina,,,,,,,,,,
+1,Italia,Toscana,Prato,Prato,Carteano,Carteano,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18491323
+1,Italia,Toscana,Prato,Prato,Figline,,,,,,,,,,
+1,Italia,Toscana,Prato,Prato,Tavola,Tavola,,,,,,,frazione of Italy,,http://www.wikidata.org/entity/Q944481
+1,Italia,Toscana,Siena,Castellina in Chianti,Sant'Agnese,Sant'Agnese,,,,,,,hamlet of Castellina in Chianti,,http://www.wikidata.org/entity/Q33060531
+1,Italia,Toscana,Siena,Castelnuovo Berardenga,Badia Monastero,,,,,,,,,,
+1,Italia,Toscana,Siena,Castelnuovo Berardenga,Geggiano,,,,,,,,,,
+1,Italia,Toscana,Siena,Castelnuovo Berardenga,Monastero d'Ombrone,,,,,,,,,,
+1,Italia,Toscana,Siena,Castelnuovo Berardenga,Vagliagli,Vagliagli,,,,,,,hamlet of Castelnuovo Berardenga,,http://www.wikidata.org/entity/Q4007233
+1,Italia,Toscana,Siena,Castiglione d'Orcia,Rocca d'Orcia,Rocca d'Orcia,,,,,,,hamlet of Castiglione d'Orcia,,http://www.wikidata.org/entity/Q2795287
+1,Italia,Toscana,Siena,Chiusdino,Frosini,Frosini,,,,,,,hamlet of Chiusdino,,http://www.wikidata.org/entity/Q18491665
+1,Italia,Toscana,Siena,Chiusdino,Montesiiepi,,,,,,,,,,
+1,Italia,Toscana,Siena,Colle di Val d'Elsa,Castel San Gimignano,,,,,,,,,,
+1,Italia,Toscana,Siena,Colle di Val d'Elsa,Collalto,,,,,,,,,,
+1,Italia,Toscana,Siena,Montalcino,Camigliano,,,,,,,,,,
+1,Italia,Toscana,Siena,Montalcino,Montisi,,,,,,,,,,
+1,Italia,Toscana,Siena,Montalcino,Pieve a Salti,,,,,,,,,,
+1,Italia,Toscana,Siena,Montalcino,Poggio alle Mura,,,,,,,,,,
+1,Italia,Toscana,Siena,Montalcino,Sant'Angelo in Colle,,,,,,,,,,
+1,Italia,Toscana,Siena,Montalcino,Torrenieri,,,,,,,,,,
+1,Italia,Toscana,Siena,Montepulciano,Montecastello,,,,,,,,,,
+1,Italia,Toscana,Siena,Monteriggioni,Abbadia a Isola,,,,,,,,,,
+1,Italia,Toscana,Siena,Poggibonsi,Cedda,Cedda,,,,,,,"human settlement in Poggibonsi, Province of Siena, Tuscany, Italy",,http://www.wikidata.org/entity/Q18491571
+1,Italia,Toscana,Siena,Poggibonsi,Padule,,,,,,,,,,
+1,Italia,Toscana,Siena,Poggibonsi,Staggia,Staggia,,,,,,,"hamlet of Poggibonsi, Italy",,http://www.wikidata.org/entity/Q1367559
+1,Italia,Toscana,Siena,Radda in Chianti,Lucarelli,,,,,,,,,,
+1,Italia,Toscana,Siena,Radda in Chianti,Volpaia,,,,,,,,,,
+1,Italia,Toscana,Siena,Rapolano Terme,Serre Di Rapolano,,,,,,,,,,
+1,Italia,Toscana,Siena,Rapolano Terme,Serre di Rapolano,,,,,,,,,,
+1,Italia,Toscana,Siena,San Gimignano,Casaglia,,,,,,,,,,
+1,Italia,Toscana,Siena,San Gimignano,Larniano,,,,,,,,,,
+1,Italia,Toscana,Siena,San Gimignano,Ulignano,Ulignano,,,,,,,hamlet of San Gimignano,,http://www.wikidata.org/entity/Q18492034
+1,Italia,Toscana,Siena,Siena,Abbadia,Abbadia,,,,,,,hamlet of Siena,,http://www.wikidata.org/entity/Q18491420
+1,Italia,Toscana,Siena,Siena,Le Tolfe,Le Tolfe,,,,,,,"hamlet of Siena, Italy",,http://www.wikidata.org/entity/Q18491724
+1,Italia,Toscana,Siena,Siena,Lecceto,,,,,,,,,,
+1,Italia,Toscana,Siena,Siena,Montepertuso,,,,,,,,,,
+1,Italia,Toscana,Siena,Siena,Petriolo,,,,,,,,,,
+1,Italia,Toscana,Siena,Siena,San Rocco a Pilli,,,,,,,,,,
+1,Italia,Toscana,Siena,Siena,Sant'Andrea a Montecchio,Sant'Andrea a Montecchio,,,,,,,"church building in Sant'Andrea a Montecchio, Siena",,http://www.wikidata.org/entity/Q122102493
+1,Italia,Toscana,Siena,Siena,Terrenzano,Terrenzano,,,,,,,,,http://www.wikidata.org/entity/Q123753875
+1,Italia,Toscana,Siena,Siena,Val di Pugna,Val di Pugna,,,,,,,"hamlet of Siena, Italy",,http://www.wikidata.org/entity/Q18492038
+1,Italia,Toscana,Siena,Siena,Vignano,Vignano,,,,,,,"village in Siena, Tuscany",,http://www.wikidata.org/entity/Q98834030
+1,Italia,Toscana,Siena,Sinalunga,Farnetella,Farnetella,,,,,,,"human settlement in Sinalunga, Province of Siena, Tuscany, Italy",,http://www.wikidata.org/entity/Q2157635
+1,Italia,Toscana,Siena,Sinalunga,Fratta,Fratta,,,,,,,"village in Sinalunga, Italy",,http://www.wikidata.org/entity/Q3820862
+1,Italia,Toscana,Siena,Sovicille,Rosia,,,,,,,,,,
+1,Italia,Toscana,Siena,Sovicille,Torri,,,,,,,,,,
+1,Italia,Toscana,Siena,Trequanda,Petroio,Petroio,,,,,,,"hamlet of Trequanda, Province of Siena, Italy",,http://www.wikidata.org/entity/Q3246578
+1,Italia,Trentino-Alto Adige,Bolzano,Ortisei - St. Ulrich,San Giacomo,,,,,,,,,,
+1,Italia,Trentino-Alto Adige,Trento,Coredo,San Romedio,,,,,,,,,,
+1,Italia,Trentino-Alto Adige,Trento,Pomarolo,Chiusole,Chiusole,,,,,,,"human settlement in Pomarolo, Trentino, Trentino-South Tyrol, Italy",,http://www.wikidata.org/entity/Q3675247
+1,Italia,Umbria,Perugia,Assisi,Castelnuovo,,,,,,,,,,
+1,Italia,Umbria,Perugia,Assisi,Colderba,,,,,,,,,,
+1,Italia,Umbria,Perugia,Assisi,Petrignano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Bevagna,Torre Del Colle,,,,,,,,,,
+1,Italia,Umbria,Perugia,Cascia,Cerasola,,,,,,,,,,
+1,Italia,Umbria,Perugia,Cascia,Colle S. Stefano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Cascia,Colle di Avendita,,,,,,,,,,
+1,Italia,Umbria,Perugia,Cascia,Fogliano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Cascia,Maltignano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Cascia,Piandoli,,,,,,,,,,
+1,Italia,Umbria,Perugia,Cascia,San Giorgio,,,,,,,,,,
+1,Italia,Umbria,Perugia,Castel Ritaldi,Bruna,,,,,,,,,,
+1,Italia,Umbria,Perugia,Castel Ritaldi,Colle del Marchese,,,,,,,,,,
+1,Italia,Umbria,Perugia,Cerreto di Spoleto,Ponte di Borgo,,,,,,,,,,
+1,Italia,Umbria,Perugia,Città di Castello,Badia Petroia,Badia Petroia,,,,,,,hamlet of Città di Castello,,http://www.wikidata.org/entity/Q3111245
+1,Italia,Umbria,Perugia,Collazzone,Casalalta,,,,,,,,,,
+1,Italia,Umbria,Perugia,Corciano,Migiana,,,,,,,,,,
+1,Italia,Umbria,Perugia,Deruta,Fanciullata,Fanciullata,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18492758
+1,Italia,Umbria,Perugia,Foligno,Cancelli,,,,,,,,,,
+1,Italia,Umbria,Perugia,Foligno,Marano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Foligno,Roviglieto,,,,,,,,,,
+1,Italia,Umbria,Perugia,Foligno,Serrone,,,,,,,,,,
+1,Italia,Umbria,Perugia,Foligno,Verchiano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Giano dell'Umbria,Castagnola,,,,,,,,,,
+1,Italia,Umbria,Perugia,Gualdo Tadino,Nasciano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Gualdo Tadino,Pastina,Pastina,,,,,,,,,http://www.wikidata.org/entity/Q18493348
+1,Italia,Umbria,Perugia,Gubbio,Camporeggiano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Gubbio,Pieve di Agnano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Gubbio,Valdichiascio,,,,,,,,,,
+1,Italia,Umbria,Perugia,Lisciano Niccone,Val di Rose,,,,,,,,,,
+1,Italia,Umbria,Perugia,Magione,Monte Del Lago,,,,,,,,,,
+1,Italia,Umbria,Perugia,Marsciano,Cerqueto,,,,,,,,,,
+1,Italia,Umbria,Perugia,Marsciano,Olmeto,,,,,,,,,,
+1,Italia,Umbria,Perugia,Marsciano,Papiano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Marsciano,Pieve Caina,,,,,,,,,,
+1,Italia,Umbria,Perugia,Marsciano,Spina,,,,,,,,,,
+1,Italia,Umbria,Perugia,Montefalco,Montepennino,Montepennino,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18493187
+1,Italia,Umbria,Perugia,Nocera Umbra,Acciano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Nocera Umbra,Boschetto,,,,,,,,,,
+1,Italia,Umbria,Perugia,Nocera Umbra,Colle Aprico,,,,,,,,,,
+1,Italia,Umbria,Perugia,Norcia,Capo del Colle Ancarano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Norcia,Forsivo,Forsivo,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18492807
+1,Italia,Umbria,Perugia,Norcia,San Marco,San Marco,,,,,,,"human settlement in Norcia, Italy",,http://www.wikidata.org/entity/Q3947584
+1,Italia,Umbria,Perugia,Norcia,San Pellegrino,San Pellegrino,,,,,,,"human settlement in Norcia, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q18493839
+1,Italia,Umbria,Perugia,Norcia,Sant'Andrea,,,,,,,,,,
+1,Italia,Umbria,Perugia,Norcia,Savelli,Savelli,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18493972
+1,Italia,Umbria,Perugia,Passignano sul Trasimeno,San Vito,San Vito,,,,,,,hamlet of Passignano sul Trasimeno,,http://www.wikidata.org/entity/Q18493874
+1,Italia,Umbria,Perugia,Perugia,Castel del Piano,Castel del Piano,,,,,,,"human settlement in Perugia, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q2417503
+1,Italia,Umbria,Perugia,Perugia,Fratticiola Selvatica,Fratticiola Selvatica,,,,,,,"human settlement in Perugia, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q1829337
+1,Italia,Umbria,Perugia,Perugia,Piccione,Piccione,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18493416
+1,Italia,Umbria,Perugia,Perugia,Ponte Felcino,Ponte Felcino,,,,,,,"human settlement in Perugia, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q18493538
+1,Italia,Umbria,Perugia,Perugia,Ripa,Ripa,,,,,,,"human settlement in Perugia, Italy",,http://www.wikidata.org/entity/Q3936322
+1,Italia,Umbria,Perugia,Perugia,San Giovanni del Pantano,San Giovanni del Pantano,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q18493793
+1,Italia,Umbria,Perugia,Perugia,San Martino in Colle,San Martino in Colle,,,,,inhabited places,,"human settlement in Perugia, Province of Perugia, Umbria, Italy",http://vocab.getty.edu/tgn/7041362,http://www.wikidata.org/entity/Q18493826
+1,Italia,Umbria,Perugia,Perugia,Sant'Enea,Sant'Enea,,,,,,,"human settlement in Italy, hamlet of Perugia",,http://www.wikidata.org/entity/Q18493947
+1,Italia,Umbria,Perugia,Poggiodomo,Roccatamburo,Roccatamburo,,,,,,,"human settlement in Italy, hamlet of Poggiodomo",,http://www.wikidata.org/entity/Q18493703
+1,Italia,Umbria,Perugia,Preci,Abeto,Abeto,,,,,,,"frazione in Preci, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q2151408
+1,Italia,Umbria,Perugia,Preci,Montaglioni,Montaglioni,,,,,,,"human settlement in Preci, Italy",,http://www.wikidata.org/entity/Q3861060
+1,Italia,Umbria,Perugia,Preci,Todiano,Todiano,,,,,,,"human settlement in Preci, Province of Perugia, Umbria, Italy",,http://www.wikidata.org/entity/Q3992173
+1,Italia,Umbria,Perugia,San Giustino,Selci - Lama,,,,,,,,,,
+1,Italia,Umbria,Perugia,Sant'Anatolia di Narco,Castel San Felice,,,,,,,,,,
+1,Italia,Umbria,Perugia,Scheggino,Collefabbri,,,,,,,,,,
+1,Italia,Umbria,Perugia,Scheggino,San Valentino,,,,,,,,,,
+1,Italia,Umbria,Perugia,Sellano,Cammoro,,,,,,,,,,
+1,Italia,Umbria,Perugia,Sellano,Forfi,,,,,,,,,,
+1,Italia,Umbria,Perugia,Sellano,Pupaggi,,,,,,,,,,
+1,Italia,Umbria,Perugia,Spoleto,Azzano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Spoleto,Rapicciano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Spoleto,San Silvestro,,,,,,,,,,
+1,Italia,Umbria,Perugia,Spoleto,Sant'Angelo in Mercole,,,,,,,,,,
+1,Italia,Umbria,Perugia,Todi,Chioano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Trevi,Manciano,,,,,,,,,,
+1,Italia,Umbria,Perugia,Umbertide,Pierantonio,,,,,,,,,,
+1,Italia,Umbria,Perugia,Valfabbrica,Casacastalda,,,,,,,,,,
+1,Italia,Umbria,Perugia,Valfabbrica,Giomici,,,,,,,,,,
+1,Italia,Umbria,Perugia,Vallo di Nera,Piedipaterno sul Nera,,,,,,,,,,
+1,Italia,Umbria,Perugia,Valtopina,Gallano,,,,,,,,,,
+1,Italia,Umbria,Roma,Cascia,Fogliano,,,,,,,,,,
+1,Italia,Umbria,Terni,Acquasparta,Firenzuola,,,,,,,,,,
+1,Italia,Umbria,Terni,Amelia,Porchiano,,,,,,,,,,
+1,Italia,Umbria,Terni,Arrone,Casteldilago,,,,,,,,,,
+1,Italia,Umbria,Terni,Ferentillo,Macenano,Macenano,,,,,,,"frazione in Ferentillo, Italy",,http://www.wikidata.org/entity/Q18494802
+1,Italia,Umbria,Terni,Ferentillo,Monterivoso,Monterivoso,,,,,,,"frazione in Ferentillo, Italy",,http://www.wikidata.org/entity/Q18494844
+1,Italia,Umbria,Terni,Ferentillo,San Mamiliano,San Mamiliano,,,,,,,"frazione in Ferentillo, Italy",,http://www.wikidata.org/entity/Q18495012
+1,Italia,Umbria,Terni,Narni,Narni Scalo,Narni Scalo,,,,,inhabited places,,"human settlement in Narni, Province of Terni, Umbria, Italy",http://vocab.getty.edu/tgn/7051201,http://www.wikidata.org/entity/Q18494864
+1,Italia,Umbria,Terni,Terni,Collerolletta I,,,,,,,,,,
+1,Italia,Valle d'Aosta,Aosta,Arvier,Leverogne,,,,,,,,,,
+1,Italia,Veneto,Belluno,Belluno,Orzes,,,,,,,,,,
+1,Italia,Veneto,Belluno,Belluno,Sargnano,,,,,,,,,,
+1,Italia,Veneto,Belluno,Belluno,Tisoi,,,,,,,,,,
+1,Italia,Veneto,Belluno,Belluno,Visome,,,,,,,,,,
+1,Italia,Veneto,Belluno,Feltre,Villabruna - Umin,,,,,,,,,,
+1,Italia,Veneto,Padova,Candiana,Pontecasale,,,,,,,,,,
+1,Italia,Veneto,Padova,Padova,Pontevigodarzere,,,,,,,,,,
+1,Italia,Veneto,Padova,Padova,San Gregorio,,,,,,,,,,
+1,Italia,Veneto,Padova,Padova,Torre,Torre,,,,,,,frazione of Italy,,http://www.wikidata.org/entity/Q1120154
+1,Italia,Veneto,Padova,Ponte San Nicolò,Roncaiette,,,,,,,,,,
+1,Italia,Veneto,Padova,Teolo,Praglia,,,,,,,,,,
+1,Italia,Veneto,Rovigo,Rovigo,Mardimago,,,,,,,,,,
+1,Italia,Veneto,Treviso,Altivole,S. Vito,,,,,,,,,,
+1,Italia,Veneto,Treviso,Fregona,Osigo,,,,,,,,,,
+1,Italia,Veneto,Treviso,Mogliano Veneto,Zerman,Zerman,,,,,,,frazione of Mogliano Veneto,,http://www.wikidata.org/entity/Q2798066
+1,Italia,Veneto,Treviso,Paese,Padernello,,,,,,,,,,
+1,Italia,Veneto,Treviso,Preganziol,Sambughè,,,,,,,,,,
+1,Italia,Veneto,Treviso,Preganziol,Sambughé,,,,,,,,,,
+1,Italia,Veneto,Treviso,Vedelago,Cavasagra,,,,,,,,,,
+1,Italia,Veneto,Venezia,Santo Stino di Livenza,Corbolone,Corbolone,,,,,,,"settlement in San Stino di Livenza, Italy",,http://www.wikidata.org/entity/Q18503222
+1,Italia,Veneto,Venezia,Venezia,Carpenedo,Carpenedo,,,,,inhabited places,,"human settlement in Venice, Italy",http://vocab.getty.edu/tgn/7049424,http://www.wikidata.org/entity/Q3660659
+1,Italia,Veneto,Venezia,Venezia,Giudecca,La Giudecca,,,,,suburbs,"Island in the Venetian lagoon, S suburb of Venice, administratively part of the sestiere of Dorsoduro; site of church of Santa Eufemia (9th cen.), church of the Redentore (Palladio, 1577), church of the Zitelle (design by Palladio, 1579-1580).",,http://vocab.getty.edu/tgn/5004190,
+1,Italia,Veneto,Venezia,Venezia,Lido,Lido,,,,,,,settlement on island Lido de Venezia,,http://www.wikidata.org/entity/Q16866834
+1,Italia,Veneto,Venezia,Venezia,Malamocco,Malamocco,,,,,,,human settlement in Italy,,http://www.wikidata.org/entity/Q1886727
+1,Italia,Veneto,Verona,Bussolengo,Bussolengo,,,,,,,,,,
+1,Italia,Veneto,Verona,Caprino Veronese,Boi,Boi,,,,,,,village in Caprino Veronese,,http://www.wikidata.org/entity/Q113303876
+1,Italia,Veneto,Verona,Dolcè,Volargne,Volargne,,,,,,,"human settlement in Dolcè, Province of Verona, Veneto, Italy",,http://www.wikidata.org/entity/Q18505750
+1,Italia,Veneto,Verona,Illasi,Cellore,,,,,,,,,,
+1,Italia,Veneto,Verona,Lazise,Colà,Colà,,,,,,,"frazione of Lazise, Italy",,http://www.wikidata.org/entity/Q1113069
+1,Italia,Veneto,Verona,Legnago,Porto,,,,,,,,,,
+1,Italia,Veneto,Verona,Negrar,Arbizzano - Santa Maria,,,,,,,,,,
+1,Italia,Veneto,Verona,San Martino Buon Albergo,Marcellise,,,,,,,,,,
+1,Italia,Veneto,Verona,Verona,Montorio,Montorio,,,,,,,"kindergarten in Verona, Verona, Veneto, Italy",,http://www.wikidata.org/entity/Q52823921
+1,Italia,Veneto,Verona,Verona,Quinto di Valpantena,,,,,,,,,,
+1,Italia,Veneto,Verona,Vigasio,Alzeri,,,,,,,,,,
+1,Italia,Veneto,Vicenza,Cismon del Grappa,Primolano,,,,,,,,,,
+1,Italia,Veneto,Vicenza,Lugo di Vicenza,Villa Godi,Villa Godi,,,,,,,"villa in Lugo di Vicenza, Veneto, Italy",,http://www.wikidata.org/entity/Q2084394
+1,Italia,Veneto,Vicenza,Vicenza,Ilarione,,,,,,,,,,
+1,Paesi Bassi,,,Bennebroeck,De Hartekamp,,,,,,,,,,
+1,Polonia,,,Varsavia,Wilanów,Wilanów,,,,,,,"District of Warsaw, Poland.",,http://www.wikidata.org/entity/Q1887504
+1,Polonia,,,Wegorzewo,Czerwony Dwór,Czerwony Dwór,,,,,,,,,http://www.wikidata.org/entity/Q106189064
+1,Regno Unito,,,,Blandford,Blandford Forum,Blandford Forum,,,,inhabited places,,,http://vocab.getty.edu/tgn/7011286,
+1,Regno Unito,,,,"The Hendre, Monmouth",,,,,,,,,,
+1,Regno Unito,,,Blackheath,Wricklesmarsh House,,,,,,,,,,
+1,Regno Unito,,,Jersey,Saint Helier,,,,,,,,,,
+1,Regno Unito,,,Kent,Horsmonden,Horsmonden,Horsmonden,,,,inhabited places,,,http://vocab.getty.edu/tgn/7460152,
+1,Regno Unito,,,Londra,Dulwich Common,,,,,,,,,,
+1,Regno Unito,,,Londra,Esher,Esher,Esher,,,,inhabited places,"Urban district located 15 miles SW of London; site of Esher Place, home of Cardinal Wolsey in 1529.",,http://vocab.getty.edu/tgn/7011739,
+1,Regno Unito,,,Newark,Shelton Hall,,,,,,,,,,
+1,Regno Unito,,,Stanstead,Essex,Essex,Essex,,,,counties,"Comprises flat coasts, tidal inlets and islands; inhabited by prehistoric peoples, Romans by 1st century, Saxons by 5th century and by Danes after Battle of Maldon in 991; economy based on light industry, livestock, produce, and tourism in Southend and Tendring.",ceremonial county in England (use Q21272241 for administrative non-metropolitan county),http://vocab.getty.edu/tgn/7008131,http://www.wikidata.org/entity/Q23240
+1,Regno Unito,,,Wareham,East Lulworth,East Lulworth,East Lulworth,,,,inhabited places,With West Lulworth: ruined castle here; the first post-Reformation Roman Catholic church was built here.,,http://vocab.getty.edu/tgn/4003488,
+1,Regno Unito,Berkshire,,Maidenhead,Littlewick Green,,,,,,,,,,
+1,Regno Unito,Cheshire,,Chester,Saighton,Saighton,Saighton,,,,inhabited places,,,http://vocab.getty.edu/tgn/7447843,
+1,Regno Unito,Derbyshire,,,Kedleston,Kedleston,Kedleston,,,,inhabited places,Ancient seat of the Curzons; Kedleston Hall is a superb Georgian house with work by Robert Adam.,,http://vocab.getty.edu/tgn/5000775,
+1,Regno Unito,Hertfordshire,,Willian,Roxley House,,,,,,,,,,
+1,Regno Unito,Kent,,,Cobham,Cobham,Cobham,,,,inhabited places,,,http://vocab.getty.edu/tgn/1136686,
+1,Regno Unito,Kent,,Cobham,Cobham Hall,Cobham Hall,,,,,,,"independent school in Kent, United Kingdom",,http://www.wikidata.org/entity/Q5138885
+1,Regno Unito,Kent,,Lenham,Sandway,Sandway,,,,,,,"village in Kent, United Kingdom",,http://www.wikidata.org/entity/Q7417040
+1,Regno Unito,Lancashire,,Rochdale,Beechwood Hall,,,,,,,,,,
+1,Regno Unito,Middlesex,,Stanmore,Hill House,,,,,,,,,,
+1,Regno Unito,Norfolk,,Wells-next-the-Sea,Holkham Hall,Holkham Hall,,,,,,,"large 18th-century Palladian country house in Norfolk, England, UK",,http://www.wikidata.org/entity/Q1624722
+1,Regno Unito,Oxfordshire,,Burford,Westwell,Westwell,Westwell,,,,inhabited places,Westwell Manor is here.,,http://vocab.getty.edu/tgn/7031376,
+1,Regno Unito,Shropshire,,Shrewsbury,Attingham Hall,,,,,,,,,,
+1,Regno Unito,South West,,Bristol,Henbury,Henbury,,,,,inhabited places,Henbury Hall.,,http://vocab.getty.edu/tgn/7012231,
+1,Regno Unito,Surrey,,Esher,Sandown Park,,,,,,,,,,
+1,Regno Unito,West Sussex,,Chichester,Wisborough Green,Wisborough Green,Wisborough Green,,,,inhabited places,,,http://vocab.getty.edu/tgn/7445501,
+1,Regno Unito,Wiltshire,,Salisbury,Clouds,,,,,,,,,,
+1,Regno Unito,Worcestershire,,Alvenchurch,Weatheroak Hall,,,,,,,,,,
+1,Regno Unito,Yorkshire,,,Escrick Park,,,,,,,,,,
+1,Repubblica del Kosovo,,,Pristina,Gracanica,,,,,,,,,,
+1,San Marino,,,,Valdragone,Valdragone,,,,,inhabited places,,,http://vocab.getty.edu/tgn/4011604,
+1,Serbia,,,Belgrado,Dedinje,Dedinje,,,,,,,neighborhood,,http://www.wikidata.org/entity/Q646175
+1,Slovenia,,,Maribor,Vurberg,,,,,,,,,,
+1,Spagna,,,Madrid,Madrid,Comunidad de Madrid,Madrid,Madrid,Autonome Region Madrid,Communauté de Madrid,autonomous communities,,autonomous community of Spain,http://vocab.getty.edu/tgn/7002795,http://www.wikidata.org/entity/Q5756
+1,Stati Uniti d'America,California,,Los Angeles (CA),Greenacres,Greenacres,,,,,inhabited places,,,http://vocab.getty.edu/tgn/2011619,
+1,Stati Uniti d'America,California,,San Diego (CA),La Jolla,La Jolla,,,,,neighborhoods,,"neighborhood in San Diego, California, United States",http://vocab.getty.edu/tgn/7013846,http://www.wikidata.org/entity/Q840668
+1,Stati Uniti d'America,Michigan,,Detroit (MI),Hartland,Hartland,,,,,inhabited places,,,http://vocab.getty.edu/tgn/2052149,
+1,Stati Uniti d'America,New York,,Allegany (N.Y.),St. Bonaventure,Saint Bonaventure,,,,,inhabited places,,"census-designated place in Cattaraugus County, New York, United States of America",http://vocab.getty.edu/tgn/7015829,http://www.wikidata.org/entity/Q3315920
+1,Stati Uniti d'America,New York,,Long Island (NY),Great Neck,Great Neck,,,,,inhabited places,,,http://vocab.getty.edu/tgn/2069461,
+1,Stati Uniti d'America,New York,,Long Island (NY),Sands Point,Sands Point,,,,,inhabited places,,,http://vocab.getty.edu/tgn/2072130,
+1,Stati Uniti d'America,New York,,New York (NY),Queens,Queens,,,,,counties,Coextensive with the borough of Queens.,"county in New York, United States",http://vocab.getty.edu/tgn/1002814,http://www.wikidata.org/entity/Q5142559
+1,Stati Uniti d'America,New York,,New York (NY),Scarsdale,Scarsdale,,,,,inhabited places,,,http://vocab.getty.edu/tgn/7015825,
+1,Svizzera,,,,Vevey,Vevey,,,,,inhabited places,"Located on Lake Geneva. Originally a Roman settlement, it developed into a thriving trading center during the Middle Ages.",,http://vocab.getty.edu/tgn/7007491,
+1,Svizzera,,,Lugano,Ruvigliana,Ruvigliana,,,,,inhabited places,,,http://vocab.getty.edu/tgn/5003615,
+1,Svizzera,Cantone Ticino,,Bellinzona,Ravecchia,Ravecchia,,,,,,,"village and former municipality in Bellinzona in the canton of Ticino, Switzerland",,http://www.wikidata.org/entity/Q3930562

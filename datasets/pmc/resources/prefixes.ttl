@@ -1,0 +1,2 @@
+@base <https://artresearch.net/resource/pmc/> .
+@prefix pmc-vocab: <https://artresearch.net/resource/pmc/vocab/meta/> .

@@ -1,0 +1,22 @@
+,"TIPES OF ""ANONYMOUS"" IN ZERI DB",NOTES
+,"1. Usual types of ""Anonymous"". Examples",
+,Anonimo toscano sec. XIV,"""Anonimo"" is followed by the reference to a regional or local school, and to a century"
+,Anonimo bolognese sec. XVI,"""Anonimo"" is followed by the reference to a regional or local school, and to a century"
+,Anonimo romano sec. XV,"""Anonimo"" is followed by the reference to a regional or local school, and to a century"
+,…,
+,,
+,"1. Other types of ""Anonymous"". Examples",
+,Anonimo,no references at all
+,Anonimo sec. XIX,"reference to a century, but not to a school"
+,Anonimo bambocciante sec. XVII,reference to a style (instead to a regional or local school) and to a century
+,Anonimo caravaggesco,"reference to a style, but not to a school or a century"
+,Anonimo attivo in Umbria sec. XIII,reference to a place were the author made some works
+,Anonimo del 1312,reference to a specific year when an anonymous was active
+,Anonimo bolognese influenzato da Giunta Pisano sec. XIII,reference to a master by whom the anonymous author was influenced
+,Maestranze venete sec. XIII,"we have ""maestranze"" instead of ""anonymous"" when a corporate body, and not an individual author is implied. But the meaning is the same"
+,Manifattura fiorentina sec. XVIII,"we have ""manifattura"" instead of ""anonymous"" in case of ceramics or textile works"
+,,
+,,
+,"3. ""Anonymous"" but with a name in AUTN/AAT. Examples",
+,AUTN: Lippi Filippo; AUTS: ambito,"""Anonymous"" is implied when an author in AUTN/AAT is associated with a value in AUTS/AATS such as: ""ambito"", ""bottega"", ""cerchia"", ""collaboratore"", ""seguace"" etc. (see the file FZ_Connection with artist)"
+,AAT: Carracci Annibale; AATS: seguace,"""Anonymous"" is implied when an author in AUTN/AAT is associated with a value in AUTS/AATS such as: ""ambito"", ""bottega"", ""cerchia"", ""collaboratore"", ""seguace"" etc. (see the file FZ_Connection with artist)"

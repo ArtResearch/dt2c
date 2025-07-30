@@ -1,0 +1,2 @@
+@base <https://artresearch.net/resource/midas/> .
+@prefix midas-vocab: <https://artresearch.net/resource/midas/vocab/meta/> .

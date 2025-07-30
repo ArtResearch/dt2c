@@ -1,0 +1,307 @@
+# hs-to-x3ml: Haskell XML to CIDOC CRM Mapping DSL
+
+This library provides a Haskell-based Domain Specific Language (DSL) for mapping XML data sources to RDF triples, specifically targeting the CIDOC CRM ontology. It allows defining declarative mappings that specify how XML elements and attributes correspond to CRM entities and properties.
+
+## Core Concepts
+
+The mapping process revolves around a few key concepts:
+
+1.  **`Mapping`**: The top-level definition for transforming a specific type of XML document. It combines a Domain definition (`D`) with a tree structure (`PathTree`) describing the relationships.
+2.  **Domain (`D c`)**: Defines the starting point for a mapping:
+    *   `c`: The root CIDOC CRM class (e.g., `E22_Man-Made_Object`).
+    *   `XPathExpr`: The root XPath expression evaluated against the input XML document to find the initial context nodes for mapping.
+    *   `Generator`: A generator function used to create the URI for the main subject instance(s) corresponding to the root CRM class.
+3.  **`PathTree c`**: A recursive data structure that defines how properties and related entities/literals are generated starting from a subject of type `c`. Key constructors:
+    *   `Node`: Represents a standard mapping step. It links a subject (from the parent context) to an object (a new entity or literal) via a CRM property. It specifies the target class (`ClassRef`), the `Generator` for the object's value (URI or literal), and optionally, further child `PathTree`s to map properties of the *object*. It can also have its own relative XPath context, condition, and preprocessor.
+    *   `ContextGroup`: Groups multiple child `PathTree`s under a common relative XPath context and optional condition. Useful for structuring mappings related to a specific XML element.
+    *   `NullTree`: Represents an empty mapping branch (no triples generated).
+4.  **`Generator`**: Functions responsible for creating RDF `Value`s (URIs or Literals) based on the current XML context node and the overall `GenerationContext`. See the "Generators" section below for details.
+5.  **`Condition`**: Boolean expressions based on XPath evaluations that determine whether a specific `PathTree` branch should be processed for a given XML context node. Conditions are applied using the `?>` or `when` operators.
+
+## Conditions
+
+Conditions allow you to control the mapping logic based on the content or structure of the XML. The following conditions are available, along with their helper functions:
+
+*   **`Equals xpathExpr value`** (Helper: `equals xpathExpr value`): Checks if the text content of the node selected by `xpathExpr` exactly matches the given `value` string.
+    ```haskell
+    -- Condition: Check if the 'type' attribute equals 'primary'
+    equals [x|@type|] "primary"
+    ```
+
+*   **`Exists xpathExpr`** (Helper: `exists xpathExpr`): Checks if the `xpathExpr` selects at least one node.
+    ```haskell
+    -- Condition: Check if a <note> element exists
+    exists [x|note|]
+    ```
+
+*   **`Contains xpathExpr value`** (Helper: `contains xpathExpr value`): Checks if the text content of the node selected by `xpathExpr` contains the given `value` string as a substring.
+    ```haskell
+    -- Condition: Check if the text content contains "important"
+    contains [x|text()|] "important"
+    ```
+
+*   **`StartsWith xpathExpr value`** (Helper: `starts xpathExpr value`): Checks if the text content of the node selected by `xpathExpr` starts with the given `value` string.
+    ```haskell
+    -- Condition: Check if the ID starts with "TMP_"
+    starts [x|@id|] "TMP_"
+    ```
+
+*   **`And [condition1, condition2, ...]`** (Helper: `and_ [cond1, cond2, ...]`): Combines multiple conditions with a logical AND. All conditions must be true.
+    ```haskell
+    -- Condition: Check if @type is 'image' AND <status> is 'approved'
+    and_ [ equals [x|@type|] "image", equals [x|status|] "approved" ]
+    ```
+
+*   **`Or [condition1, condition2, ...]`** (Helper: `or_ [cond1, cond2, ...]`): Combines multiple conditions with a logical OR. At least one condition must be true.
+    ```haskell
+    -- Condition: Check if @role is 'author' OR 'editor'
+    or_ [ equals [x|@role|] "author", equals [x|@role|] "editor" ]
+    ```
+
+*   **`Not condition`** (Helper: `not_ condition`): Negates a condition.
+    ```haskell
+    -- Condition: Check if a <deprecated> element does NOT exist
+    not_ (exists [x|deprecated|])
+    ```
+
+These conditions are used with the `when` function or the `?>` operator to apply them to a `PathTree`.
+
+## DSL Operators
+
+The `PathTree` is typically constructed using infix operators for readability. Here are the main operators with examples:
+
+*   **`xpath @> tree`**: Sets the relative XPath context for a single `tree`. The `xpath` is evaluated relative to the parent's context node.
+    ```haskell
+    -- Process the <title> element relative to the current context
+    [x|title|] @> (P102 --> literal [x|text()|])
+    ```
+
+*   **`xpath @>> [tree1, tree2, ...]`**: Creates a `ContextGroup`. Sets a common relative XPath context for multiple child trees. Useful for grouping related mappings under one XML element.
+    ```haskell
+    -- Process multiple identifier types found under <ids>
+    [x|ids|] @>> [
+        [x|id[@type='internal']|] @> (P1 --> ...),
+        [x|id[@type='external']|] @> (P1 --> ...)
+      ]
+    ```
+
+*   **`condition ?> tree`** (or **`when condition tree`**): Applies a `Condition` to the `tree`. The tree is only processed if the condition evaluates to true for the context node.
+    ```haskell
+    -- Only map the P1 property if the @status attribute is 'active'
+    (equals [x|@status|] "active") ?> (P1 --> ...)
+
+    -- Equivalent using 'when'
+    when (exists [x|note[@type='important']|]) (
+        P3 --> literal [x|note[@type='important']/text()|]
+      )
+    ```
+
+*   **`property ---> (classRef, generator)`**: Creates the core part of a `Node` - the link between a property and its target class/generator. This form is used when the target entity *will* have its own properties mapped (i.e., it expects children defined with `==>`).
+    ```haskell
+    -- Define that P4 connects to an E52 Timespan, which will have further properties
+    P4 ---> (E52, relativeUri "/timespan")
+    ```
+
+*   **`property --> (classRef, generator)`**: Creates a terminal `Node`. This form is used when the target entity or literal has *no* further child mappings.
+    ```haskell
+    -- Map P190 to a literal value directly, with no further mappings from the literal
+    P190 --> literal [x|text()|]
+
+    -- Map P2 to a type, which is typically terminal
+    P2 --> (E55, AAT.workOfArt)
+    ```
+
+*   **`(prop, classGenPair) ==> [childTree1, childTree2, ...]`**: Attaches child `PathTree`s to a `Node` previously defined using `--->`. The object generated by `classGenPair` becomes the subject for the child trees.
+    ```haskell
+    -- Define the P4 -> E52 link and then map properties *of* that E52 Timespan
+    (P4 ---> (E52, relativeUri "/timespan")) ==> [
+        P82a --> dateTime [x|start_date|] (FullDate, Lower), -- P82a of the E52
+        P82b --> dateTime [x|end_date|] (FullDate, Upper)     -- P82b of the E52
+      ]
+    ```
+
+*   **`domain +> [tree1, tree2, ...]`**: Combines the Domain `D` definition (root class, root XPath, root generator) with the list of top-level `PathTree`s to create the final `Mapping`. This is the final step in defining a complete mapping.
+    ```haskell
+    -- Define the root mapping for E22 from <record> elements
+    baseMapping = D E22 [x|/record|] (templateUri "work/{id}" [("id", [x|controlfield[@tag='001']|])])
+
+    -- Combine the base definition with lists of PathTrees for identifiers, titles, etc.
+    workMapping = baseMapping +> (identifiers ++ titleLinks ++ ...)
+    ```
+
+*   **`xpath @: tree`**: Similar to `@>`, it sets a relative XPath context, but it's typically used deeper within a tree structure to explicitly *override* the inherited context, often using parent navigation (`../`). This allows relating data from different parts of the XML relative to a specific point in the mapping.
+    ```haskell
+    -- Inside a mapping for E52 Timespan (context is <controlfield tag='008'>)
+    -- Override context to find related <datafield tag='260'> using parent navigation
+    [x|../datafield[@tag='260']/subfield[@code='c']|] @: (
+        P1 ---> (E41, relativeUri "/appellation") ==> [ -- Map P1 of the E52
+            P190 --> literal [x|text()|] -- Get text from the <subfield code='c'>
+        ]
+    )
+    ```
+
+## Generators
+
+Generators create the actual URIs and Literals for the RDF graph.
+
+*   `constUri "..."`: Creates a fixed URI (prefixed or non-prefixed).
+    *   *Example:* `constUri "crm:E55_Type"`
+*   `uri xpath`: Creates a URI from the text content selected by the `xpath`.
+    *   *Example:* `uri [x|@rdf:about|]`
+*   `literal xpath`: Creates an RDF Literal from the text content selected by the `xpath`. Returns `(LiteralType, Generator)`.
+    *   *Example:* `literal [x|dc:title/text()|]`
+*   `templateUri "template/{placeholder}" [("placeholder", value)]`: Creates a URI from a template string. Placeholders `{...}` are replaced by values.
+    *   `value` can be:
+        *   An `XPathExpr`: `[x|some/xpath|]` - uses the text content.
+        *   A `ByteString`: `"fixed_value"` - uses a constant string.
+        *   `i`: Uses the 1-based index of the current node among its siblings with the same name (useful for unique IDs for repeated elements).
+    *   *Example:* `templateUri "work/{id}" [("id", [x|controlfield[@tag='001']|])]`
+    *   *Example:* `templateUri "item/{i}" [("i", i)]`
+*   `relativeUri "/suffix"`: Creates a URI by appending the suffix to the *domain URI* (the URI of the subject being processed).
+    *   *Example:* `relativeUri "/id/alma"`
+*   `relativeUriT "template/{placeholder}" [...]`: Like `templateUri`, but appends the result to the *domain URI*.
+    *   *Example:* `relativeUriT "/appellation/{i}" [("i", i)]`
+*   `dateTime xpath (type, bound)`: Creates an `xsd:dateTime` literal from the text selected by `xpath`.
+    *   `type`: `Year`, `FullDate`, `DateTime`.
+    *   `bound`: `Lower` (for start dates, e.g., `YYYY-01-01T00:00:00Z`) or `Upper` (for end dates, e.g., `YYYY-12-31T23:59:59Z`). Only used for `Year` and `FullDate`.
+    *   *Example:* `dateTime [x|substring(text(), 1, 4)|] (Year, Lower)`
+*   `vocab "prefix:term"` or `vocab "http://..."`: Creates a URI for a vocabulary term. Assumed to be an `E55_Type` and doesn't generate an extra `rdf:type` triple for itself. Often used via helper definitions in vocabulary modules.
+    *   *Example:* `(E55, AAT.workOfArt)` (where `AAT.workOfArt` likely uses `vocab`)
+*   `literalFn xpath (XMLNode -> Text)`: Creates a literal by applying a Haskell function to the `XMLNode` selected by the `xpath`. Powerful for custom transformations.
+    *   *Example:* `literalFn [x|text()|] (\n -> "https://base.url/" <> nodeText n)`
+*   `named "name" generator`: Assigns a logical name to the value produced by `generator`.
+*   `namedUri "name"`: Reuses the value previously generated and stored with `named "name"`.
+
+## Evaluation Logic
+
+1.  **Root Evaluation**: The process starts by evaluating the root XPath (from `D`) against the input XML document. This yields one or more root context nodes.
+2.  **Subject Generation**: For each root context node, the root generator (from `D`) is called to create the main subject URI. An `rdf:type` triple is generated linking this subject to the root CRM class (from `D`).
+3.  **PathTree Traversal**: The engine recursively traverses the `PathTree` structure defined in the `Mapping`.
+4.  **Context Flow**:
+    *   Each `PathTree` node operates within an XML context (`XMLNode`).
+    *   The initial context comes from the root evaluation.
+    *   Operators like `@>`, `@>>`, and `@:` evaluate their XPath *relative* to the current context node, potentially changing the context for child nodes. If no XPath is specified, the context is usually inherited.
+5.  **Condition Check**: If a `PathTree` node has a `Condition` (`?>` or `when`), it's evaluated against the current context node. If false, that branch of the tree is skipped for that node.
+6.  **Generator Evaluation**: When a `Node` is processed, its `Generator` is evaluated using the *current* context node to produce the object `Value` (URI or Literal).
+7.  **Triple Generation**:
+    *   A triple `(subject, property, object)` is created, where `subject` is the URI generated by the parent node (or the root subject), `property` comes from the `PathTree` definition, and `object` is the value generated in the previous step.
+    *   If the `object` is a URI (and not generated by `vocab`), an additional `rdf:type` triple `(object, rdf:type, classRef)` is generated, where `classRef` is specified in the `Node` definition.
+8.  **Recursion**: If a `Node` has children (`==>`), the process repeats recursively for each child `PathTree`. The *object* just generated becomes the *subject* for the child triples.
+
+## Supported XPath
+
+This library supports a subset of XPath 1.0 features:
+
+*   **Axes**: Child (`/`), Parent (`..`), Self (`.`), Attribute (`@`).
+*   **Node Selection**: Element names (`elementName`), Attributes (`@attrName`).
+*   **Node Tests**: `text()` (selects direct text content).
+*   **Predicates**:
+    *   `[@attr='value']` (Attribute value equality).
+    *   `[pred1 and pred2]` (Logical AND).
+*   **Functions**:
+    *   `concat(expr1 + expr2 + ...)` (*Note non-standard `+` separator*)
+    *   `substring-after(expr, 'str')`
+    *   `substring(expr, start, length)` (1-based index)
+    *   `string-join(sequence_expr, 'separator')`
+    *   `normalize-space(expr)`
+
+## Examples
+
+*(Snippets adapted from zeri, frick, pmc mappings)*
+
+**1. Basic Identifier Mapping (Zeri)**
+
+```haskell
+-- Context: <PARAGRAFO etichetta="CODES"><NRSCHEDA>123</NRSCHEDA></PARAGRAFO>
+[x|PARAGRAFO[@etichetta="CODES"]/NRSCHEDA|] @>> [
+    -- Map P1 -> E42 Identifier (relative URI) -> P2 (Type), P190 (Value)
+    P1 ---> (E42, relativeUri "/id") ==> [
+        P2 --> (E55, nrscheda), -- Vocabulary term
+        P190 --> literal [x|text()|] -- Literal value from <NRSCHEDA>
+    ],
+    -- Map P1 -> E42 Identifier (template URI)
+    P1 --> (E42, templateUri "work/{id}" [("id", [x|text()|])])
+]
+```
+
+**2. Conditional Mapping & Complex Generator (Frick Artist)**
+
+```haskell
+-- Context: <datafield tag="100"> <subfield code="a">Name</subfield> <subfield code="j">attributed to</subfield> </datafield>
+[x|datafield[@tag='100']|] @>
+    -- Only map if subfield 'j' doesn't exist OR equals 'attributed to' OR 'contributor'
+    when (or_ [
+        not_ (exists [x| subfield[@code='j'] |]),
+        equals [x|subfield[@code='j']/text()|] "attributed to",
+        equals [x|subfield[@code='j']/text()|] "contributor"
+    ]) (
+        P108i ---> (E12, relativeUri "/production") ==> [ -- P108i -> E12 Production
+            P01i ---> (PC14, ...) ==> [ -- P01i -> PC14 Carried Out By
+                P02 --> (E39, templateUri "actor/{id}" [ -- P02 -> E39 Actor (URI from concatenated fields)
+                    ("id", [x|concat(subfield[@code='a']/text()+subfield[@code='c']/text())|])
+                ])
+            ]
+        ]
+    )
+```
+
+**3. DateTime & Substring (Frick Production Date)**
+
+```haskell
+-- Context: <controlfield tag="008">...k19501955...</controlfield>
+[x|controlfield[@tag='008']|] @> (
+    P108i ---> (E12, relativeUri "/production") ==> [ -- P108i -> E12 Production
+        P4 ---> (E52, relativeUri "/timespan") ==> [ -- P4 -> E52 Timespan
+            P2 --> (E55, FrickMeta.approximate_production_date), -- Type
+            -- Earliest date from substring
+            P82a --> dateTime [x|substring(substring-after(text(), 'k'), 1, 4)|] (Year, Lower),
+            -- Latest date from substring
+            P82b --> dateTime [x|substring(substring-after(text(), 'k'), 5, 4)|] (Year, Upper)
+        ]
+    ]
+)
+```
+
+**4. Literal Function (Frick Catalog URL)**
+
+```haskell
+-- Context: <controlfield tag="001">ALMA123</controlfield>
+catalogUrl =
+  [x| controlfield[@tag='001'] |] @> (
+    P1 ---> (E42, relativeUri "/id/catalog_url") ==> [
+      P2 --> (E55, controlfield_001_link),
+      -- Prepend base URL to the ID from text()
+      P190 --> literalFn [x| text() |] (\n -> "https://library.frick.org/.../alma" <> nodeText n)
+    ]
+  )
+```
+
+## Required Imports
+
+To define mappings, you typically need the following imports:
+
+1.  **`CommonImports`**: This module re-exports the core functionalities from `DSL`, `Generators`, `XML`, `CidocCRM`, `Preprocessors`, and `NamedUris`. Importing this is usually sufficient for accessing the main DSL features, operators, generators, and CRM definitions.
+    ```haskell
+    import CommonImports
+    ```
+2.  **Vocabulary Modules**: You will likely need to import specific vocabulary modules for predefined terms (like types or concepts). This often includes standard vocabularies (e.g., `Vocabularies.AAT`) and potentially dataset-specific vocabulary definitions (e.g., `Pmc.Mappings.Vocabulary`).
+    ```haskell
+    import qualified Vocabularies.AAT as AAT
+    import qualified MyDataset.Mappings.Vocabulary as MyVocab
+    ```
+3.  **`Data.Text`**: Often needed if you use `literalFn` or other functions requiring Text manipulation.
+    ```haskell
+    import Data.Text (Text)
+    import qualified Data.Text as T
+    ```
+
+## How to Create Mappings
+
+1.  **Define the Domain (`D`)**: Specify the root CRM class, the starting XPath in your XML, and the generator for the main subject URI.
+2.  **Build the `PathTree`**: Use the DSL operators (`@>`, `==>`, `-->`, etc.) to define the relationships (properties) originating from the root subject.
+3.  **Specify Context**: Use `@>`, `@>>`, or `@:` with XPath expressions to navigate the XML relative to the current context.
+4.  **Choose Generators**: Select appropriate generators (`literal`, `uri`, `templateUri`, `relativeUri`, etc.) to create the object values (URIs or Literals) for each property.
+5.  **Add Conditions**: Use `when` or `?>` with conditions (`equals`, `exists`, etc.) to control mapping logic based on XML content.
+6.  **Define Children**: Use `==>` to define nested mappings for the objects of properties.
+7.  **Combine**: Structure your mappings into logical parts (e.g., identifiers, titles, production) and combine them using `++` in the final `Mapping` definition (`domain +> pathTreeList`).
+8.  **Use Vocabularies**: Define and use vocabulary modules (like `Mappings.Vocabulary`) for consistent use of type URIs (e.g., for `E55_Type`).

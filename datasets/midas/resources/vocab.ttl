@@ -1,0 +1,125 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix pharos-meta: <https://artresearch.net/resource/pharos/vocab/meta/> .
+@prefix midas-vocab: <https://artresearch.net/resource/midas/vocab/meta/> .
+
+# KHI
+<https://artresearch.net/resource/provider/khi> a crm:E74_Group ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026004> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/provider/khi/id> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/provider/khi/id/contact> ;
+    crm:P75_possesses <https://artresearch.net/resource/e31/khi/ownership> .
+
+<https://artresearch.net/resource/provider/khi/id> a crm:E41_Appellation ;
+    crm:P2_has_type pharos-meta:preferred_name ;
+    crm:P190_has_symbolic_content "Kunsthistorisches Institut in Florenz" .
+
+<https://artresearch.net/resource/provider/khi/id/contact> a crm:E41_Appellation ;
+    crm:P2_has_type pharos-meta:contact-url ;
+    crm:P190_has_symbolic_content "mailto:fototeca@khi.fi.it" .
+
+<https://artresearch.net/resource/e31/khi> a crm:E31_Document ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026059> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/e31/khi/id> ;
+    crm:P104_is_subject_to <https://artresearch.net/resource/e31/khi/ownership> .
+
+<https://artresearch.net/resource/e31/khi/id> a crm:E41_Appellation ;
+    crm:P190_has_symbolic_content "The Photothek of the KHI" .
+
+<https://artresearch.net/resource/e31/khi/ownership> a crm:E30_Right .
+
+<https://artresearch.net/resource/midas/vocabulary> a crm:E31_Document ;
+    crm:P106i_forms_part_of <https://artresearch.net/resource/e31/khi> .
+
+<https://artresearch.net/resource/khi/cataloging_activity>
+    a crm:E7_Activity ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054628> ; # cataloging activity
+    crm:P14_carried_out_by <https://artresearch.net/resource/provider/khi> ;
+    crm:P67_refers_to <https://artresearch.net/resource/e31/khi> .
+
+
+# Hertziana
+<https://artresearch.net/resource/provider/hertziana> a crm:E74_Group ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026004> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/provider/hertziana/id> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/provider/hertziana/id/contact> ;
+    crm:P75_possesses <https://artresearch.net/resource/e31/hertziana/ownership> .
+
+<https://artresearch.net/resource/provider/hertziana/id> a crm:E41_Appellation ;
+    crm:P2_has_type pharos-meta:preferred_name ;
+    crm:P190_has_symbolic_content "Bibliotheca Hertziana" .
+
+<https://artresearch.net/resource/provider/hertziana/id/contact> a crm:E41_Appellation ;
+    crm:P2_has_type pharos-meta:contact-url ;
+    crm:P190_has_symbolic_content "mailto:fototeca@biblhertz.it" .
+
+<https://artresearch.net/resource/e31/hertziana> a crm:E31_Document ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026059> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/e31/hertziana/id> ;
+    crm:P104_is_subject_to <https://artresearch.net/resource/e31/hertziana/ownership> .
+
+<https://artresearch.net/resource/e31/hertziana/id> a crm:E41_Appellation ;
+    crm:P190_has_symbolic_content "Bibliotheca Hertziana, Fotothek." .
+
+<https://artresearch.net/resource/e31/hertziana/ownership> a crm:E30_Right .
+
+<https://artresearch.net/resource/midas/vocabulary> a crm:E31_Document ;
+    crm:P106i_forms_part_of <https://artresearch.net/resource/e31/hertziana> .
+
+<https://artresearch.net/resource/hertziana/cataloging_activity>
+    a crm:E7_Activity ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054628> ; # cataloging activity
+    crm:P14_carried_out_by <https://artresearch.net/resource/provider/hertziana> ;
+    crm:P67_refers_to <https://artresearch.net/resource/e31/hertziana> .
+
+# Marburg
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+
+<https://artresearch.net/resource/provider/marburg> a crm:E74_Group ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026004> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/provider/marburg/id> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/provider/marburg/id/contact> ;
+    crm:P75_possesses <https://artresearch.net/resource/e31/marburg/ownership> .
+
+<https://artresearch.net/resource/provider/marburg/id> a crm:E41_Appellation ;
+    crm:P2_has_type pharos-meta:preferred_name ;
+    crm:P190_has_symbolic_content "Bildarchiv Foto Marburg" .
+
+<https://artresearch.net/resource/provider/marburg/id/contact> a crm:E41_Appellation ;
+    crm:P2_has_type pharos-meta:contact-url ;
+    crm:P190_has_symbolic_content "mailto:bildarchiv@fotomarburg.de" .
+
+<https://artresearch.net/resource/e31/marburg> a crm:E31_Document ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026059> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/e31/marburg/id> ;
+    crm:P104_is_subject_to <https://artresearch.net/resource/e31/marburg/ownership> .
+
+<https://artresearch.net/resource/e31/marburg/id> a crm:E41_Appellation ;
+    crm:P190_has_symbolic_content "Bildarchiv Foto Marburg" .
+
+<https://artresearch.net/resource/e31/marburg/ownership> a crm:E30_Right .
+
+
+<https://artresearch.net/resource/midas/vocabulary> a crm:E31_Document ;
+    crm:P106i_forms_part_of <https://artresearch.net/resource/e31/marburg> .
+
+
+<https://artresearch.net/resource/marburg/cataloging_activity>
+    a crm:E7_Activity ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054628> ; # cataloging activity
+    crm:P14_carried_out_by <https://artresearch.net/resource/provider/marburg> ;
+    crm:P67_refers_to <https://artresearch.net/resource/e31/marburg> .
+
+# Vocabulary
+
+midas-vocab:object_title crm:P127_has_broader_term pharos-meta:preferred_name .
+midas-vocab:name_of_the_building crm:P127_has_broader_term pharos-meta:preferred_name .
+midas-vocab:alternative_object_title crm:P127_has_broader_term pharos-meta:alternative_name .
+midas-vocab:alternative_building_name crm:P127_has_broader_term pharos-meta:alternative_name .
+
+midas-vocab:classification crm:P127_has_broader_term pharos-meta:object_type .
+midas-vocab:art crm:P127_has_broader_term pharos-meta:object_type .
+midas-vocab:object_type crm:P127_has_broader_term pharos-meta:object_type .
+midas-vocab:formtyp crm:P127_has_broader_term pharos-meta:object_type .
+
+midas-vocab:photo_inventory_number crm:P127_has_broader_term pharos-meta:preferred_identifier .
+midas-vocab:photo_identifier crm:P127_has_broader_term pharos-meta:identifier .

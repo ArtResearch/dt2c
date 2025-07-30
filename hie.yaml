@@ -1,0 +1,61 @@
+cradle:
+  cabal:
+    - path: "./src"
+      component: "lib:hs-to-x3ml"
+
+    - path: "./cidoc-crm-patterns/src"
+      component: "hs-to-x3ml:lib:cidoc-crm-patterns"
+
+    - path: "./datasets/frick/src"
+      component: "hs-to-x3ml:lib:frick"
+
+    - path: "./datasets/frick/app/Main.hs"
+      component: "hs-to-x3ml:exe:frick-x3ml-exe"
+
+    - path: "./datasets/midas/src"
+      component: "hs-to-x3ml:lib:midas"
+
+    - path: "./datasets/midas/app/HertzianaMain.hs"
+      component: "hs-to-x3ml:exe:hertziana-x3ml-exe"
+
+    - path: "./datasets/midas/app/KhiMain.hs"
+      component: "hs-to-x3ml:exe:khi-x3ml-exe"
+
+    - path: "./datasets/midas/app/MarburgMain.hs"
+      component: "hs-to-x3ml:exe:marburg-x3ml-exe"
+
+    - path: "./datasets/midas-geo/src"
+      component: "hs-to-x3ml:lib:midas-geo"
+
+    - path: "./datasets/midas-geo/app/Main.hs"
+      component: "hs-to-x3ml:exe:midas-geo-x3ml-exe"
+
+    - path: "./datasets/pharos/src"
+      component: "hs-to-x3ml:lib:pharos"
+
+    - path: "./datasets/pharos/app/Main.hs"
+      component: "hs-to-x3ml:exe:pharos-x3ml-exe"
+
+    - path: "./datasets/pmc/src"
+      component: "hs-to-x3ml:lib:pmc"
+
+    - path: "./datasets/pmc/app/Main.hs"
+      component: "hs-to-x3ml:exe:pmc-x3ml-exe"
+
+    - path: "./datasets/zeri/src"
+      component: "hs-to-x3ml:lib:zeri"
+
+    - path: "./datasets/zeri/app/Main.hs"
+      component: "hs-to-x3ml:exe:zeri-x3ml-exe"
+
+    - path: "./datasets/zeri/app/PhotoMain.hs"
+      component: "hs-to-x3ml:exe:zeri-photo-x3ml-exe"
+
+    - path: "./test"
+      component: "hs-to-x3ml:test:hs-to-x3ml-test"
+
+    - path: "../3rd-party/hexml/src"
+      component: "lib:hexml"
+
+    - path: "../3rd-party/hexml/./"
+      component: "hexml:test:hexml-test"

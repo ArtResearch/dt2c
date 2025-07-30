@@ -1,0 +1,35 @@
+@prefix crm: <http://www.cidoc-crm.org/cidoc-crm/> .
+@prefix pharos-meta: <https://artresearch.net/resource/pharos/vocab/meta/> .
+@prefix pmc-vocab: <https://artresearch.net/resource/pmc/vocab/meta/> .
+
+
+<https://artresearch.net/resource/provider/pmc> a crm:E74_Group ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026004> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/provider/pmc/id> ;
+    crm:P75_possesses <https://artresearch.net/resource/e31/pmc/ownership> .
+
+<https://artresearch.net/resource/provider/pmc/id> a crm:E41_Appellation ;
+    crm:P190_has_symbolic_content "Paul Mellon Centre for Studies in British Art" .
+
+<https://artresearch.net/resource/e31/pmc> a crm:E31_Document ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300026059> ;
+    crm:P1_is_identified_by <https://artresearch.net/resource/e31/pmc/id> ;
+    crm:P104_is_subject_to <https://artresearch.net/resource/e31/pmc/ownership> .
+
+<https://artresearch.net/resource/e31/pmc/id> a crm:E41_Appellation ;
+    crm:P190_has_symbolic_content "Paul Mellon Centre Photographic Archive" .
+
+<https://artresearch.net/resource/e31/pmc/ownership> a crm:E30_Right .
+
+
+<https://artresearch.net/resource/pmc/vocabulary> a crm:E31_Document ;
+    crm:P106i_forms_part_of <https://artresearch.net/resource/e31/pmc> .
+
+<https://artresearch.net/resource/pmc/cataloging-activity>
+    a crm:E7_Activity ;
+    crm:P2_has_type <http://vocab.getty.edu/aat/300054628> ; # cataloging activity
+    crm:P14_carried_out_by <https://artresearch.net/resource/provider/pmc> ;
+    crm:P67_refers_to <https://artresearch.net/resource/e31/pmc> .
+
+pmc-vocab:preferred_title crm:P127_has_broader_term pharos-meta:preferred_name .
+pmc-vocab:preferred_title crm:P127_has_broader_term pharos-meta:alternative_name .

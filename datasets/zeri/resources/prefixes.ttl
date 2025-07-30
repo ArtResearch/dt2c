@@ -1,0 +1,2 @@
+@base <https://artresearch.net/resource/zeri/> .
+@prefix zeri-vocab: <https://artresearch.net/resource/zeri/vocab/meta/> .

@@ -1,0 +1,714 @@
+Counts,value,AAT Label,AAT Facet,exactMatch,broadMatch,URI,Work Example
+74982,dipinto,"paintings (visual works) [en]
+Gemälde [de]
+",Objects Facet,http://vocab.getty.edu/aat/300033618,,https://artresearch.net/resource/zeri/vocabulary/dipinto,https://artresearch.net/resource/zeri/work/11316
+10408,dipinto murale,"mural paintings (visual works) [en]
+Wandmalerei (Gemälde) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300033644,,https://artresearch.net/resource/zeri/vocabulary/dipinto_murale,https://artresearch.net/resource/zeri/work/2294
+6212,scultura,"sculpture (visual works) [en]
+Skulptur (visuelles Werk) [de]
+scultura [it]",Objects Facet,http://vocab.getty.edu/aat/300047090,,https://artresearch.net/resource/zeri/vocabulary/scultura,https://artresearch.net/resource/zeri/work/77585
+1607,scomparto di polittico,"panels (surface components) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300069079,,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_polittico,https://artresearch.net/resource/zeri/work/25149
+1607,scomparto di polittico,"polyptychs [en]
+Polyptychon [de]
+polittici [it]",Objects Facet,http://vocab.getty.edu/aat/300178235,,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_polittico,https://artresearch.net/resource/zeri/work/25149
+1569,pala d'altare,"altarpieces [en]
+Altarbild [de]
+pale d'altare [it]",Objects Facet,http://vocab.getty.edu/aat/300075940,,https://artresearch.net/resource/zeri/vocabulary/pala_d_altare,https://artresearch.net/resource/zeri/work/31109
+1478,statua,"statues [en]
+statua [it]",Objects Facet,http://vocab.getty.edu/aat/300047600,,https://artresearch.net/resource/zeri/vocabulary/statua,https://artresearch.net/resource/zeri/work/78618
+1292,rilievo,"reliefs (sculptures) [en]
+Relief (Skulptur) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300047230,,https://artresearch.net/resource/zeri/vocabulary/rilievo,https://artresearch.net/resource/zeri/work/76415
+1167,scomparto di predella,"panels (surface components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300069079,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_predella,https://artresearch.net/resource/zeri/work/17709
+1167,scomparto di predella,"predellas [en]
+Predella [de]
+predelle [it]",Objects Facet,,http://vocab.getty.edu/aat/300003745,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_predella,https://artresearch.net/resource/zeri/work/17709
+702,busto,"busts (sculpture) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300417950,,https://artresearch.net/resource/zeri/vocabulary/busto,https://artresearch.net/resource/zeri/work/81799
+637,medaglia,"medals [en]
+Medaille (visuelles Werk) [de]
+medaglie [it]",Objects Facet,http://vocab.getty.edu/aat/300046025,,https://artresearch.net/resource/zeri/vocabulary/medaglia,https://artresearch.net/resource/zeri/work/85089
+630,polittico,"polyptychs [en]
+Polyptychon [de]
+polittici [it]",Objects Facet,http://vocab.getty.edu/aat/300178235,,https://artresearch.net/resource/zeri/vocabulary/polittico,https://artresearch.net/resource/zeri/work/24761
+543,trittico,"triptychs [en]
+Triptychon [de]
+trittici [it]",Objects Facet,http://vocab.getty.edu/aat/300178234,,https://artresearch.net/resource/zeri/vocabulary/trittico,https://artresearch.net/resource/zeri/work/21665
+376,decorazione musiva,"mosaics (visual works) [en]
+Mosaik (visuelles Werk) [de]
+mosaico [it]",Objects Facet,http://vocab.getty.edu/aat/300015342,,https://artresearch.net/resource/zeri/vocabulary/decorazione_musiva,https://artresearch.net/resource/zeri/work/1704
+375,pannello di cassone,"cassoni [en]
+Cassone [de]
+cassoni [it]",Objects Facet,,http://vocab.getty.edu/aat/300039007,https://artresearch.net/resource/zeri/vocabulary/pannello_di_cassone,https://artresearch.net/resource/zeri/work/26552
+375,pannello di cassone,"panel paintings (paintings by form) [en]
+Tafelbild (Gemälde) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300033656,https://artresearch.net/resource/zeri/vocabulary/pannello_di_cassone,https://artresearch.net/resource/zeri/work/26552
+375,pannello di cassone,"panels (surface components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300069079,https://artresearch.net/resource/zeri/vocabulary/pannello_di_cassone,https://artresearch.net/resource/zeri/work/26552
+364,disegno,"gargoyles [en]
+gotischer Wasserspeier [de]
+",Objects Facet,http://vocab.getty.edu/aat/300002330,,https://artresearch.net/resource/zeri/vocabulary/disegno,https://artresearch.net/resource/zeri/work/31942
+360,monumento funebre,,,,,https://artresearch.net/resource/zeri/vocabulary/monumento_funebre,https://artresearch.net/resource/zeri/work/77092
+346,croce dipinta,"painted crosses [en]
+croci dipinte [it]",Objects Facet,http://vocab.getty.edu/aat/300299789,,https://artresearch.net/resource/zeri/vocabulary/croce_dipinta,https://artresearch.net/resource/zeri/work/2010
+311,incisione,"engravings (prints) [en]
+Stich (Gravur) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300041340,,https://artresearch.net/resource/zeri/vocabulary/incisione,https://artresearch.net/resource/zeri/work/32628
+246,predella,"predellas [en]
+Predella [de]
+predelle [it]",Objects Facet,http://vocab.getty.edu/aat/300003745,,https://artresearch.net/resource/zeri/vocabulary/predella,https://artresearch.net/resource/zeri/work/19173
+226,scomparto di trittico,"panels (surface components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300069079,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_trittico,https://artresearch.net/resource/zeri/work/19820
+226,scomparto di trittico,"triptychs [en]
+Triptychon [de]
+trittici [it]",Objects Facet,,http://vocab.getty.edu/aat/300178234,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_trittico,https://artresearch.net/resource/zeri/work/19820
+215,gruppo scultoreo,"sculpture groups [en]
+",Objects Facet,http://vocab.getty.edu/aat/300400898,,https://artresearch.net/resource/zeri/vocabulary/gruppo_scultoreo,https://artresearch.net/resource/zeri/work/81490
+196,formella,"tiles (visual works) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300410344,,https://artresearch.net/resource/zeri/vocabulary/formella,https://artresearch.net/resource/zeri/work/79381
+178,altarolo portatile,"portable altarpieces [en]
+ancone portatili [it]",Objects Facet,http://vocab.getty.edu/aat/300298799,,https://artresearch.net/resource/zeri/vocabulary/altarolo_portatile,https://artresearch.net/resource/zeri/work/25506
+172,lunetta,"lunettes (wall components) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300003034,,https://artresearch.net/resource/zeri/vocabulary/lunetta,https://artresearch.net/resource/zeri/work/22073
+150,dossale,"reredoses (screens) [en]
+mostre d'altare [it]",Objects Facet,http://vocab.getty.edu/aat/300075947,,https://artresearch.net/resource/zeri/vocabulary/dossale,https://artresearch.net/resource/zeri/work/1855
+141,altarolo,"portable altarpieces [en]
+ancone portatili [it]",Objects Facet,http://vocab.getty.edu/aat/300298799,,https://artresearch.net/resource/zeri/vocabulary/altarolo,https://artresearch.net/resource/zeri/work/36352
+120,cuspide di polittico,"panel paintings (paintings by form) [en]
+Tafelbild (Gemälde) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300033656,https://artresearch.net/resource/zeri/vocabulary/cuspide_di_polittico,https://artresearch.net/resource/zeri/work/22512
+120,cuspide di polittico,"pinnacles (ornaments) [en]
+Fiale [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300002351,https://artresearch.net/resource/zeri/vocabulary/cuspide_di_polittico,https://artresearch.net/resource/zeri/work/22512
+120,cuspide di polittico,"polyptychs [en]
+Polyptychon [de]
+polittici [it]",Objects Facet,,http://vocab.getty.edu/aat/300178235,https://artresearch.net/resource/zeri/vocabulary/cuspide_di_polittico,https://artresearch.net/resource/zeri/work/22512
+116,stendardo processionale,"processional banners [en]
+stendardo processionale [it]",Objects Facet,http://vocab.getty.edu/aat/300298984,,https://artresearch.net/resource/zeri/vocabulary/stendardo_processionale,https://artresearch.net/resource/zeri/work/21089
+115,tabernacolo,"tabernacles (liturgical containers) [en]
+Tabernakel [de]
+tabernacoli (contenitori liturgici) [it]",Objects Facet,http://vocab.getty.edu/aat/300207778,,https://artresearch.net/resource/zeri/vocabulary/tabernacolo,https://artresearch.net/resource/zeri/work/2689
+95,valva di dittico,"diptychs [en]
+Diptychon [de]
+dittici [it]",Objects Facet,,http://vocab.getty.edu/aat/300178228,https://artresearch.net/resource/zeri/vocabulary/valva_di_dittico,https://artresearch.net/resource/zeri/work/23048
+95,valva di dittico,"wings (visual works components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300182755,https://artresearch.net/resource/zeri/vocabulary/valva_di_dittico,https://artresearch.net/resource/zeri/work/23048
+89,lacunare,"coffers (architecture components) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002041,,https://artresearch.net/resource/zeri/vocabulary/lacunare,https://artresearch.net/resource/zeri/work/25967
+79,pagina di manoscritto,"manuscripts (documents) [en]
+Manuskript (Dokumentengattung) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300028569,https://artresearch.net/resource/zeri/vocabulary/pagina_di_manoscritto,https://artresearch.net/resource/zeri/work/48911
+79,paliotto,"antependia [en]
+Antependium [de]
+antependii [it]",Objects Facet,http://vocab.getty.edu/aat/300265255,,https://artresearch.net/resource/zeri/vocabulary/paliotto,https://artresearch.net/resource/zeri/work/2130
+77,anta di organo,"organ cases [en]
+Orgelprospekt [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300252572,https://artresearch.net/resource/zeri/vocabulary/anta_di_organo,https://artresearch.net/resource/zeri/work/28746
+77,anta di organo,"wings (visual works components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300182755,https://artresearch.net/resource/zeri/vocabulary/anta_di_organo,https://artresearch.net/resource/zeri/work/28746
+75,decorazione plastica,"architectural sculpture [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300379328,https://artresearch.net/resource/zeri/vocabulary/decorazione_plastica,https://artresearch.net/resource/zeri/work/80732
+70,disegno murale,"wall drawings [en]
+",Objects Facet,http://vocab.getty.edu/aat/300438620,,https://artresearch.net/resource/zeri/vocabulary/disegno_murale,https://artresearch.net/resource/zeri/work/12421
+54,lastra tombale,"tombstones (sepulchral monuments) [en]
+Grabstein [de]
+",Objects Facet,http://vocab.getty.edu/aat/300005923,,https://artresearch.net/resource/zeri/vocabulary/lastra_tombale,https://artresearch.net/resource/zeri/work/74167
+49,tarsia,"marquetry (visual works) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300410337,,https://artresearch.net/resource/zeri/vocabulary/tarsia,https://artresearch.net/resource/zeri/work/19381
+48,vetrata,"stained-glass windows [en]
+",Objects Facet,http://vocab.getty.edu/aat/300417960,,https://artresearch.net/resource/zeri/vocabulary/vetrata,https://artresearch.net/resource/zeri/work/17096
+45,dittico,"diptychs [en]
+Diptychon [de]
+dittici [it]",Objects Facet,http://vocab.getty.edu/aat/300178228,,https://artresearch.net/resource/zeri/vocabulary/dittico,https://artresearch.net/resource/zeri/work/33532
+44,pinnacolo,"pinnacles (ornaments) [en]
+Fiale [de]
+",Objects Facet,http://vocab.getty.edu/aat/300002351,,https://artresearch.net/resource/zeri/vocabulary/pinnacolo,https://artresearch.net/resource/zeri/work/7106
+43,cuspide,"cusps [en]
+Nase (Architekturelement) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300003208,,https://artresearch.net/resource/zeri/vocabulary/cuspide,https://artresearch.net/resource/zeri/work/4083
+43,decorazione plastico-pittorica,"architectural sculpture [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300379328,https://artresearch.net/resource/zeri/vocabulary/decorazione_plastico-pittorica,https://artresearch.net/resource/zeri/work/17336
+43,portale,"portals [en]
+",Objects Facet,http://vocab.getty.edu/aat/300076641,,https://artresearch.net/resource/zeri/vocabulary/portale,https://artresearch.net/resource/zeri/work/79386
+41,scomparto di anta di armadio,"panels (surface components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300069079,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_anta_di_armadio,https://artresearch.net/resource/zeri/work/25339
+41,scomparto di anta di armadio,"wardrobes (case furniture) [en]
+Kleiderschrank [de]
+armadi-guardarobe [it]",Objects Facet,,http://vocab.getty.edu/aat/300039237,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_anta_di_armadio,https://artresearch.net/resource/zeri/work/25339
+40,crocifisso,"crucifixes [en]
+crocifissi [it]",Objects Facet,http://vocab.getty.edu/aat/300248835,,https://artresearch.net/resource/zeri/vocabulary/crocifisso,https://artresearch.net/resource/zeri/work/77460
+40,sovrapporta,"overdoors [en]
+Supraporte [de]
+",Objects Facet,http://vocab.getty.edu/aat/300002911,,https://artresearch.net/resource/zeri/vocabulary/sovrapporta,https://artresearch.net/resource/zeri/work/66147
+39,sportello di altarolo,"portable altarpieces [en]
+ancone portatili [it]",Objects Facet,,http://vocab.getty.edu/aat/300298799,https://artresearch.net/resource/zeri/vocabulary/sportello_di_altarolo,https://artresearch.net/resource/zeri/work/3022
+39,sportello di altarolo,"wings (visual works components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300182755,https://artresearch.net/resource/zeri/vocabulary/sportello_di_altarolo,https://artresearch.net/resource/zeri/work/3022
+38,altare,"altars (religious fixtures) [en]
+Altar [de]
+altari [it]",Objects Facet,http://vocab.getty.edu/aat/300003725,,https://artresearch.net/resource/zeri/vocabulary/altare,https://artresearch.net/resource/zeri/work/77387
+37,acquasantiera,"holy water stoups [en]
+Weihwasserbecken [de]
+acquasantiere [it]",Objects Facet,http://vocab.getty.edu/aat/300111961,,https://artresearch.net/resource/zeri/vocabulary/acquasantiera,https://artresearch.net/resource/zeri/work/82365
+37,cimasa,"panel paintings (paintings by form) [en]
+Tafelbild (Gemälde) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300033656,https://artresearch.net/resource/zeri/vocabulary/cimasa,https://artresearch.net/resource/zeri/work/27448
+37,cimasa,"tops (object portions) [en]
+Spitze (Teilbereich) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300190710,https://artresearch.net/resource/zeri/vocabulary/cimasa,https://artresearch.net/resource/zeri/work/27448
+37,pilastrino di polittico,"panel paintings (paintings by form) [en]
+Tafelbild (Gemälde) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300033656,https://artresearch.net/resource/zeri/vocabulary/pilastrino_di_polittico,https://artresearch.net/resource/zeri/work/31468
+37,pilastrino di polittico,"polyptychs [en]
+Polyptychon [de]
+polittici [it]",Objects Facet,,http://vocab.getty.edu/aat/300178235,https://artresearch.net/resource/zeri/vocabulary/pilastrino_di_polittico,https://artresearch.net/resource/zeri/work/31468
+37,statuetta,"statuettes (free-standing sculpture) [en]
+Statuette [de]
+statuina [it]",Objects Facet,http://vocab.getty.edu/aat/300312262,,https://artresearch.net/resource/zeri/vocabulary/statuetta,https://artresearch.net/resource/zeri/work/82425
+36,arazzo,"tapestries [en]
+arazzo [it]",Objects Facet,http://vocab.getty.edu/aat/300205002,,https://artresearch.net/resource/zeri/vocabulary/arazzo,https://artresearch.net/resource/zeri/work/37943
+36,"porta, a due battenti","double doors [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002806,,https://artresearch.net/resource/zeri/vocabulary/porta_a_due_battenti,https://artresearch.net/resource/zeri/work/79565
+35,capitello,"capitals (column components) [en]
+capitelli [it]",Objects Facet,http://vocab.getty.edu/aat/300001662,,https://artresearch.net/resource/zeri/vocabulary/capitello,https://artresearch.net/resource/zeri/work/77360
+35,cassone,"cassoni [en]
+Cassone [de]
+cassoni [it]",Objects Facet,http://vocab.getty.edu/aat/300039007,,https://artresearch.net/resource/zeri/vocabulary/cassone,https://artresearch.net/resource/zeri/work/16368
+34,fontana,"fountains [en]
+Brunnen [de]
+fontana [it]",Objects Facet,http://vocab.getty.edu/aat/300006179,,https://artresearch.net/resource/zeri/vocabulary/fontana,https://artresearch.net/resource/zeri/work/80958
+33,calco,"casts (sculpture) [en]
+Abguss (Skulptur) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300047806,,https://artresearch.net/resource/zeri/vocabulary/calco,https://artresearch.net/resource/zeri/work/83593
+29,fregio,"friezes (entablature components) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300001816,,https://artresearch.net/resource/zeri/vocabulary/fregio,https://artresearch.net/resource/zeri/work/59381
+29,miniatura,"miniatures (paintings) [en]
+Miniatur (painting) [de]
+miniatura (pittura) [it]",Objects Facet,http://vocab.getty.edu/aat/300033936,,https://artresearch.net/resource/zeri/vocabulary/miniatura,https://artresearch.net/resource/zeri/work/35821
+29,sportello di tabernacolo,"tabernacles (liturgical containers) [en]
+Tabernakel [de]
+tabernacoli (contenitori liturgici) [it]",Objects Facet,,http://vocab.getty.edu/aat/300207778,https://artresearch.net/resource/zeri/vocabulary/sportello_di_tabernacolo,https://artresearch.net/resource/zeri/work/2696
+29,sportello di tabernacolo,"wings (visual works components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300182755,https://artresearch.net/resource/zeri/vocabulary/sportello_di_tabernacolo,https://artresearch.net/resource/zeri/work/2696
+28,croce processionale,"processional crosses [en]
+Vortragekreuz [de]
+croci processionali [it]",Objects Facet,http://vocab.getty.edu/aat/300263685,,https://artresearch.net/resource/zeri/vocabulary/croce_processionale,https://artresearch.net/resource/zeri/work/30022
+28,pulpito,"pulpits [en]
+Kanzel [de]
+pulpiti [it]",Objects Facet,http://vocab.getty.edu/aat/300003790,,https://artresearch.net/resource/zeri/vocabulary/pulpito,https://artresearch.net/resource/zeri/work/75924
+26,moneta,"coins (money) [en]
+Münze (Geld) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300037222,,https://artresearch.net/resource/zeri/vocabulary/moneta,https://artresearch.net/resource/zeri/work/85303
+21,ambone,"ambos (pulpits) [en]
+Ambo [de]
+amboni (pulpits) [it]",Objects Facet,http://vocab.getty.edu/aat/300003792,,https://artresearch.net/resource/zeri/vocabulary/ambone,https://artresearch.net/resource/zeri/work/101976
+21,monumento commemorativo,"commemorative sculpture [en]
+",Objects Facet,http://vocab.getty.edu/aat/300262491,,https://artresearch.net/resource/zeri/vocabulary/monumento_commemorativo,https://artresearch.net/resource/zeri/work/101977
+20,biccherna,"biccherne [en]
+",Objects Facet,http://vocab.getty.edu/aat/300386567,,https://artresearch.net/resource/zeri/vocabulary/biccherna,https://artresearch.net/resource/zeri/work/10129
+20,cofanetto,"caskets (personal gear) [en]
+Kassette [de]
+",Objects Facet,http://vocab.getty.edu/aat/300039006,,https://artresearch.net/resource/zeri/vocabulary/cofanetto,https://artresearch.net/resource/zeri/work/78342
+20,reliquiario,"reliquaries [en]
+Reliquiar [de]
+reliquiari [it]",Objects Facet,http://vocab.getty.edu/aat/300187549,,https://artresearch.net/resource/zeri/vocabulary/reliquiario,https://artresearch.net/resource/zeri/work/11337
+19,stendardo,"banners [en]
+vessillo [it]",Objects Facet,http://vocab.getty.edu/aat/300195679,,https://artresearch.net/resource/zeri/vocabulary/stendardo,https://artresearch.net/resource/zeri/work/16898
+18,paramento liturgico,,,,,https://artresearch.net/resource/zeri/vocabulary/paramento_liturgico,https://artresearch.net/resource/zeri/work/13234
+17,pilastrino,"balusters (railing components) [en]
+Baluster [de]
+",Objects Facet,http://vocab.getty.edu/aat/300003287,,https://artresearch.net/resource/zeri/vocabulary/pilastrino,https://artresearch.net/resource/zeri/work/12953
+14,anta di armadio,"wardrobes (case furniture) [en]
+Kleiderschrank [de]
+armadi-guardarobe [it]",Objects Facet,,http://vocab.getty.edu/aat/300039237,https://artresearch.net/resource/zeri/vocabulary/anta_di_armadio,https://artresearch.net/resource/zeri/work/26336
+14,anta di armadio,"wings (visual works components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300182755,https://artresearch.net/resource/zeri/vocabulary/anta_di_armadio,https://artresearch.net/resource/zeri/work/26336
+14,colonna,"columns (architectural elements) [en]
+Säule (Architekturelement) [de]
+colonna (elemento architettonico) [it]",Objects Facet,http://vocab.getty.edu/aat/300001571,,https://artresearch.net/resource/zeri/vocabulary/colonna,https://artresearch.net/resource/zeri/work/76058
+14,desco da parto,"birth trays [en]
+deschi da parto [it]",Objects Facet,http://vocab.getty.edu/aat/300391221,,https://artresearch.net/resource/zeri/vocabulary/desco_da_parto,https://artresearch.net/resource/zeri/work/12999
+14,erma,"herms [en]
+Herme [de]
+",Objects Facet,http://vocab.getty.edu/aat/300047170,,https://artresearch.net/resource/zeri/vocabulary/erma,https://artresearch.net/resource/zeri/work/82910
+14,scomparto di altarolo portatile,"panels (surface components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300069079,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_altarolo_portatile,https://artresearch.net/resource/zeri/work/2388
+14,scomparto di altarolo portatile,"portable altarpieces [en]
+ancone portatili [it]",Objects Facet,,http://vocab.getty.edu/aat/300298799,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_altarolo_portatile,https://artresearch.net/resource/zeri/work/2388
+14,spalliera,"backrest [en]
+Rückenlehne (Rückenstütze) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300262278,,https://artresearch.net/resource/zeri/vocabulary/spalliera,https://artresearch.net/resource/zeri/work/13322
+13,gabella,"biccherne [en]
+",Objects Facet,http://vocab.getty.edu/aat/300386567,,https://artresearch.net/resource/zeri/vocabulary/gabella,https://artresearch.net/resource/zeri/work/10132
+13,parato da chiesa,"<coverings for liturgical vessels> [en]
+",Objects Facet,http://vocab.getty.edu/aat/300214771,,https://artresearch.net/resource/zeri/vocabulary/parato_da_chiesa,https://artresearch.net/resource/zeri/work/47334
+13,sportello di polittico,"painting components [en]
+Bestandteile eines Gemäldes [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300178447,https://artresearch.net/resource/zeri/vocabulary/sportello_di_polittico,https://artresearch.net/resource/zeri/work/11920
+13,sportello di polittico,"polyptychs [en]
+Polyptychon [de]
+polittici [it]",Objects Facet,,http://vocab.getty.edu/aat/300178235,https://artresearch.net/resource/zeri/vocabulary/sportello_di_polittico,https://artresearch.net/resource/zeri/work/11920
+12,lastra,"plates (reproduction object genre) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300404443,,https://artresearch.net/resource/zeri/vocabulary/lastra,https://artresearch.net/resource/zeri/work/72733
+12,medaglione,"medallions (medals) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300077357,,https://artresearch.net/resource/zeri/vocabulary/medaglione,https://artresearch.net/resource/zeri/work/13776
+12,scomparto di tabernacolo,"panels (surface components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300069079,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_tabernacolo,https://artresearch.net/resource/zeri/work/27201
+12,scomparto di tabernacolo,"tabernacles (liturgical containers) [en]
+Tabernakel [de]
+tabernacoli (contenitori liturgici) [it]",Objects Facet,,http://vocab.getty.edu/aat/300207778,https://artresearch.net/resource/zeri/vocabulary/scomparto_di_tabernacolo,https://artresearch.net/resource/zeri/work/27201
+11,alare da camino,"andirons [en]
+Feuerbock [de]
+",Objects Facet,http://vocab.getty.edu/aat/300161848,,https://artresearch.net/resource/zeri/vocabulary/alare_da_camino,https://artresearch.net/resource/zeri/work/81681
+11,candelabro per cero pasquale,"paschal candlesticks [en]
+",Objects Facet,http://vocab.getty.edu/aat/300390961,,https://artresearch.net/resource/zeri/vocabulary/candelabro_per_cero_pasquale,https://artresearch.net/resource/zeri/work/79321
+11,tabernacolo portatile,"portable tabernacles [en]
+tabernacoli portatili [it]",Objects Facet,http://vocab.getty.edu/aat/300301312,,https://artresearch.net/resource/zeri/vocabulary/tabernacolo_portatile,https://artresearch.net/resource/zeri/work/14361
+10,edicola,"aedicules [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002574,,https://artresearch.net/resource/zeri/vocabulary/edicola,https://artresearch.net/resource/zeri/work/83284
+10,"reliquiario, a dittico","reliquaries [en]
+Reliquiar [de]
+reliquiari [it]",Objects Facet,,http://vocab.getty.edu/aat/300187549,https://artresearch.net/resource/zeri/vocabulary/reliquiario_a_dittico,https://artresearch.net/resource/zeri/work/11315
+9,gradino d'altare,"gradines (altar shelves) [en]
+gradini d'altare [it]",Objects Facet,http://vocab.getty.edu/aat/300257149,,https://artresearch.net/resource/zeri/vocabulary/gradino_d_altare,https://artresearch.net/resource/zeri/work/12110
+9,lesena,"pilasters (wall components) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002737,,https://artresearch.net/resource/zeri/vocabulary/lesena,https://artresearch.net/resource/zeri/work/74067
+9,soffitto,"ceilings [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002031,,https://artresearch.net/resource/zeri/vocabulary/soffitto,https://artresearch.net/resource/zeri/work/96263
+9,"soffitto, a cassettoni","coffered ceilings [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002039,,https://artresearch.net/resource/zeri/vocabulary/soffitto_a_cassettoni,https://artresearch.net/resource/zeri/work/52380
+9,statuetta da presepio,"crèches (visual works) [en]
+Krippen [de]
+presepi [it]",Objects Facet,,http://vocab.getty.edu/aat/300264820,https://artresearch.net/resource/zeri/vocabulary/statuetta_da_presepio,https://artresearch.net/resource/zeri/work/83126
+9,statuetta da presepio,"statuettes (free-standing sculpture) [en]
+Statuette [de]
+statuina [it]",Objects Facet,,http://vocab.getty.edu/aat/300312262,https://artresearch.net/resource/zeri/vocabulary/statuetta_da_presepio,https://artresearch.net/resource/zeri/work/83126
+9,ex voto,,,,,https://artresearch.net/resource/zeri/vocabulary/ex_voto,https://artresearch.net/resource/zeri/work/68736
+8,ciborio,"ciboria (structures) [en]
+cibori (strutture) [it]",Objects Facet,http://vocab.getty.edu/aat/300076084,,https://artresearch.net/resource/zeri/vocabulary/ciborio,https://artresearch.net/resource/zeri/work/101786
+8,mostra di camino,"mantels (fireplace components) [en]
+caminiera [it]",Objects Facet,http://vocab.getty.edu/aat/300052347,,https://artresearch.net/resource/zeri/vocabulary/mostra_di_camino,https://artresearch.net/resource/zeri/work/73553
+8,placchetta,"plaquettes (sculptures) [en]
+Plakette (Relief) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300190507,,https://artresearch.net/resource/zeri/vocabulary/placchetta,https://artresearch.net/resource/zeri/work/84525
+8,retablo,"reredoses (screens) [en]
+mostre d'altare [it]",Objects Facet,http://vocab.getty.edu/aat/300075947,,https://artresearch.net/resource/zeri/vocabulary/retablo,https://artresearch.net/resource/zeri/work/13013
+8,statua equestre,"equestrian statues [en]
+Reiterstandbild [de]
+statue equestri [it]",Objects Facet,http://vocab.getty.edu/aat/300047606,,https://artresearch.net/resource/zeri/vocabulary/statua_equestre,https://artresearch.net/resource/zeri/work/67047
+8,"tabernacolo, a frontale architettonico","tabernacles (liturgical containers) [en]
+Tabernakel [de]
+tabernacoli (contenitori liturgici) [it]",Objects Facet,,http://vocab.getty.edu/aat/300207778,https://artresearch.net/resource/zeri/vocabulary/tabernacolo_a_frontale_architettonico,https://artresearch.net/resource/zeri/work/102146
+7,ancona,"anconas [en]
+Ancone [de]
+ancone (altarpieces) [it]",Objects Facet,http://vocab.getty.edu/aat/300298798,,https://artresearch.net/resource/zeri/vocabulary/ancona,https://artresearch.net/resource/zeri/work/24063
+7,fonte battesimale,"baptismal fonts [en]
+Taufbecken [de]
+fonti battesimali [it]",Objects Facet,http://vocab.getty.edu/aat/300080617,,https://artresearch.net/resource/zeri/vocabulary/fonte_battesimale,https://artresearch.net/resource/zeri/work/101989
+7,fronte di cassone,"cassoni [en]
+Cassone [de]
+cassoni [it]",Objects Facet,,http://vocab.getty.edu/aat/300039007,https://artresearch.net/resource/zeri/vocabulary/fronte_di_cassone,https://artresearch.net/resource/zeri/work/81041
+7,fronte di cassone,"fronts (object portions) [en]
+Vorderseite (Objektabschnitt) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300190703,https://artresearch.net/resource/zeri/vocabulary/fronte_di_cassone,https://artresearch.net/resource/zeri/work/81041
+7,fronte di cassone,"panel paintings (paintings by form) [en]
+Tafelbild (Gemälde) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300033656,https://artresearch.net/resource/zeri/vocabulary/fronte_di_cassone,https://artresearch.net/resource/zeri/work/81041
+7,"reliquiario, a trittico","reliquaries [en]
+Reliquiar [de]
+reliquiari [it]",Objects Facet,,http://vocab.getty.edu/aat/300187549,https://artresearch.net/resource/zeri/vocabulary/reliquiario_a_trittico,https://artresearch.net/resource/zeri/work/5345
+7,sarcofago,"sarcophagi (coffins) [en]
+Sarkophag [de]
+sarcofagi [it]",Objects Facet,http://vocab.getty.edu/aat/300005947,,https://artresearch.net/resource/zeri/vocabulary/sarcofago,https://artresearch.net/resource/zeri/work/83359
+7,stele funeraria,"stelae [en]
+Stele [de]
+steli [it]",Objects Facet,http://vocab.getty.edu/aat/300007023,,https://artresearch.net/resource/zeri/vocabulary/stele_funeraria,https://artresearch.net/resource/zeri/work/84348
+7,tabernacolo per oli santi,"holy oils aumbries [en]
+armadietti per oli santi [it]",Objects Facet,http://vocab.getty.edu/aat/300310149,,https://artresearch.net/resource/zeri/vocabulary/tabernacolo_per_oli_santi,https://artresearch.net/resource/zeri/work/73527
+7,testiera di cataletto,"headboards [en]
+",Objects Facet,http://vocab.getty.edu/aat/300040447,,https://artresearch.net/resource/zeri/vocabulary/testiera_di_cataletto,https://artresearch.net/resource/zeri/work/40190
+7,vaso,"vases [en]
+Vase [de]
+vaso [it]",Objects Facet,http://vocab.getty.edu/aat/300132254,,https://artresearch.net/resource/zeri/vocabulary/vaso,https://artresearch.net/resource/zeri/work/85624
+6,candelabro,"candelabras (candleholders) [en]
+Kandelaber (Kerzenhalter) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300037584,,https://artresearch.net/resource/zeri/vocabulary/candelabro,https://artresearch.net/resource/zeri/work/85419
+6,pannello,"panel paintings (paintings by form) [en]
+Tafelbild (Gemälde) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300033656,,https://artresearch.net/resource/zeri/vocabulary/pannello,https://artresearch.net/resource/zeri/work/50460
+6,pavimento,"floors (surface elements) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002060,,https://artresearch.net/resource/zeri/vocabulary/pavimento,https://artresearch.net/resource/zeri/work/81339
+6,porta,"doors [en]
+porta (barriera per l'ingresso) [it]",Objects Facet,http://vocab.getty.edu/aat/300002803,,https://artresearch.net/resource/zeri/vocabulary/porta,https://artresearch.net/resource/zeri/work/84148
+6,sportello,"shutters (opening covers) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300003173,,https://artresearch.net/resource/zeri/vocabulary/sportello,https://artresearch.net/resource/zeri/work/60687
+5,calamaio,"inkwells [en]
+Tintenfass [de]
+",Objects Facet,http://vocab.getty.edu/aat/300196797,,https://artresearch.net/resource/zeri/vocabulary/calamaio,https://artresearch.net/resource/zeri/work/85497
+5,cattedra episcopale,"cathedrae (bishop's chairs) [en]
+Cathedra (Bischofsstuhl) [de]
+cattedre (bishop's chairs) [it]",Objects Facet,http://vocab.getty.edu/aat/300125933,,https://artresearch.net/resource/zeri/vocabulary/cattedra_episcopale,https://artresearch.net/resource/zeri/work/79306
+5,cornice,"frames (protective furnishings) [en]
+Rahmen (Ausstattung) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300189814,,https://artresearch.net/resource/zeri/vocabulary/cornice,https://artresearch.net/resource/zeri/work/83195
+5,fronte di sarcofago,"fronts (object portions) [en]
+Vorderseite (Objektabschnitt) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300190703,https://artresearch.net/resource/zeri/vocabulary/fronte_di_sarcofago,https://artresearch.net/resource/zeri/work/29621
+5,fronte di sarcofago,"sarcophagi (coffins) [en]
+Sarkophag [de]
+sarcofagi [it]",Objects Facet,,http://vocab.getty.edu/aat/300005947,https://artresearch.net/resource/zeri/vocabulary/fronte_di_sarcofago,https://artresearch.net/resource/zeri/work/29621
+5,mostra di porta,"doorframes [en]
+Türrahmen [de]
+",Objects Facet,http://vocab.getty.edu/aat/300002785,,https://artresearch.net/resource/zeri/vocabulary/mostra_di_porta,https://artresearch.net/resource/zeri/work/76781
+5,pluteo,"rood beams [en]
+",Objects Facet,http://vocab.getty.edu/aat/300395525,,https://artresearch.net/resource/zeri/vocabulary/pluteo,https://artresearch.net/resource/zeri/work/80038
+5,"reliquiario, a busto","reliquary busts [en]
+",Objects Facet,http://vocab.getty.edu/aat/300390990,,https://artresearch.net/resource/zeri/vocabulary/reliquiario_a_busto,https://artresearch.net/resource/zeri/work/76760
+5,vera da pozzo,"water wells [en]
+",Objects Facet,http://vocab.getty.edu/aat/300152327,,https://artresearch.net/resource/zeri/vocabulary/vera_da_pozzo,https://artresearch.net/resource/zeri/work/77099
+4,bandinella,"processional standards [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300410456,https://artresearch.net/resource/zeri/vocabulary/bandinella,https://artresearch.net/resource/zeri/work/8046
+4,candelabro figurato,"candelabras (candleholders) [en]
+Kandelaber (Kerzenhalter) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300037584,https://artresearch.net/resource/zeri/vocabulary/candelabro_figurato,https://artresearch.net/resource/zeri/work/76563
+4,cenotafio,"cenotaphs [en]
+Ehrenmal [de]
+cenotafi [it]",Objects Facet,http://vocab.getty.edu/aat/300007027,,https://artresearch.net/resource/zeri/vocabulary/cenotafio,https://artresearch.net/resource/zeri/work/101321
+4,coperta di libro liturgico,"book jackets [en]
+",Objects Facet,http://vocab.getty.edu/aat/300195133,,https://artresearch.net/resource/zeri/vocabulary/coperta_di_libro_liturgico,https://artresearch.net/resource/zeri/work/80309
+4,croce,"crosses (visual works) [en]
+Kreuz (visuelles Werk) [de]
+croci (opere visive) [it]",Objects Facet,http://vocab.getty.edu/aat/300235443,,https://artresearch.net/resource/zeri/vocabulary/croce,https://artresearch.net/resource/zeri/work/79673
+4,croce portatile,"processional crosses [en]
+Vortragekreuz [de]
+croci processionali [it]",Objects Facet,http://vocab.getty.edu/aat/300263685,,https://artresearch.net/resource/zeri/vocabulary/croce_portatile,https://artresearch.net/resource/zeri/work/10366
+4,"croce, astile","processional crosses [en]
+Vortragekreuz [de]
+croci processionali [it]",Objects Facet,http://vocab.getty.edu/aat/300263685,,https://artresearch.net/resource/zeri/vocabulary/croce_astile,https://artresearch.net/resource/zeri/work/19556
+4,lavabo,"washbowls [en]
+Waschschüssel [de]
+",Objects Facet,http://vocab.getty.edu/aat/300220999,,https://artresearch.net/resource/zeri/vocabulary/lavabo,https://artresearch.net/resource/zeri/work/76834
+4,lucerna,"lanterns (lighting devices) [en]
+Laterne (Beleuchtungsvorrichtung) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300037647,,https://artresearch.net/resource/zeri/vocabulary/lucerna,https://artresearch.net/resource/zeri/work/83489
+4,mensola,"shelves [en]
+Stellage [de]
+",Objects Facet,http://vocab.getty.edu/aat/300165847,,https://artresearch.net/resource/zeri/vocabulary/mensola,https://artresearch.net/resource/zeri/work/77161
+4,pace,"paxes [en]
+Kusstafel [de]
+pax [it]",Objects Facet,http://vocab.getty.edu/aat/300236484,,https://artresearch.net/resource/zeri/vocabulary/pace,https://artresearch.net/resource/zeri/work/30678
+4,peduccio,"corbels [en]
+",Objects Facet,http://vocab.getty.edu/aat/300003610,,https://artresearch.net/resource/zeri/vocabulary/peduccio,https://artresearch.net/resource/zeri/work/79653
+4,"reliquiario, a cassetta","chasse reliquaries [en]
+Reliquienschrein (liturgisches Objekt) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300300917,,https://artresearch.net/resource/zeri/vocabulary/reliquiario_a_cassetta,https://artresearch.net/resource/zeri/work/11116
+4,scatola,"boxes (containers) [en]
+Kasten [de]
+scatola [it]",Objects Facet,http://vocab.getty.edu/aat/300045643,,https://artresearch.net/resource/zeri/vocabulary/scatola,https://artresearch.net/resource/zeri/work/12121
+4,sportello di trittico,"triptychs [en]
+Triptychon [de]
+trittici [it]",Objects Facet,,http://vocab.getty.edu/aat/300178234,https://artresearch.net/resource/zeri/vocabulary/sportello_di_trittico,https://artresearch.net/resource/zeri/work/4105
+4,sportello di trittico,"wings (visual works components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300182755,https://artresearch.net/resource/zeri/vocabulary/sportello_di_trittico,https://artresearch.net/resource/zeri/work/4105
+4,stipo,"cabinets of drawers [en]
+",Objects Facet,http://vocab.getty.edu/aat/300038892,,https://artresearch.net/resource/zeri/vocabulary/stipo,https://artresearch.net/resource/zeri/work/54123
+4,transenna,"rood beams [en]
+",Objects Facet,http://vocab.getty.edu/aat/300395525,,https://artresearch.net/resource/zeri/vocabulary/transenna,https://artresearch.net/resource/zeri/work/73552
+3,arca,"arcae [en]
+",Objects Facet,http://vocab.getty.edu/aat/300038995,,https://artresearch.net/resource/zeri/vocabulary/arca,https://artresearch.net/resource/zeri/work/79577
+3,balaustrata,"balustrades [en]
+Balustrade [de]
+",Objects Facet,http://vocab.getty.edu/aat/300001989,,https://artresearch.net/resource/zeri/vocabulary/balaustrata,https://artresearch.net/resource/zeri/work/77112
+3,brocca,"pitchers (vessels) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300194765,,https://artresearch.net/resource/zeri/vocabulary/brocca,https://artresearch.net/resource/zeri/work/83199
+3,candeliere,"altar candlesticks [en]
+candeliere d'altare [it]",Objects Facet,http://vocab.getty.edu/aat/300391083,,https://artresearch.net/resource/zeri/vocabulary/candeliere,https://artresearch.net/resource/zeri/work/85546
+3,croce reliquiario,"staurotheques [en]
+",Objects Facet,http://vocab.getty.edu/aat/300400719,,https://artresearch.net/resource/zeri/vocabulary/croce_reliquiario,https://artresearch.net/resource/zeri/work/10517
+3,leggio,"lecterns [en]
+leggii (podio) [it]",Objects Facet,http://vocab.getty.edu/aat/300170801,,https://artresearch.net/resource/zeri/vocabulary/leggio,https://artresearch.net/resource/zeri/work/77220
+3,manoscritto,"manuscripts (documents) [en]
+Manuskript (Dokumentengattung) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300028569,,https://artresearch.net/resource/zeri/vocabulary/manoscritto,https://artresearch.net/resource/zeri/work/9793
+3,panca,"benches (furniture) [en]
+Bank (Sitzmöbel) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300038494,,https://artresearch.net/resource/zeri/vocabulary/panca,https://artresearch.net/resource/zeri/work/83296
+3,pilastro,"pillars (structural elements) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300264605,,https://artresearch.net/resource/zeri/vocabulary/pilastro,https://artresearch.net/resource/zeri/work/74025
+3,"reliquiario, a croce","reliquaries [en]
+Reliquiar [de]
+reliquiari [it]",Objects Facet,,http://vocab.getty.edu/aat/300187549,https://artresearch.net/resource/zeri/vocabulary/reliquiario_a_croce,https://artresearch.net/resource/zeri/work/10919
+3,rosone,"rose windows [en]
+",Objects Facet,http://vocab.getty.edu/aat/300003054,,https://artresearch.net/resource/zeri/vocabulary/rosone,https://artresearch.net/resource/zeri/work/80611
+3,statua portacandelabro,"candleholders [en]
+Kerzenhalter [de]
+candeliere [it]",Objects Facet,http://vocab.getty.edu/aat/300037583,,https://artresearch.net/resource/zeri/vocabulary/statua_portacandelabro,https://artresearch.net/resource/zeri/work/76967
+3,tavolo,"tables (support furniture) [en]
+Tisch [de]
+tavolo [it]",Objects Facet,http://vocab.getty.edu/aat/300039548,,https://artresearch.net/resource/zeri/vocabulary/tavolo,https://artresearch.net/resource/zeri/work/82446
+2,anta di tabernacolo,"tabernacles (liturgical containers) [en]
+Tabernakel [de]
+tabernacoli (contenitori liturgici) [it]",Objects Facet,,http://vocab.getty.edu/aat/300207778,https://artresearch.net/resource/zeri/vocabulary/anta_di_tabernacolo,https://artresearch.net/resource/zeri/work/3660
+2,anta di tabernacolo,"wings (visual works components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300182755,https://artresearch.net/resource/zeri/vocabulary/anta_di_tabernacolo,https://artresearch.net/resource/zeri/work/3660
+2,antefissa,"antefixes [en]
+Antefix [de]
+antefissa [it]",Objects Facet,http://vocab.getty.edu/aat/300002217,,https://artresearch.net/resource/zeri/vocabulary/antefissa,https://artresearch.net/resource/zeri/work/79742
+2,armadio,"wardrobes (case furniture) [en]
+Kleiderschrank [de]
+armadi-guardarobe [it]",Objects Facet,http://vocab.getty.edu/aat/300039237,,https://artresearch.net/resource/zeri/vocabulary/armadio,https://artresearch.net/resource/zeri/work/82935
+2,balaustra,"balustrades [en]
+Balustrade [de]
+",Objects Facet,http://vocab.getty.edu/aat/300001989,,https://artresearch.net/resource/zeri/vocabulary/balaustra,https://artresearch.net/resource/zeri/work/73978
+2,banda processionale,"processional standards [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300410456,https://artresearch.net/resource/zeri/vocabulary/banda_processionale,https://artresearch.net/resource/zeri/work/16940
+2,base,"bases (object components) [en]
+Fundament (Objektkomponente) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300001656,,https://artresearch.net/resource/zeri/vocabulary/base,https://artresearch.net/resource/zeri/work/77896
+2,base di colonna,"column bases [en]
+Säulenbasis [de]
+",Objects Facet,http://vocab.getty.edu/aat/300233843,,https://artresearch.net/resource/zeri/vocabulary/base_di_colonna,https://artresearch.net/resource/zeri/work/80365
+2,base di pilastro,"column bases [en]
+Säulenbasis [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300233843,https://artresearch.net/resource/zeri/vocabulary/base_di_pilastro,https://artresearch.net/resource/zeri/work/101309
+2,base di pilastro,"pillars (structural elements) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300264605,https://artresearch.net/resource/zeri/vocabulary/base_di_pilastro,https://artresearch.net/resource/zeri/work/101309
+2,base portainsegne,"bases (object components) [en]
+Fundament (Objektkomponente) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300001656,https://artresearch.net/resource/zeri/vocabulary/base_portainsegne,https://artresearch.net/resource/zeri/work/81503
+2,base portainsegne,"pedestals [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300001744,https://artresearch.net/resource/zeri/vocabulary/base_portainsegne,https://artresearch.net/resource/zeri/work/81503
+2,braciere,"braziers (cooking, heating equipment) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300198452,,https://artresearch.net/resource/zeri/vocabulary/braciere,https://artresearch.net/resource/zeri/work/84862
+2,candelabro portatile,"candelabras (candleholders) [en]
+Kandelaber (Kerzenhalter) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300037584,https://artresearch.net/resource/zeri/vocabulary/candelabro_portatile,https://artresearch.net/resource/zeri/work/83279
+2,candeliere calamaio,"candlestick inkwells [en]
+candeliere calamaio [it]",Objects Facet,http://vocab.getty.edu/aat/300299253,,https://artresearch.net/resource/zeri/vocabulary/candeliere_calamaio,https://artresearch.net/resource/zeri/work/85327
+2,cantoria,"choir lofts [en]
+Chorempore [de]
+",Objects Facet,http://vocab.getty.edu/aat/300004035,,https://artresearch.net/resource/zeri/vocabulary/cantoria,https://artresearch.net/resource/zeri/work/66165
+2,cassa d'organo,"organ cases [en]
+Orgelprospekt [de]
+",Objects Facet,http://vocab.getty.edu/aat/300252572,,https://artresearch.net/resource/zeri/vocabulary/cassa_d_organo,https://artresearch.net/resource/zeri/work/81935
+2,cattedra,"ceremonial chairs [en]
+Zeremonialstuhl [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300133851,https://artresearch.net/resource/zeri/vocabulary/cattedra,https://artresearch.net/resource/zeri/work/22099
+2,chiave di volta,"keystones [en]
+chiave (architettura) [it]",Objects Facet,http://vocab.getty.edu/aat/300001183,,https://artresearch.net/resource/zeri/vocabulary/chiave_di_volta,https://artresearch.net/resource/zeri/work/19511
+2,chiesa,"churches (buildings) [en]
+Kirche (Gebäude) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300007466,,https://artresearch.net/resource/zeri/vocabulary/chiesa,https://artresearch.net/resource/zeri/work/85220
+2,cofano,"caskets (personal gear) [en]
+Kassette [de]
+",Objects Facet,http://vocab.getty.edu/aat/300039006,,https://artresearch.net/resource/zeri/vocabulary/cofano,https://artresearch.net/resource/zeri/work/7277
+2,coperta di libro,"book jackets [en]
+",Objects Facet,http://vocab.getty.edu/aat/300195133,,https://artresearch.net/resource/zeri/vocabulary/coperta_di_libro,https://artresearch.net/resource/zeri/work/18410
+2,coperta di pala d'altare,"altarpieces [en]
+Altarbild [de]
+pale d'altare [it]",Objects Facet,,http://vocab.getty.edu/aat/300075940,https://artresearch.net/resource/zeri/vocabulary/coperta_di_pala_d_altare,https://artresearch.net/resource/zeri/work/5634
+2,coperta di pala d'altare,"covers (overlying objects) [en]
+Abdeckung (Objekt) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300246275,https://artresearch.net/resource/zeri/vocabulary/coperta_di_pala_d_altare,https://artresearch.net/resource/zeri/work/5634
+2,coppa,"cups (drinking vessels) [en]
+coppa (vaso per bere) [it]",Objects Facet,http://vocab.getty.edu/aat/300043202,,https://artresearch.net/resource/zeri/vocabulary/coppa,https://artresearch.net/resource/zeri/work/83105
+2,croce d'altare,"altar crosses [en]
+Altarkreuz [de]
+croci d'altare [it]",Objects Facet,http://vocab.getty.edu/aat/300262580,,https://artresearch.net/resource/zeri/vocabulary/croce_d_altare,https://artresearch.net/resource/zeri/work/80297
+2,forziere,"trussing coffers [en]
+Koffertruhe [de]
+",Objects Facet,http://vocab.getty.edu/aat/300039124,,https://artresearch.net/resource/zeri/vocabulary/forziere,https://artresearch.net/resource/zeri/work/5115
+2,loggia,"loggias [en]
+Loggia (Halle) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300004137,,https://artresearch.net/resource/zeri/vocabulary/loggia,https://artresearch.net/resource/zeri/work/79843
+2,meridiana,"sundials [en]
+Sonnenuhr [de]
+",Objects Facet,http://vocab.getty.edu/aat/300041614,,https://artresearch.net/resource/zeri/vocabulary/meridiana,https://artresearch.net/resource/zeri/work/83302
+2,modellino,"scale models [en]
+",Objects Facet,http://vocab.getty.edu/aat/300266034,,https://artresearch.net/resource/zeri/vocabulary/modellino,https://artresearch.net/resource/zeri/work/32596
+2,modello,"models (representations) [en]
+Modell (visuelles Werk) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300047753,,https://artresearch.net/resource/zeri/vocabulary/modello,https://artresearch.net/resource/zeri/work/82016
+2,mostra di finestra con sedile,"window frames [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300003118,https://artresearch.net/resource/zeri/vocabulary/mostra_di_finestra_con_sedile,https://artresearch.net/resource/zeri/work/73609
+2,orologio,"watches [en]
+Kleinuhr [de]
+orologio [it]",Objects Facet,http://vocab.getty.edu/aat/300041615,,https://artresearch.net/resource/zeri/vocabulary/orologio,https://artresearch.net/resource/zeri/work/13554
+2,"pace, a tavoletta","paxes [en]
+Kusstafel [de]
+pax [it]",Objects Facet,http://vocab.getty.edu/aat/300236484,,https://artresearch.net/resource/zeri/vocabulary/pace_a_tavoletta,https://artresearch.net/resource/zeri/work/38263
+2,piatto,"plates (general, dishes) [en]
+Teller (Geschirr) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300042991,,https://artresearch.net/resource/zeri/vocabulary/piatto,https://artresearch.net/resource/zeri/work/31566
+2,presepio,"crèches (visual works) [en]
+Krippen [de]
+presepi [it]",Objects Facet,http://vocab.getty.edu/aat/300264820,,https://artresearch.net/resource/zeri/vocabulary/presepio,https://artresearch.net/resource/zeri/work/83537
+2,"reliquiario, a cassa","chasse reliquaries [en]
+Reliquienschrein (liturgisches Objekt) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300300917,,https://artresearch.net/resource/zeri/vocabulary/reliquiario_a_cassa,https://artresearch.net/resource/zeri/work/74853
+2,sinopia,"sinopie [en]
+Sinopie [de]
+",Objects Facet,http://vocab.getty.edu/aat/300034464,,https://artresearch.net/resource/zeri/vocabulary/sinopia,https://artresearch.net/resource/zeri/work/35534
+2,stallo di coro,"choir stalls [en]
+Chorgestühl [de]
+stalli di coro [it]",Objects Facet,http://vocab.getty.edu/aat/300076128,,https://artresearch.net/resource/zeri/vocabulary/stallo_di_coro,https://artresearch.net/resource/zeri/work/31410
+2,"tabernacolo, a tempietto","tabernacles (liturgical containers) [en]
+Tabernakel [de]
+tabernacoli (contenitori liturgici) [it]",Objects Facet,,http://vocab.getty.edu/aat/300207778,https://artresearch.net/resource/zeri/vocabulary/tabernacolo_a_tempietto,https://artresearch.net/resource/zeri/work/72968
+2,targa,"commemorative plaques [en]
+",Objects Facet,http://vocab.getty.edu/aat/300411443,,https://artresearch.net/resource/zeri/vocabulary/targa,https://artresearch.net/resource/zeri/work/30677
+2,timpano,"tympana (wall components) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002736,,https://artresearch.net/resource/zeri/vocabulary/timpano,https://artresearch.net/resource/zeri/work/80939
+1,alzata,"risers (platforms) [en]
+Sockel (Plattform) [de]
+alzate (piattaforme) [it]",Objects Facet,http://vocab.getty.edu/aat/300375666,,https://artresearch.net/resource/zeri/vocabulary/alzata,https://artresearch.net/resource/zeri/work/84390
+1,anfora,"amphorae (storage vessels) [en]
+anfore [it]",Objects Facet,http://vocab.getty.edu/aat/300148696,,https://artresearch.net/resource/zeri/vocabulary/anfora,https://artresearch.net/resource/zeri/work/83881
+1,anta,"wings (visual works components) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300182755,,https://artresearch.net/resource/zeri/vocabulary/anta,https://artresearch.net/resource/zeri/work/61002
+1,anta di trittico,"triptychs [en]
+Triptychon [de]
+trittici [it]",Objects Facet,,http://vocab.getty.edu/aat/300178234,https://artresearch.net/resource/zeri/vocabulary/anta_di_trittico,https://artresearch.net/resource/zeri/work/19674
+1,anta di trittico,"wings (visual works components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300182755,https://artresearch.net/resource/zeri/vocabulary/anta_di_trittico,https://artresearch.net/resource/zeri/work/19674
+1,architrave a rilievo,"door heads [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002792,,https://artresearch.net/resource/zeri/vocabulary/architrave_a_rilievo,https://artresearch.net/resource/zeri/work/80420
+1,arco,"arches [en]
+archi [it]",Objects Facet,http://vocab.getty.edu/aat/300000994,,https://artresearch.net/resource/zeri/vocabulary/arco,https://artresearch.net/resource/zeri/work/101824
+1,arco trionfale,"triumphal arches (memorial arches) [en]
+Triumphbogen (Ehrenbögen) [de]
+archi trionfali [it]",Objects Facet,http://vocab.getty.edu/aat/300007003,,https://artresearch.net/resource/zeri/vocabulary/arco_trionfale,https://artresearch.net/resource/zeri/work/77645
+1,bancale,"pallets (platforms) [en]
+Palette (Plattform) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300298970,,https://artresearch.net/resource/zeri/vocabulary/bancale,https://artresearch.net/resource/zeri/work/76206
+1,bancone,"counters (furniture) [en]
+Theke [de]
+",Objects Facet,http://vocab.getty.edu/aat/300121378,,https://artresearch.net/resource/zeri/vocabulary/bancone,https://artresearch.net/resource/zeri/work/76022
+1,bancone da farmacia,"counters (furniture) [en]
+Theke [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300121378,https://artresearch.net/resource/zeri/vocabulary/bancone_da_farmacia,https://artresearch.net/resource/zeri/work/82872
+1,base d'altare,"altar components [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300003729,https://artresearch.net/resource/zeri/vocabulary/base_d_altare,https://artresearch.net/resource/zeri/work/81172
+1,base d'altare,"bases (object components) [en]
+Fundament (Objektkomponente) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300001656,https://artresearch.net/resource/zeri/vocabulary/base_d_altare,https://artresearch.net/resource/zeri/work/81172
+1,base di candeliere,"bases (object components) [en]
+Fundament (Objektkomponente) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300001656,https://artresearch.net/resource/zeri/vocabulary/base_di_candeliere,https://artresearch.net/resource/zeri/work/85636
+1,base di candeliere,"altar candlesticks [en]
+candeliere d'altare [it]",Objects Facet,,http://vocab.getty.edu/aat/300391083,https://artresearch.net/resource/zeri/vocabulary/base_di_candeliere,https://artresearch.net/resource/zeri/work/85636
+1,battocchio,"clappers (percussion beaters) [en]
+Klöppel (Anschlagmittel) [de]
+",Objects Facet,http://vocab.getty.edu/aat/300191303,,https://artresearch.net/resource/zeri/vocabulary/battocchio,https://artresearch.net/resource/zeri/work/85654
+1,camino,"chimneys (architectural elements) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300003933,,https://artresearch.net/resource/zeri/vocabulary/camino,https://artresearch.net/resource/zeri/work/101776
+1,campanello,"bells (idiophones) [en]
+Glocke (Idiofon) [de]
+campana [it]",Objects Facet,http://vocab.getty.edu/aat/300041872,,https://artresearch.net/resource/zeri/vocabulary/campanello,https://artresearch.net/resource/zeri/work/85320
+1,cancello,"gates (swinging barriers) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300002916,,https://artresearch.net/resource/zeri/vocabulary/cancello,https://artresearch.net/resource/zeri/work/82923
+1,candeliere figurato,"altar candlesticks [en]
+candeliere d'altare [it]",Objects Facet,,http://vocab.getty.edu/aat/300391083,https://artresearch.net/resource/zeri/vocabulary/candeliere_figurato,https://artresearch.net/resource/zeri/work/80518
+1,capitello di colonna,"capitals (column components) [en]
+capitelli [it]",Objects Facet,http://vocab.getty.edu/aat/300001662,,https://artresearch.net/resource/zeri/vocabulary/capitello_di_colonna,https://artresearch.net/resource/zeri/work/80418
+1,capitello di pilastro,"capitals (column components) [en]
+capitelli [it]",Objects Facet,http://vocab.getty.edu/aat/300001662,,https://artresearch.net/resource/zeri/vocabulary/capitello_di_pilastro,https://artresearch.net/resource/zeri/work/80417
+1,carta da gioco del Tarocco,"tarot [en]
+",Activities Facet,http://vocab.getty.edu/aat/300263332,,https://artresearch.net/resource/zeri/vocabulary/carta_da_gioco_del_tarocco,https://artresearch.net/resource/zeri/work/23734
+1,casino,"casinos (entertainment buildings) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300007227,,https://artresearch.net/resource/zeri/vocabulary/casino,https://artresearch.net/resource/zeri/work/82586
+1,cassa da sepoltura,"coffins [en]
+Sarg [de]
+feretri [it]",Objects Facet,http://vocab.getty.edu/aat/300197585,,https://artresearch.net/resource/zeri/vocabulary/cassa_da_sepoltura,https://artresearch.net/resource/zeri/work/20119
+1,cielo di baldacchino,"baldachins (canopies) [en]
+baldacchini [it]",Objects Facet,,http://vocab.getty.edu/aat/300003762,https://artresearch.net/resource/zeri/vocabulary/cielo_di_baldacchino,https://artresearch.net/resource/zeri/work/55908
+1,cielo di baldacchino,"tops (object portions) [en]
+Spitze (Teilbereich) [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300190710,https://artresearch.net/resource/zeri/vocabulary/cielo_di_baldacchino,https://artresearch.net/resource/zeri/work/55908
+1,coperchio di clavicembalo,"covers (closures) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300197210,https://artresearch.net/resource/zeri/vocabulary/coperchio_di_clavicembalo,https://artresearch.net/resource/zeri/work/65895
+1,coperchio di clavicembalo,"harpsichords [en]
+Cembalo [de]
+",Objects Facet,,http://vocab.getty.edu/aat/300041678,https://artresearch.net/resource/zeri/vocabulary/coperchio_di_clavicembalo,https://artresearch.net/resource/zeri/work/65895
+1,coperchio di sarcofago,"covers (closures) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300197210,https://artresearch.net/resource/zeri/vocabulary/coperchio_di_sarcofago,https://artresearch.net/resource/zeri/work/6575
+1,coperchio di sarcofago,"sarcophagi (coffins) [en]
+Sarkophag [de]
+sarcofagi [it]",Objects Facet,,http://vocab.getty.edu/aat/300005947,https://artresearch.net/resource/zeri/vocabulary/coperchio_di_sarcofago,https://artresearch.net/resource/zeri/work/6575
+1,coro,"choir stalls [en]
+Chorgestühl [de]
+stalli di coro [it]",Objects Facet,http://vocab.getty.edu/aat/300076128,,https://artresearch.net/resource/zeri/vocabulary/coro,https://artresearch.net/resource/zeri/work/76551
+1,crocifisso processionale,"processional crosses [en]
+Vortragekreuz [de]
+croci processionali [it]",Objects Facet,http://vocab.getty.edu/aat/300263685,,https://artresearch.net/resource/zeri/vocabulary/crocifisso_processionale,https://artresearch.net/resource/zeri/work/101677
+1,doccione,"gargoyles [en]
+gotischer Wasserspeier [de]
+",Objects Facet,http://vocab.getty.edu/aat/300002330,,https://artresearch.net/resource/zeri/vocabulary/doccione,https://artresearch.net/resource/zeri/work/77384
+1,edicola sepolcrale,"aedicules [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300002574,https://artresearch.net/resource/zeri/vocabulary/edicola_sepolcrale,https://artresearch.net/resource/zeri/work/10651
+1,insegna processionale,"processional standards [en]
+",Objects Facet,http://vocab.getty.edu/aat/300410456,,https://artresearch.net/resource/zeri/vocabulary/insegna_processionale,https://artresearch.net/resource/zeri/work/9087
+1,letto,"beds (furniture) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300038697,,https://artresearch.net/resource/zeri/vocabulary/letto,https://artresearch.net/resource/zeri/work/8992
+1,"letto, ad alcova","box beds [en]
+Kastenbett [de]
+",Objects Facet,http://vocab.getty.edu/aat/300038700,,https://artresearch.net/resource/zeri/vocabulary/letto_ad_alcova,https://artresearch.net/resource/zeri/work/20977
+1,macchina processionale,"macchine (structures) [en]
+macchina processionale [it]",Objects Facet,http://vocab.getty.edu/aat/300048776,,https://artresearch.net/resource/zeri/vocabulary/macchina_processionale,https://artresearch.net/resource/zeri/work/82801
+1,modiglione,"modillions [en]
+",Objects Facet,http://vocab.getty.edu/aat/300001811,,https://artresearch.net/resource/zeri/vocabulary/modiglione,https://artresearch.net/resource/zeri/work/82129
+1,monumento ai caduti,"sepulchral monuments [en]
+Grabmal [de]
+monumenti funebri [it]",Objects Facet,,http://vocab.getty.edu/aat/300005909,https://artresearch.net/resource/zeri/vocabulary/monumento_ai_caduti,https://artresearch.net/resource/zeri/work/84261
+1,mostra di finestra,"window frames [en]
+",Objects Facet,http://vocab.getty.edu/aat/300003118,,https://artresearch.net/resource/zeri/vocabulary/mostra_di_finestra,https://artresearch.net/resource/zeri/work/76547
+1,oculo,"oculi (openings) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300069431,,https://artresearch.net/resource/zeri/vocabulary/oculo,https://artresearch.net/resource/zeri/work/80034
+1,pannello di macchina processionale,"macchine (structures) [en]
+macchina processionale [it]",Objects Facet,,http://vocab.getty.edu/aat/300048776,https://artresearch.net/resource/zeri/vocabulary/pannello_di_macchina_processionale,https://artresearch.net/resource/zeri/work/28283
+1,pannello di macchina processionale,"panels (surface components) [en]
+",Objects Facet,,http://vocab.getty.edu/aat/300069079,https://artresearch.net/resource/zeri/vocabulary/pannello_di_macchina_processionale,https://artresearch.net/resource/zeri/work/28283
+1,pannello di paliotto,"antependia [en]
+Antependium [de]
+antependii [it]",Objects Facet,,http://vocab.getty.edu/aat/300265255,https://artresearch.net/resource/zeri/vocabulary/pannello_di_paliotto,https://artresearch.net/resource/zeri/work/101778
+1,pannello di paliotto,"panels (ornament areas) [en]
+",Physical Attributes Facet,,http://vocab.getty.edu/aat/300010261,https://artresearch.net/resource/zeri/vocabulary/pannello_di_paliotto,https://artresearch.net/resource/zeri/work/101778
+1,picchiotto,"door knockers [en]
+",Objects Facet,http://vocab.getty.edu/aat/300080114,,https://artresearch.net/resource/zeri/vocabulary/picchiotto,https://artresearch.net/resource/zeri/work/81723
+1,quadro a commesso,"commessi (visual works) [en]
+Commesso [de]
+",Objects Facet,http://vocab.getty.edu/aat/300265241,,https://artresearch.net/resource/zeri/vocabulary/quadro_a_commesso,https://artresearch.net/resource/zeri/work/67463
+1,reggitorce,"torch holders [en]
+Fackelhalter [de]
+",Objects Facet,http://vocab.getty.edu/aat/300181014,,https://artresearch.net/resource/zeri/vocabulary/reggitorce,https://artresearch.net/resource/zeri/work/84564
+1,"reliquiario, a polittico","reliquaries [en]
+Reliquiar [de]
+reliquiari [it]",Objects Facet,,http://vocab.getty.edu/aat/300187549,https://artresearch.net/resource/zeri/vocabulary/reliquiario_a_polittico,https://artresearch.net/resource/zeri/work/5739
+1,saliera,"saltshakers [en]
+",Objects Facet,http://vocab.getty.edu/aat/300043088,,https://artresearch.net/resource/zeri/vocabulary/saliera,https://artresearch.net/resource/zeri/work/82887
+1,scala,"stairs (series of steps) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300003228,,https://artresearch.net/resource/zeri/vocabulary/scala,https://artresearch.net/resource/zeri/work/77257
+1,scrittoio portatile,"portable desks [en]
+",Objects Facet,http://vocab.getty.edu/aat/300143809,,https://artresearch.net/resource/zeri/vocabulary/scrittoio_portatile,https://artresearch.net/resource/zeri/work/81233
+1,scudo,"shields (armor) [en]
+",Objects Facet,http://vocab.getty.edu/aat/300036869,,https://artresearch.net/resource/zeri/vocabulary/scudo,https://artresearch.net/resource/zeri/work/75135
+1,stele,"stelae [en]
+Stele [de]
+steli [it]",Objects Facet,http://vocab.getty.edu/aat/300007023,,https://artresearch.net/resource/zeri/vocabulary/stele,https://artresearch.net/resource/zeri/work/84605
+1,tabella di confraternita,,Objects Facet,http://vocab.getty.edu/aat/300391168,,https://artresearch.net/resource/zeri/vocabulary/tabella_di_confraternita,https://artresearch.net/resource/zeri/work/2840
+1,tabernacolo pensile,"tabernacles (liturgical containers) [en]
+Tabernakel [de]
+tabernacoli (contenitori liturgici) [it]",Objects Facet,,http://vocab.getty.edu/aat/300207778,https://artresearch.net/resource/zeri/vocabulary/tabernacolo_pensile,https://artresearch.net/resource/zeri/work/83172
+1,tessuto,,Materials Facet,http://vocab.getty.edu/aat/300231566,,https://artresearch.net/resource/zeri/vocabulary/tessuto,https://artresearch.net/resource/zeri/work/29908
+1,tomba,"command=python3 ./bin/zeri/download_sheets.py ""https://docs.google.com/spreadsheets/d/19KBIEYefmsZF1p04k0Mq35yV1eS5a2smtWQcHSO_e0c/edit?usp=sharing"" %(vocabularies_csv_dir)s '{""OGTD"": ""artwork_ogtd"", ""OGTT"": ""artwork_ogtt"", ""MTC"": ""artwork_mtc"", ""SGLS corrected"": ""sgls""}'",Objects Facet,http://vocab.getty.edu/aat/300005926,,https://artresearch.net/resource/zeri/vocabulary/tomba,https://artresearch.net/resource/zeri/work/77089
+1,tronetto,"exposition thrones [en]
+",Objects Facet,http://vocab.getty.edu/aat/300262826,,https://artresearch.net/resource/zeri/vocabulary/tronetto,https://artresearch.net/resource/zeri/work/82803
+1,urna,"urns [en]
+urna (contenitore) [it]",Objects Facet,http://vocab.getty.edu/aat/300129425,,https://artresearch.net/resource/zeri/vocabulary/urna,https://artresearch.net/resource/zeri/work/82269
+1,vetro dorato,,,,,https://artresearch.net/resource/zeri/vocabulary/vetro_dorato,https://artresearch.net/resource/zeri/work/10504
+1,fusto di colonna,,,,,https://artresearch.net/resource/zeri/vocabulary/fusto_di_colonna,https://artresearch.net/resource/zeri/work/77234
+1,reliquiario architettonico,,,,,https://artresearch.net/resource/zeri/vocabulary/reliquiario_architettonico,https://artresearch.net/resource/zeri/work/76922
+1,mostra d'arco,,,,,https://artresearch.net/resource/zeri/vocabulary/mostra_d_arco,https://artresearch.net/resource/zeri/work/72896
